@@ -1,0 +1,31 @@
+Load_ID,Name,Gender,Married,Dependent,Education,Self_Employed,Application_No,Loan_Amount
+L001,Alice Johnson,Female,No,,Graduate,Yes,APP1001,123576.0
+L002,Brian Smith,Male,,3+,Not Graduate,Yes,APP1002,
+L003,Charles Gomez,Female,,2,Not Graduate,No,APP1003,143934.0
+L004,Deepa Patel,Female,Yes,1,Not Graduate,No,APP1004,364362.0
+L005,Ethan McKenzie,Female,Yes,,Graduate,No,APP1005,467408.0
+L006,Farah Khan,Male,Yes,0,Not Graduate,Yes,APP1006,
+L007,George Brown,Male,No,,Not Graduate,Yes,APP1007,
+L008,Hannah Lee,Male,,3+,Not Graduate,,APP1008,277525.0
+L009,Ian Clarke,Female,,1,Graduate,Yes,APP1009,
+L010,Jasmine Kaur,Female,,2,Graduate,Yes,APP1010,426367.0
+L011,Kevin Liu,Female,No,3+,Not Graduate,No,APP1011,
+L012,Laura Adams,Male,No,,Not Graduate,Yes,APP1012,
+L013,Mohammed Ali,Female,Yes,3+,Not Graduate,,APP1013,354130.0
+L014,Nina Roberts,Male,No,2,Not Graduate,,APP1014,
+L015,Oscar Trent,Male,No,0,Graduate,,APP1015,391558.0
+L016,Priya Das,Female,Yes,1,Graduate,,APP1016,
+L017,Quentin Fox,Male,No,1,Graduate,,APP1017,424022.0
+L018,Riya Sharma,Female,No,2,Graduate,Yes,APP1018,476509.0
+L019,Samir Patel,Male,No,3+,Not Graduate,Yes,APP1019,200912.0
+L020,Tina O'Brien,Male,Yes,,Not Graduate,No,APP1020,179707.0
+L021,Usman Malik,Female,Yes,1,Not Graduate,,APP1021,230423.0
+L022,Victoria Green,Male,,2,Graduate,Yes,APP1022,406142.0
+L023,William Scott,Male,Yes,0,Graduate,Yes,APP1023,111401.0
+L024,Xena Ray,Male,Yes,3+,Not Graduate,Yes,APP1024,
+L025,Yusuf Amin,Male,Yes,3+,Graduate,,APP1025,451052.0
+L026,Zara Khan,Male,,2,Not Graduate,No,APP1026,273466.0
+L027,Aarav Singh,Female,No,,Graduate,Yes,APP1027,149658.0
+L028,Bella Chow,Male,,2,Not Graduate,Yes,APP1028,
+L029,Carlos Rivera,Female,,2,Not Graduate,,APP1029,486557.0
+L030,Diana Moon,Male,,,Not Graduate,No,APP1030,

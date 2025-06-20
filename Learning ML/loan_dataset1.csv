@@ -1,0 +1,1001 @@
+Load_ID,Name,Gender,Married,Dependent,Education,Self_Employed,Application_No,Loan_Amount
+LID1000,Alice,Female,No,2,Graduate,No,APP5000,384193.0
+LID1001,John,Female,Yes,,Not Graduate,No,APP5001,171298.0
+LID1002,David,Female,Yes,1,Not Graduate,Yes,APP5002,214895.0
+LID1003,Emily,Female,Yes,3+,Not Graduate,No,APP5003,411120.0
+LID1004,Emily,Female,Yes,3+,Graduate,,APP5004,326032.0
+LID1005,Bob,Female,,1,Graduate,No,APP5005,
+LID1006,Alice,Male,No,1,Not Graduate,No,APP5006,243331.0
+LID1007,Daniel,Male,No,2,Not Graduate,Yes,APP5007,341119.0
+LID1008,Alice,Female,Yes,2,Graduate,Yes,APP5008,68655.0
+LID1009,Olivia,,Yes,0,Not Graduate,Yes,APP5009,496626.0
+LID1010,Michael,Female,No,3+,Graduate,Yes,APP5010,20355.0
+LID1011,John,Male,,2,Not Graduate,No,APP5011,437776.0
+LID1012,John,Male,No,2,Graduate,No,APP5012,
+LID1013,Alice,Female,Yes,0,Graduate,Yes,APP5013,174271.0
+LID1014,Emily,Female,No,1,Not Graduate,Yes,APP5014,384717.0
+LID1015,Emily,Female,No,3+,Not Graduate,No,APP5015,94229.0
+LID1016,Daniel,,No,3+,Not Graduate,No,APP5016,384641.0
+LID1017,Olivia,Male,No,,Not Graduate,Yes,APP5017,198399.0
+LID1018,John,Female,Yes,1,Not Graduate,Yes,APP5018,286835.0
+LID1019,Daniel,Female,Yes,1,Not Graduate,Yes,APP5019,494742.0
+LID1020,Emily,Female,Yes,0,Not Graduate,No,APP5020,32520.0
+LID1021,Daniel,Female,No,0,Not Graduate,No,APP5021,416536.0
+LID1022,Michael,Female,No,1,Not Graduate,No,APP5022,
+LID1023,Emily,Male,Yes,2,Graduate,No,APP5023,
+LID1024,Emma,Male,No,,Not Graduate,Yes,APP5024,143268.0
+LID1025,Olivia,Female,Yes,0,Not Graduate,Yes,APP5025,326257.0
+LID1026,David,Male,,3+,Graduate,Yes,APP5026,203996.0
+LID1027,John,Male,No,,Not Graduate,No,APP5027,94306.0
+LID1028,Bob,Male,Yes,1,Graduate,No,APP5028,310897.0
+LID1029,Michael,Female,No,2,Graduate,Yes,APP5029,71211.0
+LID1030,Sophia,Male,Yes,1,Graduate,Yes,APP5030,82595.0
+LID1031,David,Male,No,0,Graduate,Yes,APP5031,470462.0
+LID1032,Bob,Female,No,0,Graduate,No,APP5032,474487.0
+LID1033,Emily,Male,Yes,0,Graduate,No,APP5033,239241.0
+LID1034,Sophia,Male,,2,Graduate,No,APP5034,278554.0
+LID1035,Alice,Male,No,,Not Graduate,,APP5035,307978.0
+LID1036,Alice,Female,Yes,0,Not Graduate,Yes,APP5036,261955.0
+LID1037,Michael,Male,,,Graduate,,APP5037,173774.0
+LID1038,Alice,Male,Yes,2,Not Graduate,No,APP5038,258077.0
+LID1039,Sophia,Female,Yes,0,Not Graduate,,APP5039,143313.0
+LID1040,Sophia,Male,Yes,3+,Graduate,No,APP5040,377968.0
+LID1041,Olivia,Female,No,3+,Not Graduate,Yes,APP5041,297822.0
+LID1042,David,Male,Yes,0,Graduate,Yes,APP5042,132074.0
+LID1043,John,Female,No,3+,Not Graduate,No,APP5043,390492.0
+LID1044,Emma,Female,Yes,0,Not Graduate,Yes,APP5044,369361.0
+LID1045,Daniel,Female,,3+,Not Graduate,No,APP5045,264315.0
+LID1046,Alice,Female,,0,Not Graduate,Yes,APP5046,11882.0
+LID1047,Michael,Male,No,,Not Graduate,No,APP5047,250445.0
+LID1048,Alice,Female,Yes,2,Graduate,Yes,APP5048,103522.0
+LID1049,Daniel,Female,No,3+,Graduate,Yes,APP5049,183493.0
+LID1050,David,Female,No,0,Graduate,Yes,APP5050,314604.0
+LID1051,Olivia,Female,,2,Not Graduate,No,APP5051,274445.0
+LID1052,Sophia,,No,2,Graduate,No,APP5052,403714.0
+LID1053,Olivia,Female,No,2,Graduate,No,APP5053,376464.0
+LID1054,Emily,Male,No,2,Not Graduate,Yes,APP5054,85739.0
+LID1055,Alice,Female,Yes,0,Graduate,No,APP5055,60396.0
+LID1056,John,Female,Yes,2,Graduate,,APP5056,119706.0
+LID1057,Emily,Male,No,2,Not Graduate,Yes,APP5057,207152.0
+LID1058,David,Female,Yes,1,Graduate,No,APP5058,460007.0
+LID1059,Alice,Male,Yes,,Graduate,Yes,APP5059,111441.0
+LID1060,Emily,Male,No,1,Graduate,No,APP5060,103541.0
+LID1061,Alice,Male,No,1,Not Graduate,No,APP5061,226823.0
+LID1062,Michael,Female,,2,Graduate,No,APP5062,166033.0
+LID1063,David,,Yes,2,Graduate,Yes,APP5063,307641.0
+LID1064,Emma,Male,Yes,1,Not Graduate,Yes,APP5064,82222.0
+LID1065,Sophia,Female,Yes,1,Graduate,No,APP5065,61189.0
+LID1066,Bob,Female,No,1,Not Graduate,Yes,APP5066,131124.0
+LID1067,Sophia,Male,No,2,Graduate,Yes,APP5067,
+LID1068,Sophia,Female,No,1,Not Graduate,Yes,APP5068,144857.0
+LID1069,Emily,Female,Yes,1,Graduate,Yes,APP5069,
+LID1070,David,Female,,1,Not Graduate,No,APP5070,242314.0
+LID1071,Alice,Female,Yes,0,Not Graduate,Yes,APP5071,67037.0
+LID1072,Olivia,Female,No,1,Graduate,Yes,APP5072,49075.0
+LID1073,Bob,Female,,2,Not Graduate,No,APP5073,116183.0
+LID1074,Daniel,Female,No,3+,Graduate,Yes,APP5074,268292.0
+LID1075,Emily,Male,Yes,2,Graduate,Yes,APP5075,179975.0
+LID1076,Bob,Male,Yes,2,Graduate,No,APP5076,147915.0
+LID1077,Emma,Female,Yes,1,Not Graduate,Yes,APP5077,30760.0
+LID1078,Michael,Female,Yes,1,Not Graduate,Yes,APP5078,388779.0
+LID1079,David,Female,Yes,,Not Graduate,Yes,APP5079,106676.0
+LID1080,Daniel,,No,2,Not Graduate,No,APP5080,216126.0
+LID1081,Emily,Female,Yes,1,Graduate,No,APP5081,149664.0
+LID1082,Sophia,Female,No,1,Not Graduate,No,APP5082,263797.0
+LID1083,John,Female,No,2,Graduate,,APP5083,62244.0
+LID1084,Emily,Male,Yes,,Not Graduate,Yes,APP5084,343870.0
+LID1085,John,Female,No,1,Not Graduate,No,APP5085,63239.0
+LID1086,Sophia,Male,Yes,3+,Graduate,Yes,APP5086,32859.0
+LID1087,Michael,Female,Yes,2,Graduate,,APP5087,306586.0
+LID1088,David,Female,No,3+,Graduate,No,APP5088,39522.0
+LID1089,Alice,Male,Yes,1,Not Graduate,No,APP5089,149420.0
+LID1090,Emily,Male,Yes,1,Not Graduate,Yes,APP5090,330174.0
+LID1091,Olivia,Female,,,Graduate,Yes,APP5091,217105.0
+LID1092,Sophia,Male,Yes,0,Graduate,Yes,APP5092,58112.0
+LID1093,Emily,Male,Yes,3+,Not Graduate,No,APP5093,437049.0
+LID1094,Emma,Female,Yes,1,Graduate,Yes,APP5094,145649.0
+LID1095,Michael,Female,No,0,Not Graduate,Yes,APP5095,94668.0
+LID1096,Emma,Male,No,3+,Not Graduate,Yes,APP5096,187259.0
+LID1097,Bob,Male,,3+,Graduate,Yes,APP5097,375070.0
+LID1098,David,Female,Yes,3+,Graduate,Yes,APP5098,389765.0
+LID1099,Bob,Female,No,3+,Not Graduate,Yes,APP5099,
+LID1100,Emily,,No,0,Graduate,Yes,APP5100,480939.0
+LID1101,Daniel,Female,No,3+,Graduate,No,APP5101,254958.0
+LID1102,Daniel,Male,No,3+,Graduate,Yes,APP5102,451989.0
+LID1103,David,Male,Yes,0,Graduate,,APP5103,130105.0
+LID1104,Olivia,Female,No,3+,Not Graduate,Yes,APP5104,362272.0
+LID1105,Michael,Female,No,0,Not Graduate,No,APP5105,103222.0
+LID1106,Olivia,Female,Yes,1,Not Graduate,Yes,APP5106,243664.0
+LID1107,Michael,Male,No,3+,Graduate,,APP5107,11676.0
+LID1108,Sophia,Female,Yes,0,Graduate,Yes,APP5108,229354.0
+LID1109,Emily,Male,No,0,Not Graduate,Yes,APP5109,98069.0
+LID1110,Bob,Male,Yes,3+,Not Graduate,Yes,APP5110,467032.0
+LID1111,Daniel,Female,No,2,Not Graduate,Yes,APP5111,361097.0
+LID1112,Emma,Male,Yes,2,Not Graduate,Yes,APP5112,10103.0
+LID1113,Alice,Male,No,3+,Graduate,Yes,APP5113,253423.0
+LID1114,John,Male,Yes,0,Not Graduate,Yes,APP5114,261013.0
+LID1115,Alice,Male,Yes,1,Graduate,No,APP5115,252761.0
+LID1116,Bob,Male,Yes,3+,Not Graduate,Yes,APP5116,434353.0
+LID1117,Bob,Male,Yes,,Graduate,No,APP5117,
+LID1118,Michael,Male,No,1,Not Graduate,Yes,APP5118,157388.0
+LID1119,Olivia,Female,Yes,1,Not Graduate,Yes,APP5119,280392.0
+LID1120,Alice,Male,No,2,Not Graduate,Yes,APP5120,400833.0
+LID1121,Michael,Male,No,1,Not Graduate,,APP5121,54235.0
+LID1122,Michael,Female,Yes,1,Not Graduate,Yes,APP5122,426471.0
+LID1123,Olivia,Male,Yes,0,Not Graduate,No,APP5123,242301.0
+LID1124,Emma,Male,Yes,1,Graduate,No,APP5124,188910.0
+LID1125,Daniel,Male,No,0,Not Graduate,No,APP5125,139920.0
+LID1126,David,Female,No,,Not Graduate,,APP5126,137926.0
+LID1127,Daniel,Male,No,2,Graduate,No,APP5127,12109.0
+LID1128,John,Female,No,,Not Graduate,No,APP5128,162880.0
+LID1129,Alice,Male,No,1,Not Graduate,Yes,APP5129,472335.0
+LID1130,Daniel,Male,Yes,3+,Graduate,Yes,APP5130,353094.0
+LID1131,David,Male,Yes,,Graduate,Yes,APP5131,477995.0
+LID1132,Sophia,Female,Yes,2,Not Graduate,No,APP5132,258941.0
+LID1133,Alice,Male,No,1,Not Graduate,Yes,APP5133,364548.0
+LID1134,David,Female,Yes,1,Graduate,No,APP5134,340439.0
+LID1135,Michael,Female,,0,Graduate,No,APP5135,
+LID1136,Bob,Female,No,2,Not Graduate,,APP5136,453929.0
+LID1137,Emma,Female,Yes,3+,Graduate,,APP5137,79256.0
+LID1138,John,Male,Yes,1,Not Graduate,No,APP5138,21202.0
+LID1139,David,Male,No,1,Not Graduate,Yes,APP5139,393503.0
+LID1140,Daniel,Female,No,0,Not Graduate,Yes,APP5140,230821.0
+LID1141,Bob,Female,Yes,2,Graduate,Yes,APP5141,395261.0
+LID1142,Daniel,Female,No,,Not Graduate,No,APP5142,487684.0
+LID1143,Alice,Female,Yes,3+,Not Graduate,Yes,APP5143,339880.0
+LID1144,David,Male,Yes,0,Graduate,,APP5144,148615.0
+LID1145,Daniel,Male,No,3+,Graduate,No,APP5145,360887.0
+LID1146,Olivia,Male,No,3+,Not Graduate,No,APP5146,483355.0
+LID1147,Emily,Female,Yes,3+,Graduate,Yes,APP5147,464324.0
+LID1148,Bob,Male,No,,Not Graduate,No,APP5148,144098.0
+LID1149,Sophia,Female,No,1,Not Graduate,No,APP5149,187895.0
+LID1150,Bob,Female,,2,Graduate,No,APP5150,210010.0
+LID1151,Daniel,Female,,1,Graduate,Yes,APP5151,149833.0
+LID1152,Daniel,Male,No,,Graduate,No,APP5152,26548.0
+LID1153,John,Male,Yes,2,Graduate,No,APP5153,372964.0
+LID1154,Olivia,Female,No,,Not Graduate,Yes,APP5154,326056.0
+LID1155,Sophia,Male,No,2,Not Graduate,No,APP5155,421983.0
+LID1156,Emma,Female,No,0,Graduate,Yes,APP5156,420511.0
+LID1157,John,Female,No,,Not Graduate,Yes,APP5157,156209.0
+LID1158,Alice,Female,No,1,Not Graduate,Yes,APP5158,9369.0
+LID1159,Sophia,Male,,2,Not Graduate,No,APP5159,364413.0
+LID1160,David,Female,Yes,1,Not Graduate,Yes,APP5160,361999.0
+LID1161,Emily,Male,No,2,Graduate,Yes,APP5161,156929.0
+LID1162,John,Female,No,0,Graduate,,APP5162,353295.0
+LID1163,Emily,Male,,2,Graduate,Yes,APP5163,260236.0
+LID1164,Olivia,Female,No,3+,Not Graduate,,APP5164,424317.0
+LID1165,Alice,Female,No,3+,Graduate,Yes,APP5165,242952.0
+LID1166,Alice,Female,Yes,0,Graduate,Yes,APP5166,
+LID1167,Emma,Male,Yes,1,Not Graduate,Yes,APP5167,315940.0
+LID1168,Alice,Female,,2,Graduate,Yes,APP5168,261044.0
+LID1169,Daniel,,No,3+,Graduate,No,APP5169,230613.0
+LID1170,Bob,Female,Yes,1,Not Graduate,Yes,APP5170,442313.0
+LID1171,Bob,Female,No,0,Not Graduate,Yes,APP5171,
+LID1172,Emma,,No,0,Not Graduate,No,APP5172,188615.0
+LID1173,Daniel,Female,No,2,Not Graduate,No,APP5173,416704.0
+LID1174,Bob,Male,Yes,2,Not Graduate,Yes,APP5174,353822.0
+LID1175,David,Male,Yes,2,Not Graduate,No,APP5175,298994.0
+LID1176,Daniel,Female,Yes,3+,Not Graduate,,APP5176,50090.0
+LID1177,Olivia,Female,Yes,3+,Graduate,No,APP5177,79786.0
+LID1178,Michael,Female,No,1,Graduate,No,APP5178,108141.0
+LID1179,Emily,Male,Yes,1,Graduate,No,APP5179,486432.0
+LID1180,Daniel,Male,Yes,1,Graduate,No,APP5180,119744.0
+LID1181,Emily,Male,No,,Not Graduate,,APP5181,
+LID1182,David,Female,,,Graduate,Yes,APP5182,135405.0
+LID1183,Michael,Female,Yes,0,Not Graduate,No,APP5183,338994.0
+LID1184,Sophia,Female,Yes,1,Graduate,Yes,APP5184,214250.0
+LID1185,Emma,Male,No,3+,Graduate,Yes,APP5185,56452.0
+LID1186,Daniel,Male,Yes,2,Not Graduate,No,APP5186,487446.0
+LID1187,Emma,Male,,1,Graduate,No,APP5187,167915.0
+LID1188,Alice,Female,No,,Graduate,No,APP5188,233493.0
+LID1189,Emily,Female,No,2,Graduate,,APP5189,174072.0
+LID1190,Emily,,Yes,0,Not Graduate,No,APP5190,77968.0
+LID1191,Alice,Male,No,2,Not Graduate,Yes,APP5191,109598.0
+LID1192,Sophia,,Yes,0,Not Graduate,,APP5192,223267.0
+LID1193,John,Male,Yes,2,Not Graduate,No,APP5193,162843.0
+LID1194,Olivia,Female,Yes,0,Not Graduate,No,APP5194,160888.0
+LID1195,Daniel,Male,No,1,Not Graduate,No,APP5195,334420.0
+LID1196,Emily,,No,2,Not Graduate,No,APP5196,101139.0
+LID1197,Olivia,Male,No,3+,Not Graduate,Yes,APP5197,464235.0
+LID1198,Emily,Male,No,0,Graduate,Yes,APP5198,55353.0
+LID1199,John,Female,,3+,Graduate,Yes,APP5199,236683.0
+LID1200,Alice,Male,Yes,3+,Graduate,Yes,APP5200,269144.0
+LID1201,John,Female,No,2,Graduate,No,APP5201,378606.0
+LID1202,Emily,Female,,3+,Graduate,No,APP5202,190699.0
+LID1203,Alice,Female,No,0,Graduate,No,APP5203,225466.0
+LID1204,John,Female,Yes,2,Graduate,No,APP5204,246845.0
+LID1205,Sophia,Female,No,2,Graduate,No,APP5205,
+LID1206,Alice,,Yes,0,Graduate,Yes,APP5206,407008.0
+LID1207,Daniel,Female,No,2,Graduate,Yes,APP5207,401286.0
+LID1208,Emily,Female,No,2,Not Graduate,No,APP5208,480449.0
+LID1209,David,Male,Yes,,Graduate,Yes,APP5209,132216.0
+LID1210,Emma,Female,Yes,0,Graduate,Yes,APP5210,200617.0
+LID1211,Emily,Female,No,3+,Not Graduate,No,APP5211,289829.0
+LID1212,Daniel,Female,No,1,Graduate,Yes,APP5212,465222.0
+LID1213,Bob,Male,No,3+,Graduate,Yes,APP5213,401013.0
+LID1214,Olivia,Male,Yes,0,Not Graduate,,APP5214,71026.0
+LID1215,Olivia,Male,Yes,2,Not Graduate,No,APP5215,8121.0
+LID1216,Emma,Female,No,2,Graduate,Yes,APP5216,405029.0
+LID1217,Emily,Male,No,2,Not Graduate,Yes,APP5217,246288.0
+LID1218,Emma,Male,Yes,3+,Not Graduate,Yes,APP5218,49385.0
+LID1219,Michael,Male,,2,Graduate,No,APP5219,440103.0
+LID1220,Emily,Male,No,2,Graduate,No,APP5220,61124.0
+LID1221,Alice,Female,Yes,2,Graduate,No,APP5221,56065.0
+LID1222,Alice,Female,Yes,2,Graduate,Yes,APP5222,301455.0
+LID1223,Michael,Female,Yes,1,Not Graduate,No,APP5223,178700.0
+LID1224,Sophia,Female,,3+,Not Graduate,No,APP5224,68670.0
+LID1225,Michael,Male,,3+,Not Graduate,No,APP5225,358586.0
+LID1226,Michael,Female,Yes,1,Graduate,Yes,APP5226,380889.0
+LID1227,Emma,Male,No,3+,Not Graduate,No,APP5227,112512.0
+LID1228,John,Male,Yes,2,Graduate,,APP5228,299675.0
+LID1229,Alice,Female,Yes,1,Graduate,,APP5229,264682.0
+LID1230,John,,No,0,Not Graduate,No,APP5230,474265.0
+LID1231,Michael,Female,No,1,Not Graduate,No,APP5231,451827.0
+LID1232,Sophia,Male,No,0,Graduate,No,APP5232,334378.0
+LID1233,Alice,Female,No,0,Not Graduate,Yes,APP5233,496012.0
+LID1234,Emily,Male,Yes,,Graduate,Yes,APP5234,
+LID1235,Emily,Male,No,0,Graduate,Yes,APP5235,365592.0
+LID1236,Emily,Female,,0,Not Graduate,Yes,APP5236,40201.0
+LID1237,Daniel,Male,Yes,2,Not Graduate,Yes,APP5237,
+LID1238,Emma,Female,Yes,,Not Graduate,Yes,APP5238,68456.0
+LID1239,Bob,Male,No,1,Not Graduate,No,APP5239,134607.0
+LID1240,Michael,Male,Yes,1,Graduate,Yes,APP5240,253377.0
+LID1241,Bob,,Yes,2,Not Graduate,Yes,APP5241,
+LID1242,David,Female,Yes,0,Not Graduate,,APP5242,209846.0
+LID1243,Emma,Male,Yes,1,Not Graduate,,APP5243,68864.0
+LID1244,Emily,Female,No,0,Not Graduate,Yes,APP5244,258608.0
+LID1245,Alice,Female,No,0,Graduate,Yes,APP5245,435058.0
+LID1246,Emma,Male,No,2,Graduate,Yes,APP5246,449453.0
+LID1247,Daniel,Female,No,2,Graduate,,APP5247,435800.0
+LID1248,Alice,Male,No,2,Not Graduate,Yes,APP5248,235230.0
+LID1249,John,Female,No,1,Not Graduate,Yes,APP5249,328568.0
+LID1250,Daniel,Male,Yes,,Graduate,,APP5250,81675.0
+LID1251,John,Male,No,2,Not Graduate,Yes,APP5251,101892.0
+LID1252,Alice,Female,No,0,Not Graduate,No,APP5252,395384.0
+LID1253,Emily,Female,Yes,3+,Not Graduate,No,APP5253,94535.0
+LID1254,Bob,Male,No,0,Graduate,No,APP5254,371806.0
+LID1255,Michael,Female,No,0,Not Graduate,No,APP5255,254644.0
+LID1256,Emma,Female,No,,Not Graduate,Yes,APP5256,156754.0
+LID1257,Emma,Male,No,3+,Not Graduate,No,APP5257,313681.0
+LID1258,Emily,Female,Yes,2,Not Graduate,Yes,APP5258,355066.0
+LID1259,Michael,Male,No,1,Graduate,No,APP5259,207281.0
+LID1260,John,Male,Yes,0,Graduate,Yes,APP5260,61274.0
+LID1261,Bob,Female,No,3+,Not Graduate,No,APP5261,431504.0
+LID1262,Michael,Female,No,0,Graduate,Yes,APP5262,19664.0
+LID1263,John,Male,No,3+,Not Graduate,,APP5263,67980.0
+LID1264,Michael,Female,Yes,,Not Graduate,No,APP5264,10777.0
+LID1265,David,Male,Yes,3+,Not Graduate,Yes,APP5265,22869.0
+LID1266,Emma,Male,Yes,1,Graduate,No,APP5266,473305.0
+LID1267,David,Male,No,2,Graduate,Yes,APP5267,238035.0
+LID1268,Michael,Male,No,3+,Not Graduate,,APP5268,
+LID1269,Daniel,Male,Yes,2,Not Graduate,No,APP5269,78035.0
+LID1270,Emma,Male,Yes,2,Graduate,,APP5270,384094.0
+LID1271,Bob,Male,No,0,Not Graduate,Yes,APP5271,9781.0
+LID1272,Emily,Female,No,,Not Graduate,No,APP5272,192562.0
+LID1273,David,Female,Yes,3+,Not Graduate,Yes,APP5273,456423.0
+LID1274,Emily,Male,No,1,Not Graduate,No,APP5274,187889.0
+LID1275,John,Female,Yes,2,Not Graduate,Yes,APP5275,280280.0
+LID1276,Olivia,Male,No,1,Graduate,No,APP5276,37907.0
+LID1277,Daniel,Female,No,3+,Graduate,Yes,APP5277,84378.0
+LID1278,John,Female,No,0,Not Graduate,No,APP5278,382072.0
+LID1279,Sophia,Female,Yes,0,Graduate,Yes,APP5279,245900.0
+LID1280,John,Male,Yes,3+,Not Graduate,Yes,APP5280,417455.0
+LID1281,John,Male,Yes,3+,Graduate,Yes,APP5281,416545.0
+LID1282,Olivia,Male,No,1,Graduate,No,APP5282,163822.0
+LID1283,Emma,Female,No,3+,Graduate,No,APP5283,40761.0
+LID1284,Daniel,Male,,2,Graduate,No,APP5284,343236.0
+LID1285,Daniel,Male,Yes,3+,Not Graduate,Yes,APP5285,252334.0
+LID1286,Bob,Male,No,3+,Graduate,Yes,APP5286,99568.0
+LID1287,John,Male,No,2,Not Graduate,Yes,APP5287,491231.0
+LID1288,Daniel,Male,Yes,1,Not Graduate,Yes,APP5288,350456.0
+LID1289,Alice,Male,No,0,Not Graduate,No,APP5289,72854.0
+LID1290,Bob,Female,Yes,3+,Graduate,No,APP5290,313728.0
+LID1291,Alice,Female,Yes,3+,Graduate,No,APP5291,187502.0
+LID1292,Olivia,Female,,0,Graduate,Yes,APP5292,440099.0
+LID1293,Alice,Male,Yes,1,Graduate,No,APP5293,28555.0
+LID1294,Emily,Male,Yes,3+,Not Graduate,,APP5294,
+LID1295,Michael,Male,Yes,,Not Graduate,Yes,APP5295,126479.0
+LID1296,Alice,Female,No,3+,Not Graduate,Yes,APP5296,60690.0
+LID1297,Olivia,Male,No,0,Graduate,No,APP5297,361160.0
+LID1298,Emily,,No,,Graduate,No,APP5298,403411.0
+LID1299,Olivia,Female,Yes,0,Graduate,No,APP5299,409615.0
+LID1300,Olivia,Male,No,1,Graduate,Yes,APP5300,389118.0
+LID1301,John,Female,No,2,Not Graduate,No,APP5301,60276.0
+LID1302,Olivia,Male,Yes,3+,Not Graduate,,APP5302,96225.0
+LID1303,Alice,Male,,2,Graduate,,APP5303,206370.0
+LID1304,Michael,Male,,2,Graduate,Yes,APP5304,225230.0
+LID1305,Olivia,Female,Yes,3+,Graduate,Yes,APP5305,37467.0
+LID1306,Olivia,Female,No,2,Graduate,Yes,APP5306,65017.0
+LID1307,Daniel,Male,Yes,0,Not Graduate,No,APP5307,
+LID1308,Sophia,,No,3+,Not Graduate,Yes,APP5308,236488.0
+LID1309,David,Female,Yes,2,Not Graduate,Yes,APP5309,322998.0
+LID1310,Emily,Female,No,,Not Graduate,No,APP5310,20445.0
+LID1311,Sophia,Male,No,0,Graduate,No,APP5311,173379.0
+LID1312,Emily,Male,Yes,,Not Graduate,Yes,APP5312,240672.0
+LID1313,David,Female,No,2,Graduate,Yes,APP5313,339178.0
+LID1314,Michael,Female,Yes,2,Graduate,Yes,APP5314,109718.0
+LID1315,Bob,Female,No,1,Graduate,No,APP5315,262479.0
+LID1316,David,Male,,3+,Not Graduate,No,APP5316,154993.0
+LID1317,Emma,Female,Yes,3+,Not Graduate,No,APP5317,394102.0
+LID1318,Sophia,Male,Yes,3+,Graduate,Yes,APP5318,431685.0
+LID1319,Alice,Female,Yes,1,Graduate,Yes,APP5319,419189.0
+LID1320,John,,Yes,1,Graduate,Yes,APP5320,310192.0
+LID1321,Emma,Female,No,2,Graduate,No,APP5321,
+LID1322,Olivia,Male,Yes,1,Graduate,Yes,APP5322,55439.0
+LID1323,Olivia,Male,Yes,1,Graduate,No,APP5323,429677.0
+LID1324,Alice,Male,Yes,0,Graduate,Yes,APP5324,7745.0
+LID1325,Alice,Female,,1,Graduate,No,APP5325,218923.0
+LID1326,Daniel,Female,No,3+,Not Graduate,,APP5326,458242.0
+LID1327,Emily,Male,No,1,Graduate,Yes,APP5327,102152.0
+LID1328,Daniel,Female,Yes,,Not Graduate,Yes,APP5328,482620.0
+LID1329,David,Female,Yes,3+,Not Graduate,Yes,APP5329,281905.0
+LID1330,Bob,Male,Yes,3+,Not Graduate,Yes,APP5330,441418.0
+LID1331,Sophia,Female,No,3+,Graduate,Yes,APP5331,438888.0
+LID1332,Alice,,Yes,3+,Graduate,No,APP5332,189604.0
+LID1333,Emily,Male,Yes,1,Not Graduate,Yes,APP5333,476731.0
+LID1334,Sophia,Female,Yes,0,Not Graduate,No,APP5334,77285.0
+LID1335,David,Female,Yes,1,Graduate,No,APP5335,235098.0
+LID1336,Bob,Female,Yes,2,Graduate,No,APP5336,202194.0
+LID1337,Emma,Male,Yes,2,Graduate,No,APP5337,303399.0
+LID1338,Daniel,Male,No,,Not Graduate,Yes,APP5338,415196.0
+LID1339,David,Female,Yes,,Not Graduate,No,APP5339,57907.0
+LID1340,Olivia,Female,Yes,2,Graduate,,APP5340,125886.0
+LID1341,Daniel,Female,No,3+,Graduate,Yes,APP5341,288397.0
+LID1342,John,Female,Yes,0,Not Graduate,No,APP5342,122451.0
+LID1343,Daniel,Male,,2,Not Graduate,Yes,APP5343,156989.0
+LID1344,David,Female,,0,Not Graduate,No,APP5344,136796.0
+LID1345,Alice,Female,No,0,Graduate,No,APP5345,192645.0
+LID1346,Bob,Female,Yes,0,Graduate,Yes,APP5346,461903.0
+LID1347,David,Male,Yes,2,Not Graduate,Yes,APP5347,156031.0
+LID1348,Alice,Female,Yes,2,Not Graduate,Yes,APP5348,306652.0
+LID1349,Alice,Female,Yes,0,Not Graduate,Yes,APP5349,276455.0
+LID1350,Daniel,Female,No,3+,Not Graduate,Yes,APP5350,267168.0
+LID1351,Bob,Female,Yes,2,Graduate,No,APP5351,329348.0
+LID1352,David,Female,,2,Graduate,Yes,APP5352,370700.0
+LID1353,David,Male,Yes,0,Not Graduate,Yes,APP5353,310540.0
+LID1354,Olivia,Female,No,2,Graduate,No,APP5354,485977.0
+LID1355,Emily,Female,No,2,Graduate,Yes,APP5355,347481.0
+LID1356,Sophia,Male,Yes,,Not Graduate,No,APP5356,
+LID1357,Emily,Female,,1,Not Graduate,Yes,APP5357,141776.0
+LID1358,David,Male,Yes,2,Not Graduate,No,APP5358,470582.0
+LID1359,Daniel,Male,,0,Not Graduate,Yes,APP5359,78027.0
+LID1360,Emma,Female,Yes,0,Not Graduate,No,APP5360,433218.0
+LID1361,David,,No,0,Graduate,Yes,APP5361,489533.0
+LID1362,John,Female,No,2,Not Graduate,No,APP5362,483318.0
+LID1363,Alice,Male,Yes,2,Graduate,Yes,APP5363,128531.0
+LID1364,Michael,Female,No,2,Graduate,No,APP5364,427398.0
+LID1365,David,Female,No,,Graduate,No,APP5365,479126.0
+LID1366,John,Male,No,1,Graduate,Yes,APP5366,442782.0
+LID1367,John,Female,No,1,Not Graduate,Yes,APP5367,23539.0
+LID1368,Sophia,Female,No,2,Not Graduate,Yes,APP5368,42100.0
+LID1369,Bob,Male,Yes,2,Not Graduate,,APP5369,318601.0
+LID1370,David,,Yes,1,Graduate,No,APP5370,492254.0
+LID1371,Bob,Female,Yes,0,Not Graduate,Yes,APP5371,294105.0
+LID1372,Emma,Male,No,0,Graduate,Yes,APP5372,72876.0
+LID1373,Daniel,Female,No,1,Not Graduate,No,APP5373,26884.0
+LID1374,Michael,Male,No,3+,Graduate,Yes,APP5374,265359.0
+LID1375,Daniel,Female,Yes,1,Graduate,,APP5375,345963.0
+LID1376,John,Female,Yes,1,Graduate,,APP5376,255396.0
+LID1377,Alice,Male,No,2,Not Graduate,Yes,APP5377,450557.0
+LID1378,Alice,Female,No,,Not Graduate,Yes,APP5378,124409.0
+LID1379,Bob,Female,Yes,0,Not Graduate,No,APP5379,
+LID1380,Daniel,Female,No,,Not Graduate,,APP5380,410596.0
+LID1381,John,Male,,3+,Not Graduate,Yes,APP5381,107851.0
+LID1382,Sophia,Female,Yes,1,Not Graduate,Yes,APP5382,456042.0
+LID1383,Olivia,Male,No,3+,Graduate,Yes,APP5383,363400.0
+LID1384,Daniel,Male,Yes,1,Not Graduate,Yes,APP5384,294667.0
+LID1385,Bob,Male,Yes,3+,Graduate,,APP5385,207964.0
+LID1386,Michael,Male,No,,Not Graduate,No,APP5386,369611.0
+LID1387,Bob,Male,Yes,3+,Not Graduate,Yes,APP5387,372702.0
+LID1388,John,Male,,2,Graduate,Yes,APP5388,77231.0
+LID1389,David,Female,No,0,Not Graduate,,APP5389,66862.0
+LID1390,Sophia,Male,Yes,,Not Graduate,Yes,APP5390,478721.0
+LID1391,John,Male,,2,Not Graduate,,APP5391,106526.0
+LID1392,Sophia,Female,Yes,3+,Graduate,No,APP5392,486332.0
+LID1393,Emily,Female,No,2,Not Graduate,Yes,APP5393,126652.0
+LID1394,Emily,Female,,2,Graduate,Yes,APP5394,10268.0
+LID1395,Alice,Male,No,2,Graduate,Yes,APP5395,396892.0
+LID1396,Sophia,Female,Yes,3+,Not Graduate,No,APP5396,428485.0
+LID1397,Daniel,Female,,1,Not Graduate,No,APP5397,302821.0
+LID1398,Michael,Female,No,1,Graduate,No,APP5398,
+LID1399,Olivia,Male,,1,Not Graduate,No,APP5399,462837.0
+LID1400,Bob,Male,No,0,Graduate,Yes,APP5400,431047.0
+LID1401,Emily,Male,No,0,Graduate,Yes,APP5401,34703.0
+LID1402,Bob,Male,Yes,,Not Graduate,Yes,APP5402,99682.0
+LID1403,Bob,Male,No,,Not Graduate,Yes,APP5403,169692.0
+LID1404,Michael,Male,,3+,Graduate,Yes,APP5404,348518.0
+LID1405,John,Female,Yes,2,Graduate,No,APP5405,158308.0
+LID1406,Bob,Female,No,0,Graduate,No,APP5406,213571.0
+LID1407,Sophia,Female,Yes,,Not Graduate,,APP5407,69160.0
+LID1408,Michael,Female,No,,Graduate,No,APP5408,45044.0
+LID1409,Emily,Male,No,1,Not Graduate,Yes,APP5409,290027.0
+LID1410,David,Male,Yes,0,Not Graduate,Yes,APP5410,374756.0
+LID1411,Bob,Male,No,0,Graduate,No,APP5411,192148.0
+LID1412,Alice,Female,No,,Graduate,Yes,APP5412,455237.0
+LID1413,Michael,Male,No,3+,Not Graduate,Yes,APP5413,378887.0
+LID1414,John,Male,Yes,1,Not Graduate,No,APP5414,197378.0
+LID1415,Emma,Female,,1,Not Graduate,Yes,APP5415,158450.0
+LID1416,Emily,Female,Yes,3+,Graduate,Yes,APP5416,133034.0
+LID1417,Emily,Male,No,0,Graduate,Yes,APP5417,145265.0
+LID1418,Emma,Female,No,2,Graduate,No,APP5418,288859.0
+LID1419,Sophia,Female,Yes,2,Not Graduate,Yes,APP5419,33310.0
+LID1420,David,Female,No,0,Not Graduate,,APP5420,220395.0
+LID1421,Emily,Male,No,0,Graduate,Yes,APP5421,331039.0
+LID1422,Emily,Male,Yes,2,Not Graduate,No,APP5422,46128.0
+LID1423,John,Female,No,2,Not Graduate,,APP5423,76896.0
+LID1424,Emily,Female,Yes,2,Graduate,No,APP5424,278151.0
+LID1425,Michael,Female,Yes,0,Graduate,No,APP5425,393973.0
+LID1426,Sophia,Female,Yes,1,Not Graduate,Yes,APP5426,69355.0
+LID1427,David,Female,Yes,1,Not Graduate,Yes,APP5427,433018.0
+LID1428,Alice,Male,No,0,Not Graduate,Yes,APP5428,23804.0
+LID1429,David,Male,Yes,3+,Graduate,Yes,APP5429,371132.0
+LID1430,Sophia,Female,Yes,0,Not Graduate,Yes,APP5430,405656.0
+LID1431,Daniel,Female,Yes,2,Graduate,No,APP5431,64893.0
+LID1432,Michael,Male,No,0,Graduate,No,APP5432,
+LID1433,Daniel,Female,No,,Not Graduate,,APP5433,146714.0
+LID1434,Sophia,Female,Yes,3+,Graduate,No,APP5434,206419.0
+LID1435,John,Male,Yes,,Not Graduate,Yes,APP5435,49298.0
+LID1436,Alice,Female,Yes,0,Not Graduate,Yes,APP5436,453043.0
+LID1437,David,Male,No,3+,Graduate,No,APP5437,264709.0
+LID1438,Bob,Female,No,2,Graduate,No,APP5438,
+LID1439,Olivia,Female,Yes,0,Not Graduate,Yes,APP5439,237794.0
+LID1440,David,Male,No,3+,Not Graduate,Yes,APP5440,
+LID1441,John,Female,No,3+,Graduate,Yes,APP5441,101692.0
+LID1442,Alice,Male,Yes,0,Graduate,No,APP5442,284179.0
+LID1443,Olivia,Male,No,0,Graduate,,APP5443,164985.0
+LID1444,Michael,Female,No,3+,Not Graduate,No,APP5444,
+LID1445,Sophia,Female,Yes,2,Graduate,Yes,APP5445,496375.0
+LID1446,Sophia,Male,No,2,Not Graduate,No,APP5446,
+LID1447,Michael,Female,Yes,0,Graduate,Yes,APP5447,473277.0
+LID1448,Olivia,Female,Yes,2,Not Graduate,No,APP5448,439193.0
+LID1449,Daniel,Female,No,,Graduate,No,APP5449,429801.0
+LID1450,Alice,Female,No,2,Not Graduate,No,APP5450,118531.0
+LID1451,Michael,Male,No,1,Not Graduate,Yes,APP5451,183753.0
+LID1452,Olivia,Female,No,3+,Not Graduate,Yes,APP5452,330860.0
+LID1453,Emily,Female,No,2,Not Graduate,No,APP5453,229158.0
+LID1454,David,Female,Yes,0,Not Graduate,Yes,APP5454,491836.0
+LID1455,John,Male,,2,Not Graduate,Yes,APP5455,34946.0
+LID1456,Michael,Male,Yes,3+,Not Graduate,Yes,APP5456,295085.0
+LID1457,John,Female,Yes,1,Not Graduate,Yes,APP5457,383167.0
+LID1458,Daniel,Female,No,,Not Graduate,,APP5458,155690.0
+LID1459,Daniel,Male,Yes,,Graduate,No,APP5459,496769.0
+LID1460,Emily,Female,No,1,Graduate,Yes,APP5460,227211.0
+LID1461,Sophia,Male,Yes,0,Graduate,No,APP5461,302954.0
+LID1462,Michael,,No,2,Not Graduate,Yes,APP5462,141367.0
+LID1463,Alice,Female,Yes,3+,Not Graduate,Yes,APP5463,204906.0
+LID1464,Sophia,Male,No,0,Graduate,Yes,APP5464,489788.0
+LID1465,Olivia,Male,No,,Graduate,Yes,APP5465,480902.0
+LID1466,Sophia,Female,Yes,,Graduate,No,APP5466,
+LID1467,Alice,Female,No,0,Not Graduate,Yes,APP5467,148860.0
+LID1468,David,Female,No,1,Not Graduate,Yes,APP5468,136036.0
+LID1469,Daniel,Female,Yes,3+,Graduate,Yes,APP5469,160097.0
+LID1470,David,Male,,1,Graduate,No,APP5470,211884.0
+LID1471,Michael,Male,No,1,Not Graduate,No,APP5471,
+LID1472,Sophia,Female,No,0,Graduate,No,APP5472,145901.0
+LID1473,Michael,Male,Yes,3+,Not Graduate,Yes,APP5473,415216.0
+LID1474,David,Female,Yes,3+,Graduate,Yes,APP5474,409521.0
+LID1475,Daniel,Male,Yes,0,Graduate,Yes,APP5475,70172.0
+LID1476,Bob,Female,Yes,1,Not Graduate,Yes,APP5476,351437.0
+LID1477,Emily,Female,Yes,,Not Graduate,No,APP5477,143683.0
+LID1478,Michael,Male,Yes,2,Graduate,Yes,APP5478,237683.0
+LID1479,Michael,,No,0,Graduate,,APP5479,235639.0
+LID1480,Bob,Male,No,1,Graduate,No,APP5480,
+LID1481,Olivia,Female,No,0,Not Graduate,No,APP5481,
+LID1482,Olivia,Male,,0,Not Graduate,Yes,APP5482,339361.0
+LID1483,David,Male,Yes,1,Not Graduate,No,APP5483,119212.0
+LID1484,Michael,Female,,,Not Graduate,,APP5484,308861.0
+LID1485,Daniel,Male,Yes,2,Not Graduate,,APP5485,149937.0
+LID1486,John,Male,No,3+,Not Graduate,No,APP5486,294117.0
+LID1487,David,Female,No,1,Graduate,Yes,APP5487,38577.0
+LID1488,David,Female,,1,Graduate,Yes,APP5488,140269.0
+LID1489,Emily,Female,Yes,1,Graduate,Yes,APP5489,149779.0
+LID1490,Michael,Female,Yes,0,Not Graduate,No,APP5490,264485.0
+LID1491,Olivia,Female,Yes,3+,Graduate,Yes,APP5491,335478.0
+LID1492,Olivia,Male,No,2,Not Graduate,No,APP5492,461780.0
+LID1493,Sophia,Female,,3+,Not Graduate,,APP5493,30994.0
+LID1494,Emma,Male,Yes,0,Graduate,No,APP5494,348199.0
+LID1495,Emma,Female,No,3+,Graduate,No,APP5495,
+LID1496,Emma,Male,Yes,0,Not Graduate,No,APP5496,456186.0
+LID1497,Emily,Female,No,0,Graduate,Yes,APP5497,171374.0
+LID1498,Daniel,Female,Yes,,Graduate,No,APP5498,
+LID1499,Emma,Female,No,0,Not Graduate,No,APP5499,36883.0
+LID1500,Bob,Female,Yes,2,Graduate,No,APP5500,140819.0
+LID1501,Alice,Female,No,3+,Graduate,No,APP5501,13450.0
+LID1502,David,Male,Yes,1,Not Graduate,Yes,APP5502,454571.0
+LID1503,Daniel,Female,No,2,Not Graduate,Yes,APP5503,288346.0
+LID1504,Olivia,Male,,3+,Not Graduate,No,APP5504,319876.0
+LID1505,Sophia,Female,No,1,Not Graduate,,APP5505,62233.0
+LID1506,Alice,Female,No,0,Not Graduate,No,APP5506,237685.0
+LID1507,Emily,Female,No,3+,Not Graduate,Yes,APP5507,45606.0
+LID1508,David,Female,Yes,0,Not Graduate,No,APP5508,175807.0
+LID1509,Emily,Male,Yes,2,Graduate,No,APP5509,439707.0
+LID1510,Emily,Male,Yes,0,Graduate,No,APP5510,223087.0
+LID1511,Bob,Male,Yes,1,Not Graduate,Yes,APP5511,228595.0
+LID1512,John,Female,Yes,0,Not Graduate,No,APP5512,80014.0
+LID1513,John,Male,Yes,1,Not Graduate,No,APP5513,
+LID1514,Emily,Male,No,1,Graduate,Yes,APP5514,193894.0
+LID1515,Emma,,Yes,1,Not Graduate,Yes,APP5515,218981.0
+LID1516,Olivia,Male,No,1,Graduate,Yes,APP5516,201458.0
+LID1517,Alice,Female,Yes,3+,Not Graduate,Yes,APP5517,159173.0
+LID1518,Emma,Male,Yes,1,Not Graduate,,APP5518,89050.0
+LID1519,Michael,Female,,0,Graduate,No,APP5519,157501.0
+LID1520,Olivia,Male,Yes,,Not Graduate,Yes,APP5520,483083.0
+LID1521,Emily,Male,,1,Not Graduate,No,APP5521,60696.0
+LID1522,Michael,Male,,2,Graduate,Yes,APP5522,428642.0
+LID1523,Emma,Male,Yes,3+,Not Graduate,Yes,APP5523,380268.0
+LID1524,Michael,Male,Yes,,Not Graduate,Yes,APP5524,271433.0
+LID1525,Emily,Male,No,1,Graduate,Yes,APP5525,378733.0
+LID1526,Bob,Male,No,0,Graduate,Yes,APP5526,117653.0
+LID1527,John,Female,Yes,0,Graduate,No,APP5527,310495.0
+LID1528,Alice,Male,Yes,,Not Graduate,Yes,APP5528,
+LID1529,Michael,Female,Yes,3+,Graduate,Yes,APP5529,204800.0
+LID1530,Emily,Male,Yes,2,Graduate,Yes,APP5530,345374.0
+LID1531,Bob,Male,Yes,2,Graduate,Yes,APP5531,45533.0
+LID1532,Daniel,Female,Yes,0,Graduate,No,APP5532,122745.0
+LID1533,Emma,Female,No,0,Graduate,Yes,APP5533,306171.0
+LID1534,John,Male,No,3+,Not Graduate,Yes,APP5534,389801.0
+LID1535,Daniel,Female,No,3+,Graduate,,APP5535,389327.0
+LID1536,Emily,Male,Yes,0,Graduate,,APP5536,465576.0
+LID1537,Alice,Female,Yes,3+,Graduate,No,APP5537,31964.0
+LID1538,Emma,Male,No,,Graduate,Yes,APP5538,350609.0
+LID1539,Bob,,No,1,Not Graduate,No,APP5539,236220.0
+LID1540,Emma,Female,Yes,3+,Graduate,No,APP5540,107248.0
+LID1541,Daniel,Male,No,2,Graduate,No,APP5541,158650.0
+LID1542,Daniel,Female,Yes,1,Not Graduate,No,APP5542,177325.0
+LID1543,Olivia,Female,Yes,2,Graduate,No,APP5543,407466.0
+LID1544,Sophia,Male,Yes,1,Not Graduate,Yes,APP5544,126053.0
+LID1545,Emma,Male,No,,Not Graduate,Yes,APP5545,397266.0
+LID1546,Olivia,Male,Yes,2,Graduate,Yes,APP5546,368369.0
+LID1547,Daniel,,No,3+,Not Graduate,,APP5547,389197.0
+LID1548,Michael,Female,Yes,1,Graduate,Yes,APP5548,219919.0
+LID1549,Daniel,Female,Yes,1,Not Graduate,No,APP5549,189541.0
+LID1550,Emma,Male,No,1,Not Graduate,Yes,APP5550,45078.0
+LID1551,Bob,Female,Yes,1,Graduate,No,APP5551,347533.0
+LID1552,Emma,Male,Yes,1,Not Graduate,No,APP5552,125769.0
+LID1553,Emma,Female,No,,Graduate,Yes,APP5553,224598.0
+LID1554,David,Female,Yes,3+,Not Graduate,,APP5554,439016.0
+LID1555,Emily,Female,Yes,1,Not Graduate,,APP5555,70683.0
+LID1556,David,Female,Yes,3+,Not Graduate,Yes,APP5556,133421.0
+LID1557,Daniel,Male,No,3+,Graduate,No,APP5557,218708.0
+LID1558,Emma,Male,No,1,Graduate,No,APP5558,354124.0
+LID1559,Emily,Female,Yes,3+,Graduate,No,APP5559,141461.0
+LID1560,David,Female,Yes,1,Graduate,No,APP5560,184081.0
+LID1561,Emma,Female,No,0,Not Graduate,,APP5561,47732.0
+LID1562,Alice,Male,No,0,Graduate,Yes,APP5562,269779.0
+LID1563,David,Male,No,,Graduate,,APP5563,306996.0
+LID1564,Emily,Female,Yes,0,Not Graduate,Yes,APP5564,467129.0
+LID1565,David,Male,No,3+,Graduate,No,APP5565,476792.0
+LID1566,Sophia,Male,No,0,Graduate,Yes,APP5566,243063.0
+LID1567,Sophia,Male,No,1,Not Graduate,No,APP5567,
+LID1568,Daniel,Female,Yes,,Not Graduate,No,APP5568,143084.0
+LID1569,Alice,Male,No,3+,Graduate,Yes,APP5569,377968.0
+LID1570,Bob,Female,No,1,Graduate,Yes,APP5570,394469.0
+LID1571,Bob,Female,No,1,Not Graduate,,APP5571,460846.0
+LID1572,Emily,Female,No,0,Graduate,No,APP5572,
+LID1573,Michael,Female,No,,Graduate,No,APP5573,366783.0
+LID1574,Bob,Male,Yes,1,Graduate,No,APP5574,43280.0
+LID1575,Emily,Female,Yes,0,Not Graduate,Yes,APP5575,459494.0
+LID1576,Alice,Female,Yes,3+,Not Graduate,Yes,APP5576,208483.0
+LID1577,Michael,Male,Yes,3+,Graduate,Yes,APP5577,190790.0
+LID1578,Michael,Male,Yes,2,Not Graduate,No,APP5578,370391.0
+LID1579,Sophia,,Yes,0,Graduate,Yes,APP5579,378284.0
+LID1580,Daniel,Male,Yes,0,Not Graduate,Yes,APP5580,181584.0
+LID1581,Emma,Male,No,2,Not Graduate,Yes,APP5581,475996.0
+LID1582,Michael,Male,Yes,2,Not Graduate,No,APP5582,324164.0
+LID1583,John,Female,No,2,Not Graduate,Yes,APP5583,383630.0
+LID1584,Emily,,No,1,Graduate,No,APP5584,
+LID1585,Michael,Male,Yes,0,Graduate,No,APP5585,191100.0
+LID1586,Michael,Female,Yes,2,Graduate,No,APP5586,482455.0
+LID1587,Olivia,Female,No,0,Graduate,Yes,APP5587,240800.0
+LID1588,John,Female,Yes,2,Graduate,Yes,APP5588,233427.0
+LID1589,Olivia,Male,Yes,0,Not Graduate,Yes,APP5589,255140.0
+LID1590,Michael,Female,Yes,3+,Not Graduate,No,APP5590,389535.0
+LID1591,Emma,Female,Yes,2,Graduate,No,APP5591,406581.0
+LID1592,John,Male,Yes,0,Not Graduate,Yes,APP5592,434971.0
+LID1593,Sophia,Male,Yes,1,Graduate,No,APP5593,48929.0
+LID1594,David,Female,No,2,Not Graduate,Yes,APP5594,9080.0
+LID1595,Michael,Female,Yes,0,Not Graduate,Yes,APP5595,198920.0
+LID1596,Michael,Male,No,1,Not Graduate,Yes,APP5596,242778.0
+LID1597,Daniel,Female,No,1,Graduate,No,APP5597,234945.0
+LID1598,Daniel,Male,Yes,2,Not Graduate,No,APP5598,383815.0
+LID1599,Olivia,Male,No,3+,Graduate,Yes,APP5599,410277.0
+LID1600,Emily,,No,0,Not Graduate,Yes,APP5600,160896.0
+LID1601,Emma,Male,Yes,3+,Graduate,Yes,APP5601,30316.0
+LID1602,Emily,Male,No,0,Graduate,Yes,APP5602,475444.0
+LID1603,David,Male,No,2,Not Graduate,No,APP5603,271457.0
+LID1604,Michael,Male,No,2,Graduate,No,APP5604,228708.0
+LID1605,Emma,Male,Yes,0,Graduate,No,APP5605,206362.0
+LID1606,John,Male,No,3+,Graduate,No,APP5606,98541.0
+LID1607,Michael,Male,Yes,,Not Graduate,Yes,APP5607,26985.0
+LID1608,Sophia,Female,No,1,Not Graduate,Yes,APP5608,390155.0
+LID1609,Michael,Female,Yes,0,Not Graduate,Yes,APP5609,388246.0
+LID1610,Bob,Female,No,2,Graduate,No,APP5610,277176.0
+LID1611,Emma,Male,No,1,Graduate,Yes,APP5611,466155.0
+LID1612,Bob,Male,No,1,Graduate,Yes,APP5612,57149.0
+LID1613,Olivia,Female,Yes,0,Not Graduate,No,APP5613,91818.0
+LID1614,Daniel,Male,Yes,1,Graduate,No,APP5614,148575.0
+LID1615,John,Female,Yes,3+,Graduate,Yes,APP5615,122248.0
+LID1616,Michael,Male,,0,Not Graduate,Yes,APP5616,156245.0
+LID1617,Olivia,Female,Yes,0,Not Graduate,Yes,APP5617,141015.0
+LID1618,Olivia,Female,Yes,,Graduate,No,APP5618,400034.0
+LID1619,John,Female,Yes,2,Graduate,Yes,APP5619,126464.0
+LID1620,Alice,Female,No,2,Not Graduate,No,APP5620,78926.0
+LID1621,Michael,Female,Yes,2,Not Graduate,No,APP5621,294492.0
+LID1622,Bob,Male,No,3+,Graduate,,APP5622,400766.0
+LID1623,Emma,Male,Yes,1,Graduate,Yes,APP5623,318729.0
+LID1624,Bob,Male,No,2,Graduate,Yes,APP5624,471954.0
+LID1625,John,Female,,2,Not Graduate,No,APP5625,423901.0
+LID1626,David,Male,,2,Not Graduate,Yes,APP5626,261044.0
+LID1627,Michael,Female,Yes,0,Not Graduate,Yes,APP5627,18514.0
+LID1628,Sophia,Male,Yes,2,Not Graduate,Yes,APP5628,152764.0
+LID1629,Emily,Female,Yes,1,Not Graduate,Yes,APP5629,304455.0
+LID1630,Emma,Male,,1,Graduate,,APP5630,238216.0
+LID1631,Sophia,Female,Yes,2,Not Graduate,,APP5631,440703.0
+LID1632,Sophia,Male,No,1,Graduate,No,APP5632,486293.0
+LID1633,Michael,Male,Yes,1,Graduate,Yes,APP5633,375316.0
+LID1634,David,Male,No,0,Graduate,Yes,APP5634,67883.0
+LID1635,Michael,Female,Yes,,Not Graduate,No,APP5635,231631.0
+LID1636,David,Male,No,1,Graduate,Yes,APP5636,50541.0
+LID1637,Alice,Male,Yes,2,Not Graduate,Yes,APP5637,150989.0
+LID1638,Emma,Male,No,0,Graduate,Yes,APP5638,66059.0
+LID1639,John,Female,Yes,2,Graduate,Yes,APP5639,426339.0
+LID1640,Daniel,Male,No,3+,Not Graduate,Yes,APP5640,420928.0
+LID1641,John,Male,No,1,Not Graduate,Yes,APP5641,43980.0
+LID1642,Sophia,Female,Yes,0,Graduate,No,APP5642,270845.0
+LID1643,Emily,Female,No,3+,Not Graduate,Yes,APP5643,242745.0
+LID1644,Alice,Female,Yes,1,Not Graduate,No,APP5644,273878.0
+LID1645,John,Female,No,2,Not Graduate,No,APP5645,43843.0
+LID1646,John,Female,Yes,2,Not Graduate,No,APP5646,170051.0
+LID1647,Emily,Female,Yes,2,Not Graduate,Yes,APP5647,25110.0
+LID1648,Emily,Female,Yes,2,Graduate,No,APP5648,493829.0
+LID1649,John,Male,,1,Not Graduate,Yes,APP5649,278309.0
+LID1650,Olivia,Male,Yes,3+,Not Graduate,,APP5650,446152.0
+LID1651,Bob,Male,No,0,Graduate,,APP5651,444161.0
+LID1652,Emily,Female,No,0,Not Graduate,Yes,APP5652,23683.0
+LID1653,Bob,Male,No,0,Not Graduate,No,APP5653,333878.0
+LID1654,Emma,Female,No,3+,Graduate,Yes,APP5654,
+LID1655,Alice,Male,No,1,Graduate,,APP5655,202241.0
+LID1656,Olivia,Female,Yes,0,Graduate,Yes,APP5656,120453.0
+LID1657,Emily,Female,No,1,Not Graduate,No,APP5657,144086.0
+LID1658,Emma,Female,Yes,1,Graduate,No,APP5658,259021.0
+LID1659,David,Female,Yes,2,Graduate,Yes,APP5659,389597.0
+LID1660,Sophia,Female,No,0,Graduate,Yes,APP5660,74096.0
+LID1661,Bob,Male,Yes,3+,Not Graduate,No,APP5661,464204.0
+LID1662,Olivia,Male,Yes,0,Not Graduate,No,APP5662,275693.0
+LID1663,Olivia,Male,Yes,3+,Not Graduate,Yes,APP5663,397925.0
+LID1664,Alice,Female,No,2,Graduate,Yes,APP5664,232708.0
+LID1665,Bob,Male,No,0,Graduate,No,APP5665,297414.0
+LID1666,David,Male,Yes,2,Graduate,No,APP5666,377239.0
+LID1667,Alice,,No,3+,Not Graduate,No,APP5667,224235.0
+LID1668,Olivia,Female,No,2,Graduate,No,APP5668,326586.0
+LID1669,John,Female,No,,Not Graduate,Yes,APP5669,311131.0
+LID1670,David,Male,No,2,Not Graduate,No,APP5670,187821.0
+LID1671,Olivia,,No,0,Not Graduate,No,APP5671,349426.0
+LID1672,Michael,Male,No,3+,Not Graduate,Yes,APP5672,465267.0
+LID1673,Michael,,No,3+,Graduate,Yes,APP5673,126578.0
+LID1674,Emily,Female,No,2,Graduate,Yes,APP5674,355211.0
+LID1675,Alice,,No,3+,Graduate,No,APP5675,422724.0
+LID1676,Olivia,Female,Yes,3+,Not Graduate,No,APP5676,318441.0
+LID1677,Emily,Male,No,0,Not Graduate,Yes,APP5677,257161.0
+LID1678,Alice,Male,Yes,2,Graduate,No,APP5678,119782.0
+LID1679,David,Male,No,2,Not Graduate,No,APP5679,466842.0
+LID1680,Olivia,Female,Yes,,Graduate,Yes,APP5680,405522.0
+LID1681,Alice,Female,Yes,3+,Graduate,No,APP5681,239447.0
+LID1682,Olivia,Male,Yes,,Graduate,No,APP5682,352297.0
+LID1683,John,Female,No,2,Not Graduate,No,APP5683,97376.0
+LID1684,Sophia,Male,,3+,Not Graduate,No,APP5684,172198.0
+LID1685,Daniel,Male,No,1,Graduate,Yes,APP5685,187231.0
+LID1686,Michael,Male,,3+,Graduate,No,APP5686,374528.0
+LID1687,Sophia,Male,,3+,Not Graduate,No,APP5687,467511.0
+LID1688,Alice,Female,No,,Graduate,Yes,APP5688,426905.0
+LID1689,Daniel,Female,No,2,Graduate,No,APP5689,320127.0
+LID1690,Sophia,Male,Yes,3+,Not Graduate,Yes,APP5690,128134.0
+LID1691,John,Male,Yes,0,Not Graduate,Yes,APP5691,
+LID1692,Michael,Female,No,2,Graduate,Yes,APP5692,117777.0
+LID1693,Emma,Female,,3+,Not Graduate,Yes,APP5693,415427.0
+LID1694,Alice,Male,No,2,Not Graduate,No,APP5694,299784.0
+LID1695,Michael,Male,Yes,3+,Graduate,Yes,APP5695,142156.0
+LID1696,Sophia,Female,Yes,1,Graduate,,APP5696,220602.0
+LID1697,Emma,Male,Yes,,Graduate,Yes,APP5697,236709.0
+LID1698,Bob,Female,Yes,3+,Not Graduate,Yes,APP5698,141681.0
+LID1699,Michael,Male,No,0,Graduate,No,APP5699,145675.0
+LID1700,Bob,Female,No,2,Not Graduate,Yes,APP5700,119791.0
+LID1701,Daniel,,Yes,3+,Not Graduate,,APP5701,434142.0
+LID1702,David,Male,Yes,3+,Graduate,Yes,APP5702,
+LID1703,Olivia,Female,No,0,Graduate,Yes,APP5703,121030.0
+LID1704,Daniel,Female,No,0,Graduate,No,APP5704,92312.0
+LID1705,Emma,Male,No,1,Graduate,Yes,APP5705,413709.0
+LID1706,Emma,Female,Yes,1,Graduate,Yes,APP5706,326547.0
+LID1707,Michael,Female,No,1,Graduate,Yes,APP5707,72746.0
+LID1708,Olivia,Male,No,0,Graduate,,APP5708,15443.0
+LID1709,David,Male,Yes,3+,Not Graduate,Yes,APP5709,16071.0
+LID1710,Sophia,Female,No,2,Graduate,Yes,APP5710,52318.0
+LID1711,Emily,Female,Yes,,Not Graduate,No,APP5711,179738.0
+LID1712,Alice,Male,No,0,Graduate,Yes,APP5712,407046.0
+LID1713,David,Female,No,1,Graduate,Yes,APP5713,38273.0
+LID1714,Emma,Female,No,1,Not Graduate,No,APP5714,276921.0
+LID1715,Emily,,Yes,2,Not Graduate,No,APP5715,285741.0
+LID1716,Emma,Female,No,2,Graduate,Yes,APP5716,87309.0
+LID1717,Olivia,Female,Yes,2,Not Graduate,Yes,APP5717,212369.0
+LID1718,Olivia,Female,No,,Graduate,,APP5718,125237.0
+LID1719,Michael,Female,,1,Not Graduate,Yes,APP5719,89622.0
+LID1720,Sophia,Female,Yes,,Not Graduate,Yes,APP5720,178802.0
+LID1721,John,Male,Yes,2,Not Graduate,No,APP5721,294905.0
+LID1722,Emma,Male,No,3+,Not Graduate,No,APP5722,497837.0
+LID1723,Sophia,Male,Yes,1,Graduate,No,APP5723,
+LID1724,Bob,Female,No,1,Not Graduate,No,APP5724,400901.0
+LID1725,Emma,Male,Yes,1,Not Graduate,No,APP5725,58750.0
+LID1726,Emily,,No,0,Not Graduate,No,APP5726,419891.0
+LID1727,Sophia,Female,,0,Graduate,No,APP5727,87284.0
+LID1728,David,Male,No,1,Graduate,Yes,APP5728,17711.0
+LID1729,Sophia,Male,Yes,3+,Graduate,No,APP5729,409966.0
+LID1730,David,Female,No,2,Not Graduate,Yes,APP5730,22709.0
+LID1731,Olivia,Male,Yes,3+,Not Graduate,Yes,APP5731,69824.0
+LID1732,David,Male,Yes,2,Not Graduate,No,APP5732,203105.0
+LID1733,Daniel,Female,Yes,2,Not Graduate,No,APP5733,73783.0
+LID1734,John,Male,Yes,,Graduate,Yes,APP5734,464602.0
+LID1735,Daniel,Female,Yes,1,Not Graduate,,APP5735,49520.0
+LID1736,Emily,Male,No,1,Graduate,No,APP5736,269508.0
+LID1737,Alice,Male,Yes,2,Not Graduate,Yes,APP5737,404709.0
+LID1738,Emily,Male,Yes,1,Graduate,No,APP5738,15566.0
+LID1739,Michael,Female,No,3+,Graduate,No,APP5739,
+LID1740,Emma,Male,Yes,0,Graduate,,APP5740,322127.0
+LID1741,Daniel,Female,No,,Not Graduate,Yes,APP5741,55099.0
+LID1742,Emily,Female,No,3+,Graduate,,APP5742,420561.0
+LID1743,Emma,Male,No,,Graduate,No,APP5743,440930.0
+LID1744,Emma,Male,No,0,Graduate,Yes,APP5744,168677.0
+LID1745,Emma,Female,Yes,2,Graduate,Yes,APP5745,227902.0
+LID1746,John,Male,,,Not Graduate,Yes,APP5746,17285.0
+LID1747,Alice,Male,No,0,Not Graduate,Yes,APP5747,245598.0
+LID1748,David,Female,Yes,0,Graduate,No,APP5748,143553.0
+LID1749,Emily,Female,No,1,Graduate,,APP5749,307095.0
+LID1750,Michael,Female,Yes,1,Graduate,No,APP5750,157692.0
+LID1751,Emily,Female,Yes,2,Not Graduate,,APP5751,121524.0
+LID1752,David,Male,No,,Not Graduate,No,APP5752,299123.0
+LID1753,Olivia,Male,Yes,2,Graduate,Yes,APP5753,154119.0
+LID1754,Sophia,Male,,2,Not Graduate,No,APP5754,284552.0
+LID1755,Emma,Female,Yes,1,Not Graduate,Yes,APP5755,205492.0
+LID1756,Daniel,Female,No,0,Graduate,Yes,APP5756,
+LID1757,Daniel,Male,No,,Graduate,Yes,APP5757,211383.0
+LID1758,Sophia,Female,No,0,Not Graduate,Yes,APP5758,404874.0
+LID1759,Michael,Female,No,1,Graduate,,APP5759,61782.0
+LID1760,Daniel,Male,No,1,Not Graduate,No,APP5760,307975.0
+LID1761,Sophia,Male,No,0,Graduate,Yes,APP5761,213325.0
+LID1762,Sophia,Male,No,0,Not Graduate,Yes,APP5762,239401.0
+LID1763,Emma,Female,No,3+,Graduate,Yes,APP5763,300254.0
+LID1764,David,Male,Yes,1,Graduate,Yes,APP5764,167849.0
+LID1765,David,Female,Yes,0,Not Graduate,Yes,APP5765,429505.0
+LID1766,David,Male,No,2,Graduate,Yes,APP5766,48848.0
+LID1767,Emily,Female,No,3+,Not Graduate,Yes,APP5767,93738.0
+LID1768,Alice,Male,Yes,1,Graduate,No,APP5768,498928.0
+LID1769,Emily,Male,Yes,2,Graduate,Yes,APP5769,136055.0
+LID1770,Sophia,Male,Yes,0,Graduate,No,APP5770,216390.0
+LID1771,Alice,Female,No,3+,Graduate,No,APP5771,253258.0
+LID1772,Daniel,Female,No,2,Not Graduate,,APP5772,445218.0
+LID1773,Bob,Female,No,0,Not Graduate,No,APP5773,126860.0
+LID1774,Emily,Female,Yes,,Graduate,Yes,APP5774,263693.0
+LID1775,Emily,Male,Yes,3+,Graduate,No,APP5775,168292.0
+LID1776,Emma,Male,,2,Graduate,,APP5776,442425.0
+LID1777,David,Female,No,3+,Not Graduate,,APP5777,173528.0
+LID1778,Olivia,Male,Yes,3+,Graduate,No,APP5778,318907.0
+LID1779,Daniel,Female,No,3+,Not Graduate,Yes,APP5779,7921.0
+LID1780,Olivia,Female,No,0,Not Graduate,No,APP5780,114693.0
+LID1781,David,Female,No,3+,Graduate,No,APP5781,421649.0
+LID1782,Alice,Male,No,2,Graduate,No,APP5782,267047.0
+LID1783,Emily,Male,Yes,3+,Graduate,No,APP5783,346840.0
+LID1784,David,Female,Yes,3+,Graduate,,APP5784,246891.0
+LID1785,Emily,Male,No,0,Not Graduate,No,APP5785,274710.0
+LID1786,Sophia,Male,No,3+,Not Graduate,No,APP5786,392807.0
+LID1787,Bob,Female,No,0,Not Graduate,No,APP5787,47695.0
+LID1788,David,Male,No,1,Graduate,Yes,APP5788,228190.0
+LID1789,John,Male,No,,Not Graduate,No,APP5789,201967.0
+LID1790,Daniel,Female,Yes,2,Graduate,,APP5790,12143.0
+LID1791,Bob,Male,No,3+,Graduate,No,APP5791,397245.0
+LID1792,David,Female,No,3+,Not Graduate,Yes,APP5792,108477.0
+LID1793,John,Female,Yes,2,Not Graduate,No,APP5793,64592.0
+LID1794,John,Female,,2,Not Graduate,No,APP5794,
+LID1795,Daniel,Female,No,3+,Not Graduate,No,APP5795,94507.0
+LID1796,David,,No,3+,Graduate,Yes,APP5796,280035.0
+LID1797,Bob,Male,No,2,Not Graduate,Yes,APP5797,397688.0
+LID1798,Emma,Male,No,3+,Graduate,Yes,APP5798,224229.0
+LID1799,Alice,Male,No,2,Not Graduate,Yes,APP5799,160583.0
+LID1800,John,Male,No,1,Not Graduate,Yes,APP5800,159257.0
+LID1801,Olivia,Male,Yes,1,Graduate,Yes,APP5801,466492.0
+LID1802,David,Female,Yes,,Graduate,Yes,APP5802,278930.0
+LID1803,Emma,Male,No,0,Graduate,No,APP5803,471377.0
+LID1804,Emma,Male,Yes,0,Graduate,No,APP5804,345902.0
+LID1805,Emma,Female,No,3+,Graduate,No,APP5805,157146.0
+LID1806,Sophia,Male,Yes,2,Graduate,Yes,APP5806,112196.0
+LID1807,Bob,Female,No,0,Graduate,No,APP5807,379590.0
+LID1808,John,Male,Yes,3+,Not Graduate,Yes,APP5808,321941.0
+LID1809,David,Male,Yes,1,Not Graduate,Yes,APP5809,247682.0
+LID1810,Emma,Male,Yes,3+,Not Graduate,No,APP5810,178107.0
+LID1811,Alice,Male,,2,Not Graduate,No,APP5811,382555.0
+LID1812,Alice,Female,No,0,Not Graduate,No,APP5812,491456.0
+LID1813,Michael,Female,Yes,0,Graduate,,APP5813,279925.0
+LID1814,Emma,Female,No,0,Graduate,No,APP5814,253444.0
+LID1815,Alice,Female,Yes,2,Graduate,Yes,APP5815,
+LID1816,Olivia,Female,Yes,3+,Graduate,Yes,APP5816,83826.0
+LID1817,John,Female,,0,Graduate,No,APP5817,7937.0
+LID1818,Bob,Female,No,2,Graduate,,APP5818,103395.0
+LID1819,Bob,Male,No,1,Not Graduate,No,APP5819,54203.0
+LID1820,Olivia,Female,No,1,Not Graduate,Yes,APP5820,178557.0
+LID1821,David,Female,Yes,3+,Not Graduate,,APP5821,332665.0
+LID1822,Alice,Female,Yes,0,Not Graduate,No,APP5822,87026.0
+LID1823,Emily,Female,No,3+,Graduate,Yes,APP5823,338627.0
+LID1824,Alice,Male,No,3+,Graduate,,APP5824,123504.0
+LID1825,Daniel,Female,No,1,Not Graduate,,APP5825,12407.0
+LID1826,Michael,Male,No,3+,Not Graduate,No,APP5826,148959.0
+LID1827,Olivia,Female,Yes,3+,Not Graduate,No,APP5827,482894.0
+LID1828,Olivia,Male,No,2,Not Graduate,Yes,APP5828,311429.0
+LID1829,Olivia,Female,Yes,2,Not Graduate,No,APP5829,197557.0
+LID1830,Emily,Female,Yes,0,Graduate,Yes,APP5830,216428.0
+LID1831,Daniel,Female,Yes,1,Graduate,,APP5831,299184.0
+LID1832,Michael,Female,No,2,Graduate,No,APP5832,350698.0
+LID1833,Emma,Female,No,0,Graduate,No,APP5833,315713.0
+LID1834,Emma,Female,No,2,Graduate,No,APP5834,388075.0
+LID1835,David,Female,No,3+,Not Graduate,No,APP5835,98493.0
+LID1836,Olivia,Male,Yes,2,Not Graduate,Yes,APP5836,58646.0
+LID1837,Michael,Male,No,0,Graduate,No,APP5837,278844.0
+LID1838,David,Female,No,1,Graduate,No,APP5838,406633.0
+LID1839,Olivia,Female,Yes,2,Graduate,Yes,APP5839,306809.0
+LID1840,Olivia,Female,No,0,Graduate,,APP5840,315467.0
+LID1841,John,Female,Yes,0,Not Graduate,Yes,APP5841,428257.0
+LID1842,Olivia,Male,No,0,Graduate,No,APP5842,327902.0
+LID1843,Alice,Female,No,0,Not Graduate,,APP5843,253201.0
+LID1844,Emily,Female,No,3+,Not Graduate,Yes,APP5844,6400.0
+LID1845,Emily,Male,Yes,3+,Not Graduate,No,APP5845,118478.0
+LID1846,David,Female,No,3+,Not Graduate,No,APP5846,426188.0
+LID1847,Alice,Female,No,2,Not Graduate,Yes,APP5847,80147.0
+LID1848,Bob,Male,No,3+,Not Graduate,Yes,APP5848,463549.0
+LID1849,Emily,Male,No,0,Not Graduate,Yes,APP5849,
+LID1850,Bob,Female,Yes,0,Graduate,,APP5850,32362.0
+LID1851,Daniel,Male,Yes,1,Graduate,Yes,APP5851,428223.0
+LID1852,Alice,Male,Yes,2,Not Graduate,Yes,APP5852,353568.0
+LID1853,Bob,Male,Yes,2,Graduate,Yes,APP5853,163627.0
+LID1854,John,Female,Yes,3+,Not Graduate,Yes,APP5854,66497.0
+LID1855,Michael,Female,Yes,0,Graduate,Yes,APP5855,211174.0
+LID1856,Emma,Male,,1,Graduate,No,APP5856,207128.0
+LID1857,Olivia,Male,No,0,Graduate,,APP5857,191117.0
+LID1858,Emma,Female,No,3+,Graduate,Yes,APP5858,278670.0
+LID1859,David,Male,No,0,Not Graduate,No,APP5859,45999.0
+LID1860,John,Female,Yes,0,Graduate,No,APP5860,446550.0
+LID1861,Emily,Female,Yes,2,Graduate,No,APP5861,92092.0
+LID1862,David,Male,,,Not Graduate,No,APP5862,442049.0
+LID1863,David,Female,Yes,3+,Not Graduate,Yes,APP5863,79912.0
+LID1864,Emma,Female,Yes,2,Not Graduate,No,APP5864,298856.0
+LID1865,Alice,Male,No,2,Graduate,Yes,APP5865,369432.0
+LID1866,Emily,Male,Yes,2,Not Graduate,No,APP5866,364330.0
+LID1867,David,Female,Yes,2,Graduate,No,APP5867,476734.0
+LID1868,Olivia,Female,No,3+,Graduate,Yes,APP5868,187546.0
+LID1869,Emily,Female,Yes,3+,Not Graduate,Yes,APP5869,459105.0
+LID1870,Michael,Female,Yes,1,Graduate,,APP5870,249357.0
+LID1871,Alice,Male,Yes,1,Graduate,,APP5871,186399.0
+LID1872,Daniel,Female,No,1,Not Graduate,Yes,APP5872,117082.0
+LID1873,Emily,Female,Yes,3+,Graduate,Yes,APP5873,464430.0
+LID1874,Bob,Female,Yes,3+,Graduate,Yes,APP5874,497519.0
+LID1875,David,Male,Yes,0,Graduate,No,APP5875,201191.0
+LID1876,Bob,Male,No,2,Not Graduate,No,APP5876,396972.0
+LID1877,Alice,Female,Yes,1,Not Graduate,Yes,APP5877,107674.0
+LID1878,John,Female,Yes,2,Graduate,No,APP5878,280776.0
+LID1879,Bob,Female,Yes,3+,Not Graduate,No,APP5879,312331.0
+LID1880,David,Female,No,0,Graduate,No,APP5880,54339.0
+LID1881,Olivia,Female,,3+,Graduate,No,APP5881,485146.0
+LID1882,Olivia,Female,Yes,2,Graduate,,APP5882,488164.0
+LID1883,David,Male,Yes,2,Graduate,Yes,APP5883,
+LID1884,Emma,Female,,1,Not Graduate,No,APP5884,344328.0
+LID1885,Alice,Male,,0,Graduate,No,APP5885,255994.0
+LID1886,Emma,,No,0,Graduate,No,APP5886,369641.0
+LID1887,David,Female,Yes,2,Not Graduate,Yes,APP5887,148746.0
+LID1888,Michael,,Yes,3+,Graduate,No,APP5888,304987.0
+LID1889,David,Male,No,0,Not Graduate,,APP5889,457557.0
+LID1890,Daniel,Male,,2,Graduate,,APP5890,251839.0
+LID1891,Daniel,Female,Yes,2,Graduate,No,APP5891,336475.0
+LID1892,Emma,Male,,2,Graduate,No,APP5892,96106.0
+LID1893,Emma,Female,Yes,1,Graduate,No,APP5893,463718.0
+LID1894,Alice,Female,Yes,0,Graduate,No,APP5894,291044.0
+LID1895,Olivia,Female,No,3+,Not Graduate,No,APP5895,25024.0
+LID1896,John,Female,No,0,Graduate,No,APP5896,326346.0
+LID1897,Michael,Male,Yes,0,Graduate,Yes,APP5897,85316.0
+LID1898,Sophia,Female,No,2,Graduate,No,APP5898,97750.0
+LID1899,Olivia,Male,No,3+,Not Graduate,No,APP5899,74021.0
+LID1900,David,Male,No,0,Graduate,Yes,APP5900,442289.0
+LID1901,John,Male,No,1,Not Graduate,No,APP5901,34385.0
+LID1902,Alice,Male,No,0,Graduate,No,APP5902,377554.0
+LID1903,Emily,Male,Yes,2,Not Graduate,Yes,APP5903,56105.0
+LID1904,Olivia,Female,No,0,Not Graduate,Yes,APP5904,150478.0
+LID1905,Olivia,,No,0,Graduate,,APP5905,106807.0
+LID1906,John,Male,Yes,2,Not Graduate,,APP5906,391638.0
+LID1907,David,Female,,3+,Not Graduate,,APP5907,
+LID1908,Olivia,Female,No,1,Graduate,Yes,APP5908,449716.0
+LID1909,John,Female,No,1,Not Graduate,,APP5909,475672.0
+LID1910,Bob,Male,No,1,Graduate,Yes,APP5910,479860.0
+LID1911,Emma,Female,Yes,2,Graduate,Yes,APP5911,383606.0
+LID1912,Daniel,Male,No,2,Graduate,Yes,APP5912,275711.0
+LID1913,Emma,Male,Yes,0,Graduate,No,APP5913,
+LID1914,David,Male,Yes,2,Graduate,Yes,APP5914,223302.0
+LID1915,Bob,Male,No,0,Graduate,Yes,APP5915,356084.0
+LID1916,Olivia,Male,No,3+,Not Graduate,No,APP5916,106156.0
+LID1917,Michael,Male,Yes,1,Not Graduate,Yes,APP5917,267943.0
+LID1918,Emma,Male,No,1,Not Graduate,Yes,APP5918,144794.0
+LID1919,Alice,Female,No,2,Not Graduate,Yes,APP5919,237468.0
+LID1920,Emma,Male,Yes,0,Graduate,Yes,APP5920,
+LID1921,Sophia,Male,,0,Graduate,No,APP5921,366085.0
+LID1922,Michael,Female,Yes,0,Graduate,Yes,APP5922,95685.0
+LID1923,Sophia,Female,Yes,1,Not Graduate,,APP5923,446515.0
+LID1924,Sophia,Male,Yes,3+,Graduate,No,APP5924,6690.0
+LID1925,Alice,Male,,2,Not Graduate,Yes,APP5925,298894.0
+LID1926,Bob,Female,No,0,Graduate,No,APP5926,184019.0
+LID1927,Sophia,Male,No,1,Graduate,No,APP5927,443360.0
+LID1928,Michael,Female,,3+,Not Graduate,,APP5928,301846.0
+LID1929,Emma,Male,Yes,,Graduate,Yes,APP5929,51222.0
+LID1930,David,Female,,2,Not Graduate,No,APP5930,52480.0
+LID1931,Michael,Male,No,1,Graduate,No,APP5931,50307.0
+LID1932,Daniel,Male,Yes,1,Graduate,No,APP5932,314932.0
+LID1933,John,Male,Yes,2,Not Graduate,Yes,APP5933,15542.0
+LID1934,Emma,Male,No,3+,Graduate,Yes,APP5934,418525.0
+LID1935,Alice,Female,Yes,2,Graduate,Yes,APP5935,
+LID1936,Sophia,Female,No,3+,Not Graduate,No,APP5936,246355.0
+LID1937,David,Male,Yes,3+,Not Graduate,No,APP5937,384729.0
+LID1938,Sophia,Male,Yes,2,Not Graduate,Yes,APP5938,166366.0
+LID1939,Alice,,Yes,0,Not Graduate,No,APP5939,341759.0
+LID1940,Michael,Female,Yes,2,Graduate,Yes,APP5940,458292.0
+LID1941,Daniel,Male,Yes,2,Not Graduate,Yes,APP5941,401273.0
+LID1942,John,Female,Yes,2,Not Graduate,Yes,APP5942,167784.0
+LID1943,Daniel,Female,Yes,0,Not Graduate,No,APP5943,375102.0
+LID1944,Emma,Female,No,1,Not Graduate,Yes,APP5944,151257.0
+LID1945,Michael,Male,No,1,Not Graduate,,APP5945,170434.0
+LID1946,John,Female,No,,Not Graduate,Yes,APP5946,442924.0
+LID1947,Emily,Male,Yes,2,Not Graduate,Yes,APP5947,468244.0
+LID1948,Daniel,Male,No,0,Graduate,No,APP5948,159629.0
+LID1949,Sophia,Female,Yes,1,Graduate,Yes,APP5949,235476.0
+LID1950,Olivia,Male,No,1,Graduate,No,APP5950,261841.0
+LID1951,Emma,Female,No,3+,Graduate,No,APP5951,195638.0
+LID1952,Emma,Male,No,2,Not Graduate,No,APP5952,341501.0
+LID1953,John,Male,No,1,Graduate,No,APP5953,439896.0
+LID1954,Emily,Male,No,2,Not Graduate,No,APP5954,441066.0
+LID1955,David,Male,No,1,Graduate,Yes,APP5955,442635.0
+LID1956,Daniel,Male,Yes,,Not Graduate,No,APP5956,86633.0
+LID1957,Bob,Male,No,3+,Not Graduate,Yes,APP5957,115447.0
+LID1958,David,Male,No,1,Not Graduate,No,APP5958,232464.0
+LID1959,Emma,Female,No,,Graduate,No,APP5959,430149.0
+LID1960,Emma,Female,,,Not Graduate,No,APP5960,156356.0
+LID1961,Alice,Male,,1,Not Graduate,Yes,APP5961,371820.0
+LID1962,John,Female,Yes,3+,Graduate,No,APP5962,294203.0
+LID1963,Olivia,Male,No,1,Graduate,No,APP5963,421439.0
+LID1964,Emily,Male,,,Graduate,Yes,APP5964,274102.0
+LID1965,Bob,Female,Yes,2,Not Graduate,Yes,APP5965,140378.0
+LID1966,David,Male,Yes,2,Not Graduate,No,APP5966,141758.0
+LID1967,Daniel,Male,No,0,Not Graduate,No,APP5967,
+LID1968,John,Female,Yes,,Graduate,No,APP5968,350155.0
+LID1969,Daniel,Male,,3+,Graduate,Yes,APP5969,254146.0
+LID1970,Michael,Female,Yes,3+,Not Graduate,No,APP5970,312663.0
+LID1971,Alice,Male,No,1,Not Graduate,Yes,APP5971,300577.0
+LID1972,Emily,Male,Yes,2,Not Graduate,Yes,APP5972,313486.0
+LID1973,Alice,,No,3+,Not Graduate,No,APP5973,174015.0
+LID1974,Emma,Male,,3+,Not Graduate,No,APP5974,335024.0
+LID1975,Alice,,Yes,1,Not Graduate,No,APP5975,477396.0
+LID1976,Bob,Male,No,2,Not Graduate,No,APP5976,
+LID1977,Emma,Male,Yes,1,Not Graduate,No,APP5977,180485.0
+LID1978,David,Female,Yes,3+,Not Graduate,Yes,APP5978,478421.0
+LID1979,Daniel,Male,No,0,Not Graduate,Yes,APP5979,483752.0
+LID1980,David,Female,,2,Not Graduate,Yes,APP5980,90325.0
+LID1981,Michael,Male,No,3+,Not Graduate,Yes,APP5981,102601.0
+LID1982,Emma,Male,,2,Graduate,No,APP5982,235166.0
+LID1983,Emma,Male,,3+,Graduate,No,APP5983,244308.0
+LID1984,Emily,Male,No,,Not Graduate,No,APP5984,369117.0
+LID1985,Emma,Male,No,2,Graduate,Yes,APP5985,214365.0
+LID1986,Daniel,Female,Yes,3+,Not Graduate,No,APP5986,132710.0
+LID1987,Bob,Female,Yes,3+,Graduate,,APP5987,200672.0
+LID1988,Michael,Female,Yes,2,Not Graduate,Yes,APP5988,257999.0
+LID1989,Emily,,No,,Graduate,Yes,APP5989,162377.0
+LID1990,Olivia,Female,,0,Not Graduate,No,APP5990,
+LID1991,Daniel,Male,No,1,Graduate,Yes,APP5991,127842.0
+LID1992,Bob,Female,Yes,2,Not Graduate,Yes,APP5992,477312.0
+LID1993,Alice,Male,Yes,0,Graduate,No,APP5993,61547.0
+LID1994,David,Male,No,,Graduate,No,APP5994,410836.0
+LID1995,Michael,Female,Yes,3+,Graduate,,APP5995,307770.0
+LID1996,Sophia,,No,3+,Graduate,Yes,APP5996,19971.0
+LID1997,Daniel,Male,Yes,1,Not Graduate,Yes,APP5997,92233.0
+LID1998,David,Male,Yes,0,Graduate,,APP5998,469831.0
+LID1999,John,Female,Yes,2,Graduate,,APP5999,370759.0
