@@ -1,1001 +1,1001 @@
 Load_ID,Name,Gender,Married,Dependent,Education,Self_Employed,Application_No,Applicant_Income,Coapplicant_Income,Loan_Amount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status
-LP100000,Applicant_0,Male,Yes,1,Not Graduate,No,APP1000,6392.0,7598.0,394.0,180.0,1.0,Urban,Y
-LP100001,Applicant_1,Male,Yes,3+,Graduate,Yes,APP1001,10690.0,,329.0,240.0,0.0,Rural,Y
-LP100002,Applicant_2,Female,Yes,1,Graduate,Yes,APP1002,2521.0,2271.0,118.0,360.0,,Rural,N
-LP100003,Applicant_3,Male,Yes,1,,Yes,APP1003,12613.0,14322.0,630.0,360.0,,Urban,Y
-LP100004,Applicant_4,Male,No,2,Not Graduate,No,APP1004,13795.0,,593.0,,,,N
-LP100005,Applicant_5,Male,Yes,,Not Graduate,Yes,APP1005,22029.0,6641.0,536.0,360.0,0.0,Rural,
-LP100006,Applicant_6,Male,Yes,3+,Graduate,Yes,APP1006,,3030.0,487.0,120.0,0.0,Urban,N
-LP100007,Applicant_7,Male,Yes,0,Not Graduate,Yes,APP1007,6938.0,12941.0,264.0,,1.0,Urban,N
-LP100008,Applicant_8,Female,Yes,,,No,APP1008,20209.0,14279.0,405.0,180.0,0.0,Rural,Y
-LP100009,Applicant_9,Male,,3+,Not Graduate,No,APP1009,21347.0,6068.0,128.0,240.0,0.0,Rural,N
-LP100010,Applicant_10,,Yes,1,Graduate,Yes,APP1010,14265.0,,359.0,360.0,1.0,Semiurban,N
-LP100011,Applicant_11,Male,Yes,3+,Graduate,Yes,APP1011,7640.0,7607.0,566.0,120.0,1.0,Urban,Y
-LP100012,Applicant_12,Male,No,1,Graduate,No,APP1012,21003.0,11532.0,357.0,240.0,1.0,Rural,N
-LP100013,Applicant_13,Male,Yes,2,Not Graduate,,APP1013,5328.0,10377.0,493.0,360.0,1.0,Rural,N
-LP100014,Applicant_14,Male,Yes,,,,APP1014,11601.0,22.0,602.0,240.0,0.0,Rural,Y
-LP100015,Applicant_15,Male,No,2,Graduate,Yes,APP1015,24610.0,14096.0,370.0,360.0,1.0,Semiurban,Y
-LP100016,Applicant_16,Female,Yes,0,Not Graduate,No,APP1016,11805.0,10277.0,254.0,120.0,,Semiurban,N
-LP100017,Applicant_17,Male,Yes,3+,Not Graduate,No,APP1017,24760.0,1158.0,474.0,240.0,,,N
-LP100018,Applicant_18,Female,No,2,Not Graduate,Yes,APP1018,2536.0,6305.0,461.0,180.0,1.0,Urban,N
-LP100019,Applicant_19,Female,Yes,0,Not Graduate,Yes,APP1019,10396.0,14638.0,307.0,240.0,0.0,Urban,N
-LP100020,Applicant_20,Male,Yes,1,Graduate,No,APP1020,15061.0,11317.0,689.0,360.0,1.0,Urban,N
-LP100021,Applicant_21,Male,Yes,0,Graduate,Yes,APP1021,4344.0,5454.0,577.0,,0.0,,N
-LP100022,Applicant_22,Female,Yes,2,Graduate,No,APP1022,,,514.0,240.0,1.0,Urban,
-LP100023,Applicant_23,,Yes,3+,Not Graduate,,APP1023,9287.0,535.0,610.0,120.0,1.0,,N
-LP100024,Applicant_24,Female,No,0,Not Graduate,Yes,APP1024,13676.0,4859.0,234.0,360.0,1.0,Rural,N
-LP100025,Applicant_25,Male,Yes,0,Graduate,,APP1025,16308.0,6977.0,69.0,360.0,1.0,Urban,N
-LP100026,Applicant_26,Male,No,,Graduate,,APP1026,11416.0,12335.0,692.0,360.0,,Rural,Y
-LP100027,Applicant_27,Female,,1,Not Graduate,No,APP1027,8582.0,4420.0,578.0,180.0,1.0,Rural,Y
-LP100028,Applicant_28,Male,Yes,3+,Graduate,Yes,APP1028,18706.0,11436.0,,120.0,0.0,Urban,N
-LP100029,Applicant_29,Male,,1,Not Graduate,Yes,APP1029,11406.0,10035.0,640.0,180.0,1.0,Rural,
-LP100030,Applicant_30,,Yes,2,Graduate,,APP1030,7234.0,8887.0,,180.0,1.0,Rural,Y
-LP100031,Applicant_31,Male,Yes,2,Not Graduate,No,APP1031,5177.0,9424.0,268.0,120.0,0.0,Semiurban,N
-LP100032,Applicant_32,Female,No,,,Yes,APP1032,,13016.0,,,0.0,Rural,Y
-LP100033,Applicant_33,Female,Yes,1,Graduate,,APP1033,2725.0,3393.0,324.0,180.0,0.0,,N
-LP100034,Applicant_34,Female,,1,Graduate,No,APP1034,,12905.0,595.0,,1.0,Semiurban,Y
-LP100035,Applicant_35,Male,,0,Graduate,Yes,APP1035,4534.0,11217.0,679.0,240.0,0.0,,N
-LP100036,Applicant_36,Female,No,3+,Graduate,Yes,APP1036,,1326.0,494.0,180.0,0.0,Rural,Y
-LP100037,Applicant_37,Male,No,1,,Yes,APP1037,18080.0,10165.0,629.0,360.0,1.0,Urban,N
-LP100038,Applicant_38,Female,Yes,1,,Yes,APP1038,2317.0,14431.0,691.0,120.0,1.0,Rural,Y
-LP100039,Applicant_39,,No,,Graduate,Yes,APP1039,17315.0,5500.0,111.0,180.0,0.0,,N
-LP100040,Applicant_40,Female,Yes,1,Not Graduate,No,APP1040,17885.0,12054.0,584.0,,1.0,Urban,Y
-LP100041,Applicant_41,Female,Yes,2,Graduate,,APP1041,6548.0,898.0,255.0,360.0,0.0,Semiurban,N
-LP100042,Applicant_42,Male,,2,,Yes,APP1042,7732.0,8433.0,423.0,120.0,1.0,Urban,
-LP100043,Applicant_43,Male,No,3+,Not Graduate,Yes,APP1043,12644.0,14909.0,523.0,240.0,1.0,Rural,Y
-LP100044,Applicant_44,Male,Yes,3+,Not Graduate,Yes,APP1044,17342.0,11053.0,201.0,360.0,0.0,Urban,
-LP100045,Applicant_45,Male,Yes,2,Not Graduate,No,APP1045,18658.0,5963.0,296.0,120.0,0.0,Semiurban,
-LP100046,Applicant_46,Female,No,2,Not Graduate,No,APP1046,11669.0,14548.0,204.0,180.0,0.0,Urban,N
-LP100047,Applicant_47,Male,,2,Graduate,No,APP1047,12226.0,844.0,357.0,240.0,0.0,Rural,Y
-LP100048,Applicant_48,Male,No,2,Not Graduate,No,APP1048,6195.0,1818.0,495.0,120.0,1.0,Semiurban,N
-LP100049,Applicant_49,Male,Yes,3+,Graduate,No,APP1049,4719.0,6274.0,,120.0,1.0,Urban,Y
-LP100050,Applicant_50,Female,No,3+,Not Graduate,,APP1050,18413.0,5989.0,376.0,240.0,0.0,Semiurban,N
-LP100051,Applicant_51,Female,No,0,Not Graduate,Yes,APP1051,,7624.0,115.0,360.0,1.0,Rural,
-LP100052,Applicant_52,Female,Yes,3+,Not Graduate,,APP1052,5848.0,10143.0,,360.0,0.0,Urban,N
-LP100053,Applicant_53,Female,Yes,2,Graduate,Yes,APP1053,8223.0,669.0,258.0,,1.0,Rural,Y
-LP100054,Applicant_54,,No,1,Not Graduate,No,APP1054,,5989.0,472.0,180.0,1.0,Rural,Y
-LP100055,Applicant_55,Female,Yes,2,Graduate,No,APP1055,16552.0,6003.0,323.0,180.0,1.0,Rural,Y
-LP100056,Applicant_56,Female,,2,Not Graduate,No,APP1056,14200.0,2871.0,343.0,240.0,0.0,Urban,Y
-LP100057,Applicant_57,Male,Yes,3+,Not Graduate,No,APP1057,24885.0,10619.0,214.0,240.0,1.0,Urban,Y
-LP100058,Applicant_58,Female,No,0,Not Graduate,Yes,APP1058,18616.0,9155.0,312.0,360.0,1.0,Urban,N
-LP100059,Applicant_59,,No,1,Not Graduate,Yes,APP1059,5295.0,11548.0,665.0,120.0,0.0,Urban,Y
-LP100060,Applicant_60,Male,No,1,Graduate,No,APP1060,,,291.0,360.0,1.0,Semiurban,Y
-LP100061,Applicant_61,Male,No,0,Not Graduate,No,APP1061,,9187.0,465.0,120.0,0.0,Rural,Y
-LP100062,Applicant_62,Male,No,2,Graduate,Yes,APP1062,2942.0,11621.0,294.0,240.0,0.0,Rural,N
-LP100063,Applicant_63,,No,3+,Graduate,No,APP1063,24013.0,12674.0,,240.0,1.0,Rural,N
-LP100064,Applicant_64,Female,Yes,2,Graduate,Yes,APP1064,20973.0,3354.0,,,0.0,Semiurban,Y
-LP100065,Applicant_65,Female,,1,Graduate,No,APP1065,4353.0,2267.0,246.0,240.0,1.0,Urban,N
-LP100066,Applicant_66,,,1,Not Graduate,Yes,APP1066,,5487.0,78.0,360.0,,Urban,Y
-LP100067,Applicant_67,,No,2,Not Graduate,Yes,APP1067,16798.0,3909.0,301.0,240.0,0.0,Urban,Y
-LP100068,Applicant_68,Male,No,1,Graduate,No,APP1068,3011.0,8841.0,367.0,180.0,0.0,Urban,Y
-LP100069,Applicant_69,Male,,3+,Graduate,No,APP1069,4878.0,1860.0,525.0,360.0,0.0,Rural,Y
-LP100070,Applicant_70,,,1,,Yes,APP1070,18558.0,10633.0,547.0,120.0,0.0,Rural,Y
-LP100071,Applicant_71,Female,No,3+,Not Graduate,No,APP1071,23093.0,7839.0,623.0,360.0,1.0,Urban,Y
-LP100072,Applicant_72,Female,No,2,Not Graduate,No,APP1072,11739.0,12081.0,496.0,180.0,1.0,Rural,Y
-LP100073,Applicant_73,Female,No,2,Graduate,No,APP1073,2236.0,12325.0,482.0,180.0,1.0,Semiurban,Y
-LP100074,Applicant_74,Male,No,3+,Not Graduate,No,APP1074,20425.0,9504.0,87.0,120.0,0.0,,Y
-LP100075,Applicant_75,Male,Yes,3+,Not Graduate,No,APP1075,11728.0,14272.0,256.0,240.0,,Rural,Y
-LP100076,Applicant_76,,No,3+,Graduate,Yes,APP1076,22433.0,11515.0,213.0,240.0,0.0,Semiurban,N
-LP100077,Applicant_77,Male,No,1,,No,APP1077,8376.0,3437.0,329.0,360.0,0.0,Urban,Y
-LP100078,Applicant_78,Female,No,2,Graduate,No,APP1078,12014.0,12339.0,189.0,180.0,1.0,Semiurban,N
-LP100079,Applicant_79,Female,No,1,,No,APP1079,8071.0,12206.0,79.0,180.0,0.0,Rural,N
-LP100080,Applicant_80,Female,No,1,Graduate,Yes,APP1080,,12466.0,314.0,120.0,1.0,Urban,Y
-LP100081,Applicant_81,Male,Yes,3+,Not Graduate,No,APP1081,10890.0,3693.0,334.0,180.0,0.0,Urban,Y
-LP100082,Applicant_82,Female,,1,Graduate,Yes,APP1082,10565.0,5250.0,,180.0,0.0,Urban,N
-LP100083,Applicant_83,Male,Yes,0,Graduate,No,APP1083,18941.0,5778.0,230.0,240.0,1.0,Rural,N
-LP100084,Applicant_84,Male,Yes,0,,Yes,APP1084,11957.0,14711.0,93.0,240.0,0.0,Rural,N
-LP100085,Applicant_85,Female,Yes,0,,No,APP1085,15954.0,4380.0,547.0,360.0,1.0,Rural,Y
-LP100086,Applicant_86,Female,Yes,0,Graduate,Yes,APP1086,23491.0,8250.0,70.0,360.0,1.0,Urban,Y
-LP100087,Applicant_87,Female,No,0,Graduate,Yes,APP1087,5355.0,11144.0,106.0,240.0,0.0,Urban,N
-LP100088,Applicant_88,,Yes,3+,Not Graduate,No,APP1088,10434.0,6929.0,,120.0,0.0,Rural,N
-LP100089,Applicant_89,Male,No,1,Graduate,No,APP1089,6392.0,4540.0,371.0,180.0,1.0,Rural,Y
-LP100090,Applicant_90,Male,,,Not Graduate,No,APP1090,6660.0,892.0,,360.0,0.0,Rural,N
-LP100091,Applicant_91,Female,Yes,0,Graduate,Yes,APP1091,10466.0,1038.0,355.0,360.0,0.0,Rural,Y
-LP100092,Applicant_92,Male,No,1,Graduate,No,APP1092,5250.0,6108.0,115.0,240.0,1.0,Semiurban,Y
-LP100093,Applicant_93,Male,,0,Not Graduate,Yes,APP1093,1999.0,5656.0,466.0,120.0,0.0,Semiurban,
-LP100094,Applicant_94,Male,No,1,,No,APP1094,21912.0,7412.0,422.0,120.0,,Urban,Y
-LP100095,Applicant_95,Male,No,,Graduate,Yes,APP1095,19837.0,,142.0,240.0,0.0,Semiurban,Y
-LP100096,Applicant_96,,No,2,,No,APP1096,,8215.0,456.0,120.0,,Rural,Y
-LP100097,Applicant_97,Female,Yes,,,No,APP1097,4854.0,8629.0,193.0,180.0,0.0,Rural,
-LP100098,Applicant_98,Male,No,3+,Not Graduate,Yes,APP1098,8269.0,13591.0,291.0,120.0,1.0,Semiurban,N
-LP100099,Applicant_99,Female,No,3+,Not Graduate,Yes,APP1099,19277.0,2010.0,164.0,360.0,1.0,Semiurban,N
-LP100100,Applicant_100,Female,,0,Not Graduate,No,APP1100,12979.0,7703.0,634.0,180.0,1.0,Rural,N
-LP100101,Applicant_101,,Yes,0,Not Graduate,No,APP1101,,11629.0,562.0,360.0,1.0,Urban,
-LP100102,Applicant_102,Female,Yes,3+,Graduate,No,APP1102,11936.0,8714.0,173.0,120.0,1.0,Semiurban,Y
-LP100103,Applicant_103,Male,Yes,0,Not Graduate,Yes,APP1103,10381.0,11113.0,584.0,360.0,0.0,Semiurban,N
-LP100104,Applicant_104,Male,No,0,Graduate,No,APP1104,6138.0,13523.0,644.0,240.0,0.0,Urban,N
-LP100105,Applicant_105,Female,Yes,2,,,APP1105,24580.0,8730.0,587.0,360.0,0.0,Urban,
-LP100106,Applicant_106,Female,Yes,2,Graduate,Yes,APP1106,10782.0,14736.0,307.0,180.0,1.0,Semiurban,N
-LP100107,Applicant_107,,No,0,Graduate,No,APP1107,20311.0,4788.0,558.0,120.0,1.0,Semiurban,N
-LP100108,Applicant_108,Female,No,3+,Graduate,Yes,APP1108,9522.0,7405.0,142.0,240.0,0.0,Semiurban,Y
-LP100109,Applicant_109,Female,Yes,1,,Yes,APP1109,7112.0,10173.0,293.0,180.0,0.0,Semiurban,N
-LP100110,Applicant_110,Male,No,0,Graduate,Yes,APP1110,3834.0,6031.0,664.0,120.0,0.0,Urban,
-LP100111,Applicant_111,Female,Yes,0,Not Graduate,No,APP1111,11703.0,13105.0,175.0,120.0,0.0,Rural,N
-LP100112,Applicant_112,Male,No,1,Not Graduate,Yes,APP1112,21595.0,11031.0,370.0,,0.0,Semiurban,Y
-LP100113,Applicant_113,Female,Yes,1,Not Graduate,Yes,APP1113,,11357.0,387.0,240.0,0.0,Semiurban,Y
-LP100114,Applicant_114,Male,No,,Not Graduate,Yes,APP1114,19213.0,13251.0,,120.0,0.0,Semiurban,N
-LP100115,Applicant_115,Male,Yes,2,Not Graduate,Yes,APP1115,16037.0,14469.0,449.0,180.0,1.0,Semiurban,N
-LP100116,Applicant_116,Female,Yes,2,Not Graduate,No,APP1116,3162.0,1075.0,291.0,120.0,0.0,Semiurban,Y
-LP100117,Applicant_117,Male,No,2,Not Graduate,Yes,APP1117,5762.0,3085.0,483.0,120.0,0.0,Rural,N
-LP100118,Applicant_118,Male,No,3+,Graduate,Yes,APP1118,2450.0,,273.0,,1.0,Urban,Y
-LP100119,Applicant_119,Female,No,0,Graduate,Yes,APP1119,16925.0,,197.0,240.0,0.0,Urban,N
-LP100120,Applicant_120,Male,No,2,Not Graduate,Yes,APP1120,23634.0,7501.0,159.0,120.0,1.0,Rural,Y
-LP100121,Applicant_121,Male,Yes,3+,Not Graduate,No,APP1121,3153.0,1430.0,229.0,360.0,1.0,Urban,N
-LP100122,Applicant_122,Female,Yes,,Graduate,Yes,APP1122,4971.0,1313.0,269.0,180.0,0.0,Rural,Y
-LP100123,Applicant_123,Female,Yes,1,Not Graduate,Yes,APP1123,14069.0,,331.0,,1.0,Rural,N
-LP100124,Applicant_124,Male,,,Graduate,No,APP1124,3262.0,14711.0,500.0,240.0,0.0,Urban,Y
-LP100125,Applicant_125,Male,Yes,2,Not Graduate,No,APP1125,4321.0,2929.0,468.0,360.0,0.0,Semiurban,N
-LP100126,Applicant_126,Female,Yes,,Not Graduate,No,APP1126,15474.0,4724.0,310.0,360.0,1.0,Rural,N
-LP100127,Applicant_127,Female,Yes,0,Graduate,No,APP1127,14342.0,1260.0,653.0,,1.0,Rural,N
-LP100128,Applicant_128,Male,Yes,0,Graduate,No,APP1128,7364.0,1791.0,107.0,240.0,0.0,Semiurban,Y
-LP100129,Applicant_129,Male,Yes,3+,Not Graduate,No,APP1129,24590.0,2699.0,552.0,240.0,0.0,Semiurban,Y
-LP100130,Applicant_130,Male,No,,Not Graduate,Yes,APP1130,,4521.0,596.0,240.0,0.0,Urban,N
-LP100131,Applicant_131,Male,No,3+,Not Graduate,No,APP1131,20923.0,1835.0,433.0,360.0,1.0,Rural,Y
-LP100132,Applicant_132,Male,No,3+,,No,APP1132,22126.0,11420.0,165.0,360.0,1.0,Urban,N
-LP100133,Applicant_133,Female,No,0,Not Graduate,Yes,APP1133,,2424.0,374.0,360.0,1.0,Semiurban,N
-LP100134,Applicant_134,Male,Yes,0,Not Graduate,Yes,APP1134,24416.0,8131.0,608.0,240.0,,Rural,Y
-LP100135,Applicant_135,Male,No,1,Not Graduate,Yes,APP1135,16109.0,2465.0,,360.0,1.0,,Y
-LP100136,Applicant_136,,No,0,Not Graduate,No,APP1136,21695.0,14335.0,536.0,120.0,0.0,Semiurban,Y
-LP100137,Applicant_137,Female,No,3+,Not Graduate,No,APP1137,13153.0,,302.0,240.0,1.0,Urban,N
-LP100138,Applicant_138,Male,Yes,3+,Graduate,Yes,APP1138,11738.0,8530.0,334.0,120.0,1.0,Urban,N
-LP100139,Applicant_139,,Yes,2,Graduate,No,APP1139,12389.0,,198.0,240.0,0.0,Urban,N
-LP100140,Applicant_140,Female,Yes,0,Graduate,No,APP1140,7992.0,371.0,421.0,180.0,0.0,Semiurban,Y
-LP100141,Applicant_141,Male,Yes,0,Not Graduate,,APP1141,24860.0,,536.0,360.0,1.0,Urban,N
-LP100142,Applicant_142,Male,Yes,1,Not Graduate,,APP1142,23483.0,6824.0,426.0,360.0,1.0,,N
-LP100143,Applicant_143,Female,Yes,1,Not Graduate,Yes,APP1143,18981.0,11180.0,365.0,240.0,1.0,Semiurban,N
-LP100144,Applicant_144,Female,No,3+,Not Graduate,No,APP1144,4073.0,,71.0,,0.0,Semiurban,Y
-LP100145,Applicant_145,Female,No,2,Not Graduate,No,APP1145,16759.0,2163.0,670.0,180.0,0.0,Urban,N
-LP100146,Applicant_146,Female,No,0,Graduate,Yes,APP1146,20105.0,7764.0,85.0,240.0,1.0,Semiurban,N
-LP100147,Applicant_147,Female,No,0,Graduate,Yes,APP1147,5818.0,5680.0,105.0,360.0,1.0,Rural,N
-LP100148,Applicant_148,Male,No,2,Not Graduate,,APP1148,4544.0,,295.0,180.0,1.0,Urban,Y
-LP100149,Applicant_149,Male,No,0,,No,APP1149,24391.0,,309.0,360.0,0.0,Rural,N
-LP100150,Applicant_150,Male,No,1,,Yes,APP1150,16844.0,12086.0,615.0,120.0,,Urban,Y
-LP100151,Applicant_151,Male,Yes,2,Not Graduate,No,APP1151,4687.0,10562.0,443.0,120.0,1.0,Urban,
-LP100152,Applicant_152,Female,Yes,0,Not Graduate,No,APP1152,,351.0,366.0,180.0,0.0,,N
-LP100153,Applicant_153,Male,No,1,Graduate,No,APP1153,11670.0,4776.0,421.0,360.0,1.0,Semiurban,N
-LP100154,Applicant_154,Male,No,1,Graduate,Yes,APP1154,23928.0,3097.0,174.0,120.0,1.0,Urban,Y
-LP100155,Applicant_155,Male,Yes,3+,Graduate,No,APP1155,22616.0,1031.0,597.0,180.0,1.0,Rural,Y
-LP100156,Applicant_156,Male,No,,Not Graduate,Yes,APP1156,24772.0,361.0,292.0,180.0,,Rural,Y
-LP100157,Applicant_157,Male,No,2,Not Graduate,No,APP1157,,14283.0,503.0,240.0,0.0,Urban,Y
-LP100158,Applicant_158,Male,No,1,Graduate,No,APP1158,16918.0,13139.0,447.0,120.0,,Rural,
-LP100159,Applicant_159,Male,Yes,1,Graduate,No,APP1159,,3806.0,58.0,360.0,,Rural,Y
-LP100160,Applicant_160,Male,Yes,3+,Graduate,No,APP1160,,13679.0,452.0,120.0,1.0,Semiurban,Y
-LP100161,Applicant_161,Male,No,2,Graduate,Yes,APP1161,6209.0,8513.0,311.0,240.0,0.0,Urban,N
-LP100162,Applicant_162,Female,Yes,,Graduate,,APP1162,21715.0,10562.0,,,1.0,Semiurban,N
-LP100163,Applicant_163,Male,Yes,1,Graduate,No,APP1163,9955.0,5503.0,142.0,360.0,0.0,Rural,N
-LP100164,Applicant_164,Male,Yes,0,Graduate,Yes,APP1164,13409.0,6745.0,291.0,180.0,0.0,Semiurban,Y
-LP100165,Applicant_165,Female,No,,Graduate,No,APP1165,14347.0,9481.0,354.0,240.0,0.0,Rural,Y
-LP100166,Applicant_166,Female,,0,Not Graduate,No,APP1166,7508.0,5616.0,265.0,360.0,0.0,Rural,Y
-LP100167,Applicant_167,Male,Yes,,Graduate,No,APP1167,24424.0,10743.0,214.0,120.0,0.0,Rural,
-LP100168,Applicant_168,Male,No,3+,Not Graduate,No,APP1168,23296.0,10584.0,499.0,240.0,1.0,Rural,N
-LP100169,Applicant_169,Female,No,,Graduate,No,APP1169,,12891.0,696.0,180.0,1.0,Rural,N
-LP100170,Applicant_170,Male,No,0,Not Graduate,No,APP1170,12141.0,5346.0,374.0,180.0,,Semiurban,Y
-LP100171,Applicant_171,Female,Yes,2,Not Graduate,,APP1171,,7965.0,466.0,180.0,,Rural,Y
-LP100172,Applicant_172,Female,,3+,Not Graduate,Yes,APP1172,17474.0,9721.0,84.0,360.0,,Semiurban,N
-LP100173,Applicant_173,Male,No,2,Not Graduate,Yes,APP1173,,10909.0,330.0,180.0,,Rural,Y
-LP100174,Applicant_174,,No,0,Graduate,Yes,APP1174,3641.0,11417.0,132.0,360.0,,Urban,Y
-LP100175,Applicant_175,Male,Yes,2,Graduate,No,APP1175,17075.0,8686.0,553.0,180.0,1.0,Urban,
-LP100176,Applicant_176,Female,Yes,,Graduate,Yes,APP1176,5199.0,13793.0,532.0,120.0,0.0,Rural,
-LP100177,Applicant_177,Female,No,3+,Not Graduate,No,APP1177,13016.0,8986.0,472.0,180.0,0.0,Rural,N
-LP100178,Applicant_178,Female,Yes,,Not Graduate,No,APP1178,17184.0,7295.0,390.0,120.0,,,Y
-LP100179,Applicant_179,Female,No,2,,Yes,APP1179,16613.0,,482.0,180.0,1.0,Urban,Y
-LP100180,Applicant_180,Female,Yes,3+,Graduate,Yes,APP1180,7096.0,4982.0,152.0,360.0,0.0,Semiurban,N
-LP100181,Applicant_181,Male,No,3+,Not Graduate,Yes,APP1181,10749.0,9293.0,214.0,120.0,0.0,Semiurban,
-LP100182,Applicant_182,Male,Yes,1,Not Graduate,No,APP1182,12923.0,2161.0,317.0,,0.0,Urban,N
-LP100183,Applicant_183,Male,,3+,Not Graduate,Yes,APP1183,21306.0,14717.0,568.0,360.0,0.0,Semiurban,N
-LP100184,Applicant_184,Female,Yes,0,Graduate,Yes,APP1184,20331.0,12932.0,117.0,240.0,1.0,Rural,Y
-LP100185,Applicant_185,Female,No,2,Not Graduate,No,APP1185,5674.0,5021.0,410.0,360.0,1.0,Rural,Y
-LP100186,Applicant_186,Male,Yes,1,Graduate,No,APP1186,18144.0,2813.0,480.0,120.0,0.0,Rural,Y
-LP100187,Applicant_187,Male,No,0,Not Graduate,Yes,APP1187,4872.0,12931.0,666.0,240.0,1.0,Semiurban,N
-LP100188,Applicant_188,Male,No,0,Graduate,No,APP1188,14793.0,4259.0,610.0,240.0,,Semiurban,N
-LP100189,Applicant_189,Male,No,2,Not Graduate,,APP1189,24905.0,3715.0,384.0,,,Semiurban,N
-LP100190,Applicant_190,Female,No,1,Graduate,No,APP1190,5005.0,7933.0,514.0,360.0,1.0,Rural,N
-LP100191,Applicant_191,Male,No,3+,Graduate,No,APP1191,12178.0,6093.0,78.0,240.0,0.0,Semiurban,Y
-LP100192,Applicant_192,Female,Yes,1,Graduate,Yes,APP1192,19723.0,4720.0,103.0,240.0,0.0,,Y
-LP100193,Applicant_193,Male,No,3+,Graduate,No,APP1193,22781.0,,238.0,120.0,1.0,Semiurban,Y
-LP100194,Applicant_194,Female,Yes,2,Graduate,Yes,APP1194,3824.0,13852.0,695.0,360.0,1.0,Semiurban,N
-LP100195,Applicant_195,Female,No,2,Graduate,Yes,APP1195,,775.0,504.0,180.0,1.0,Urban,Y
-LP100196,Applicant_196,Male,Yes,0,,Yes,APP1196,18957.0,2430.0,189.0,,1.0,Urban,Y
-LP100197,Applicant_197,Male,No,0,Not Graduate,Yes,APP1197,16605.0,5785.0,53.0,120.0,1.0,Urban,Y
-LP100198,Applicant_198,,No,,Graduate,No,APP1198,,4659.0,460.0,240.0,1.0,Urban,
-LP100199,Applicant_199,Male,Yes,2,Graduate,,APP1199,20850.0,7469.0,254.0,240.0,1.0,Semiurban,Y
-LP100200,Applicant_200,Male,No,,Not Graduate,Yes,APP1200,15047.0,,693.0,,0.0,Urban,Y
-LP100201,Applicant_201,Male,Yes,2,Graduate,No,APP1201,9317.0,10135.0,362.0,360.0,0.0,,Y
-LP100202,Applicant_202,Male,Yes,2,Graduate,No,APP1202,21844.0,2634.0,371.0,240.0,1.0,Rural,
-LP100203,Applicant_203,Male,No,0,Graduate,No,APP1203,,11662.0,639.0,180.0,1.0,Urban,N
-LP100204,Applicant_204,Male,No,,Graduate,No,APP1204,,,134.0,120.0,1.0,Rural,N
-LP100205,Applicant_205,Female,Yes,0,,No,APP1205,6710.0,4673.0,163.0,,,Semiurban,Y
-LP100206,Applicant_206,Female,,,Not Graduate,No,APP1206,17306.0,2986.0,211.0,360.0,1.0,Semiurban,N
-LP100207,Applicant_207,Female,No,3+,Not Graduate,No,APP1207,14076.0,2873.0,305.0,180.0,1.0,Semiurban,Y
-LP100208,Applicant_208,Male,No,3+,Not Graduate,Yes,APP1208,3664.0,13751.0,578.0,240.0,0.0,Urban,N
-LP100209,Applicant_209,,Yes,,Not Graduate,No,APP1209,12664.0,11601.0,183.0,360.0,1.0,Semiurban,Y
-LP100210,Applicant_210,,No,0,Not Graduate,,APP1210,8323.0,11351.0,658.0,180.0,1.0,Rural,Y
-LP100211,Applicant_211,Male,Yes,,,No,APP1211,24242.0,14822.0,470.0,180.0,1.0,Semiurban,N
-LP100212,Applicant_212,Female,Yes,0,Not Graduate,Yes,APP1212,20864.0,,377.0,180.0,0.0,Semiurban,N
-LP100213,Applicant_213,Male,,2,Graduate,Yes,APP1213,15627.0,13016.0,512.0,120.0,0.0,Urban,N
-LP100214,Applicant_214,Female,Yes,0,Not Graduate,No,APP1214,15765.0,2514.0,539.0,120.0,1.0,Semiurban,Y
-LP100215,Applicant_215,Female,No,2,Not Graduate,No,APP1215,20086.0,2641.0,186.0,360.0,0.0,Rural,Y
-LP100216,Applicant_216,Female,No,3+,Not Graduate,No,APP1216,12713.0,3897.0,316.0,360.0,1.0,Rural,N
-LP100217,Applicant_217,Female,Yes,0,Graduate,No,APP1217,19343.0,1915.0,227.0,360.0,1.0,Urban,N
-LP100218,Applicant_218,,Yes,2,Graduate,No,APP1218,,674.0,657.0,240.0,0.0,Urban,N
-LP100219,Applicant_219,Female,Yes,3+,Not Graduate,Yes,APP1219,9238.0,5187.0,385.0,240.0,1.0,Rural,Y
-LP100220,Applicant_220,Male,Yes,3+,Not Graduate,No,APP1220,7171.0,9413.0,338.0,360.0,0.0,Semiurban,Y
-LP100221,Applicant_221,,No,0,Not Graduate,No,APP1221,23212.0,2072.0,253.0,120.0,0.0,Rural,Y
-LP100222,Applicant_222,Female,Yes,1,Graduate,No,APP1222,23441.0,7223.0,136.0,120.0,1.0,Urban,N
-LP100223,Applicant_223,Male,Yes,1,,Yes,APP1223,4052.0,4266.0,474.0,180.0,0.0,Urban,Y
-LP100224,Applicant_224,Male,Yes,3+,Graduate,Yes,APP1224,24827.0,6056.0,426.0,360.0,0.0,Rural,Y
-LP100225,Applicant_225,Male,Yes,1,Not Graduate,No,APP1225,20315.0,3022.0,236.0,240.0,0.0,Urban,N
-LP100226,Applicant_226,Female,Yes,1,Not Graduate,No,APP1226,17445.0,3361.0,452.0,180.0,1.0,Rural,Y
-LP100227,Applicant_227,Male,No,2,Not Graduate,,APP1227,5246.0,9215.0,,120.0,1.0,Rural,Y
-LP100228,Applicant_228,Male,No,2,Not Graduate,Yes,APP1228,20904.0,11585.0,634.0,360.0,1.0,Rural,N
-LP100229,Applicant_229,Female,No,2,Not Graduate,Yes,APP1229,21032.0,568.0,279.0,120.0,1.0,Semiurban,
-LP100230,Applicant_230,Male,No,3+,Not Graduate,Yes,APP1230,16668.0,10904.0,71.0,180.0,1.0,Semiurban,Y
-LP100231,Applicant_231,Male,,1,Graduate,No,APP1231,12161.0,5192.0,73.0,360.0,1.0,Semiurban,N
-LP100232,Applicant_232,Male,Yes,0,Graduate,Yes,APP1232,19689.0,5633.0,621.0,240.0,1.0,Rural,N
-LP100233,Applicant_233,Male,,1,Graduate,No,APP1233,4699.0,2423.0,676.0,360.0,0.0,Urban,N
-LP100234,Applicant_234,Male,Yes,3+,Graduate,No,APP1234,,,,,1.0,Rural,N
-LP100235,Applicant_235,,No,2,Not Graduate,,APP1235,7272.0,7347.0,284.0,360.0,1.0,,Y
-LP100236,Applicant_236,Male,No,3+,Not Graduate,No,APP1236,11593.0,8845.0,141.0,360.0,1.0,Semiurban,Y
-LP100237,Applicant_237,Female,No,2,Graduate,No,APP1237,14797.0,2663.0,523.0,360.0,0.0,Rural,
-LP100238,Applicant_238,Male,No,3+,Graduate,No,APP1238,3780.0,,253.0,360.0,0.0,Rural,Y
-LP100239,Applicant_239,Male,,0,Not Graduate,No,APP1239,,,318.0,240.0,1.0,Semiurban,Y
-LP100240,Applicant_240,Male,No,2,Not Graduate,No,APP1240,5063.0,1990.0,,120.0,0.0,Rural,N
-LP100241,Applicant_241,Male,Yes,2,Not Graduate,No,APP1241,23962.0,,100.0,360.0,1.0,Rural,
-LP100242,Applicant_242,Female,No,1,,No,APP1242,21043.0,6628.0,,180.0,0.0,,Y
-LP100243,Applicant_243,Female,No,3+,Not Graduate,,APP1243,13916.0,8182.0,682.0,360.0,,Semiurban,Y
-LP100244,Applicant_244,Female,No,1,Not Graduate,Yes,APP1244,12228.0,12591.0,,240.0,0.0,,N
-LP100245,Applicant_245,Male,Yes,3+,Graduate,Yes,APP1245,17697.0,2381.0,664.0,360.0,1.0,Urban,N
-LP100246,Applicant_246,Female,Yes,0,Graduate,Yes,APP1246,22635.0,7504.0,316.0,120.0,,Rural,Y
-LP100247,Applicant_247,Male,No,1,Not Graduate,Yes,APP1247,23132.0,5246.0,202.0,240.0,0.0,Urban,
-LP100248,Applicant_248,Female,No,2,Graduate,No,APP1248,3514.0,2556.0,141.0,360.0,1.0,Urban,N
-LP100249,Applicant_249,Female,Yes,0,Not Graduate,Yes,APP1249,4466.0,70.0,426.0,,,Urban,N
-LP100250,Applicant_250,Male,Yes,3+,Not Graduate,Yes,APP1250,8630.0,12099.0,224.0,360.0,,,N
-LP100251,Applicant_251,Female,No,2,Not Graduate,Yes,APP1251,6052.0,,630.0,360.0,1.0,Rural,Y
-LP100252,Applicant_252,Female,No,3+,,No,APP1252,20530.0,8313.0,170.0,120.0,1.0,Semiurban,N
-LP100253,Applicant_253,Female,Yes,2,,Yes,APP1253,22344.0,,64.0,240.0,1.0,Semiurban,Y
-LP100254,Applicant_254,Male,,3+,Not Graduate,Yes,APP1254,1506.0,10604.0,588.0,240.0,0.0,Semiurban,Y
-LP100255,Applicant_255,Male,Yes,2,,Yes,APP1255,6307.0,11558.0,495.0,360.0,1.0,,Y
-LP100256,Applicant_256,Female,No,3+,Not Graduate,,APP1256,23155.0,4842.0,,240.0,0.0,Rural,N
-LP100257,Applicant_257,Male,No,1,Graduate,Yes,APP1257,6389.0,7764.0,556.0,180.0,1.0,Urban,Y
-LP100258,Applicant_258,Male,Yes,2,Not Graduate,Yes,APP1258,16343.0,14679.0,171.0,360.0,0.0,Semiurban,Y
-LP100259,Applicant_259,Male,Yes,2,Graduate,No,APP1259,,4748.0,279.0,240.0,1.0,Rural,N
-LP100260,Applicant_260,Female,No,1,,Yes,APP1260,11051.0,12356.0,258.0,240.0,0.0,Urban,Y
-LP100261,Applicant_261,,Yes,3+,Graduate,Yes,APP1261,14278.0,9399.0,245.0,240.0,0.0,Semiurban,Y
-LP100262,Applicant_262,Female,No,2,,No,APP1262,21671.0,10926.0,,240.0,,,N
-LP100263,Applicant_263,Male,Yes,1,Not Graduate,Yes,APP1263,20437.0,2409.0,,360.0,,Urban,Y
-LP100264,Applicant_264,Male,,3+,Graduate,Yes,APP1264,16152.0,13100.0,556.0,,1.0,Semiurban,N
-LP100265,Applicant_265,Female,Yes,2,Not Graduate,No,APP1265,7911.0,9260.0,441.0,360.0,1.0,Semiurban,Y
-LP100266,Applicant_266,Female,Yes,2,Not Graduate,No,APP1266,8239.0,11936.0,183.0,240.0,0.0,Rural,N
-LP100267,Applicant_267,Male,No,3+,Not Graduate,,APP1267,23831.0,14858.0,491.0,120.0,1.0,Urban,
-LP100268,Applicant_268,Female,No,1,Not Graduate,Yes,APP1268,11874.0,7243.0,261.0,180.0,,Semiurban,N
-LP100269,Applicant_269,Female,Yes,2,Not Graduate,No,APP1269,11321.0,5549.0,664.0,360.0,0.0,Rural,Y
-LP100270,Applicant_270,Male,No,3+,Not Graduate,No,APP1270,20186.0,11290.0,270.0,360.0,1.0,Urban,Y
-LP100271,Applicant_271,Female,No,,Not Graduate,Yes,APP1271,23767.0,1840.0,339.0,,0.0,Semiurban,Y
-LP100272,Applicant_272,Male,No,3+,Graduate,Yes,APP1272,11479.0,11987.0,243.0,,1.0,Rural,N
-LP100273,Applicant_273,Male,No,2,Not Graduate,Yes,APP1273,,7847.0,478.0,180.0,0.0,Semiurban,Y
-LP100274,Applicant_274,Female,No,,Graduate,Yes,APP1274,12780.0,14748.0,234.0,180.0,0.0,Urban,N
-LP100275,Applicant_275,,,1,Graduate,,APP1275,4425.0,656.0,468.0,120.0,0.0,Rural,N
-LP100276,Applicant_276,Male,,1,Not Graduate,No,APP1276,20594.0,2284.0,199.0,120.0,,Rural,N
-LP100277,Applicant_277,,No,0,Graduate,No,APP1277,1766.0,11108.0,79.0,240.0,1.0,Semiurban,N
-LP100278,Applicant_278,Female,Yes,3+,Graduate,No,APP1278,21537.0,9026.0,347.0,240.0,,Urban,Y
-LP100279,Applicant_279,Female,No,1,Not Graduate,No,APP1279,18225.0,1914.0,,240.0,1.0,Rural,Y
-LP100280,Applicant_280,,Yes,3+,Not Graduate,,APP1280,14744.0,5047.0,291.0,180.0,1.0,Urban,Y
-LP100281,Applicant_281,Female,No,2,Not Graduate,No,APP1281,5679.0,406.0,682.0,180.0,0.0,Urban,Y
-LP100282,Applicant_282,Male,No,0,Graduate,Yes,APP1282,11139.0,6580.0,511.0,180.0,,Semiurban,Y
-LP100283,Applicant_283,Female,No,3+,Graduate,Yes,APP1283,3545.0,10117.0,304.0,360.0,0.0,Urban,N
-LP100284,Applicant_284,Female,Yes,3+,,No,APP1284,,13776.0,428.0,360.0,1.0,Semiurban,Y
-LP100285,Applicant_285,Female,No,1,Graduate,No,APP1285,19485.0,,646.0,180.0,1.0,Urban,N
-LP100286,Applicant_286,Male,Yes,2,Not Graduate,No,APP1286,3240.0,7306.0,519.0,,1.0,Semiurban,Y
-LP100287,Applicant_287,Male,Yes,1,Not Graduate,No,APP1287,1527.0,5855.0,,240.0,0.0,Semiurban,N
-LP100288,Applicant_288,Female,No,2,Not Graduate,No,APP1288,,1515.0,60.0,120.0,0.0,Rural,
-LP100289,Applicant_289,,No,1,Graduate,Yes,APP1289,19851.0,5347.0,530.0,,1.0,,Y
-LP100290,Applicant_290,Male,No,3+,Not Graduate,Yes,APP1290,13271.0,901.0,,180.0,0.0,Rural,
-LP100291,Applicant_291,Male,Yes,3+,Graduate,,APP1291,5094.0,9963.0,381.0,180.0,0.0,Semiurban,N
-LP100292,Applicant_292,,Yes,0,Graduate,No,APP1292,10747.0,,457.0,240.0,0.0,Urban,Y
-LP100293,Applicant_293,Male,,3+,Not Graduate,No,APP1293,2521.0,3197.0,267.0,120.0,1.0,Rural,Y
-LP100294,Applicant_294,Female,No,3+,Not Graduate,No,APP1294,9208.0,9558.0,,,1.0,Urban,N
-LP100295,Applicant_295,Male,No,3+,Graduate,No,APP1295,15646.0,8625.0,483.0,120.0,1.0,Urban,Y
-LP100296,Applicant_296,,Yes,3+,Not Graduate,,APP1296,24510.0,3639.0,661.0,120.0,0.0,Urban,N
-LP100297,Applicant_297,Female,Yes,0,Graduate,No,APP1297,20838.0,12800.0,312.0,360.0,0.0,Urban,N
-LP100298,Applicant_298,Male,No,,Graduate,Yes,APP1298,14419.0,12568.0,124.0,180.0,1.0,Rural,Y
-LP100299,Applicant_299,,,0,Not Graduate,Yes,APP1299,21987.0,,147.0,360.0,0.0,Urban,N
-LP100300,Applicant_300,Male,Yes,0,Not Graduate,Yes,APP1300,11924.0,3206.0,620.0,,,Semiurban,N
-LP100301,Applicant_301,Male,No,1,Graduate,No,APP1301,24823.0,,110.0,360.0,0.0,Semiurban,Y
-LP100302,Applicant_302,Male,,2,Graduate,No,APP1302,14043.0,1369.0,103.0,240.0,1.0,Urban,Y
-LP100303,Applicant_303,Female,Yes,1,Graduate,No,APP1303,14804.0,8821.0,390.0,120.0,0.0,Urban,Y
-LP100304,Applicant_304,Male,Yes,0,Not Graduate,Yes,APP1304,14003.0,13917.0,290.0,180.0,,Semiurban,Y
-LP100305,Applicant_305,Female,No,3+,Graduate,No,APP1305,15760.0,7298.0,532.0,180.0,1.0,Semiurban,Y
-LP100306,Applicant_306,Male,No,,Graduate,,APP1306,19362.0,,412.0,180.0,1.0,Semiurban,Y
-LP100307,Applicant_307,,Yes,3+,Not Graduate,No,APP1307,8421.0,11002.0,670.0,360.0,1.0,Urban,N
-LP100308,Applicant_308,Female,Yes,,Not Graduate,Yes,APP1308,23208.0,1431.0,662.0,120.0,0.0,Semiurban,Y
-LP100309,Applicant_309,Female,Yes,0,Not Graduate,No,APP1309,7182.0,8385.0,96.0,180.0,0.0,Rural,Y
-LP100310,Applicant_310,Male,Yes,0,Not Graduate,No,APP1310,17060.0,6462.0,55.0,240.0,1.0,Urban,Y
-LP100311,Applicant_311,Female,Yes,2,Not Graduate,Yes,APP1311,6057.0,3185.0,309.0,,0.0,Semiurban,Y
-LP100312,Applicant_312,,No,1,Not Graduate,Yes,APP1312,7667.0,8035.0,566.0,120.0,1.0,Semiurban,Y
-LP100313,Applicant_313,Male,Yes,1,Graduate,No,APP1313,19700.0,,684.0,120.0,0.0,Urban,Y
-LP100314,Applicant_314,Male,,3+,,Yes,APP1314,14102.0,9882.0,440.0,120.0,0.0,Rural,
-LP100315,Applicant_315,Female,No,2,Graduate,No,APP1315,13305.0,,,240.0,1.0,Semiurban,N
-LP100316,Applicant_316,Female,Yes,3+,Not Graduate,No,APP1316,15171.0,8381.0,,120.0,0.0,Semiurban,Y
-LP100317,Applicant_317,Male,No,,Graduate,No,APP1317,6555.0,918.0,429.0,180.0,0.0,,N
-LP100318,Applicant_318,,Yes,,Not Graduate,Yes,APP1318,10952.0,14883.0,185.0,360.0,0.0,,Y
-LP100319,Applicant_319,,Yes,2,Graduate,Yes,APP1319,23456.0,10924.0,,240.0,0.0,Urban,N
-LP100320,Applicant_320,Male,Yes,0,Graduate,No,APP1320,5613.0,,92.0,360.0,0.0,Semiurban,N
-LP100321,Applicant_321,Female,Yes,3+,,No,APP1321,,,644.0,240.0,,Urban,Y
-LP100322,Applicant_322,Male,No,0,Graduate,Yes,APP1322,1880.0,2423.0,233.0,180.0,1.0,Rural,N
-LP100323,Applicant_323,Male,Yes,2,Graduate,No,APP1323,3850.0,11730.0,316.0,360.0,0.0,Urban,Y
-LP100324,Applicant_324,Female,No,,Not Graduate,Yes,APP1324,,13988.0,223.0,180.0,,Semiurban,N
-LP100325,Applicant_325,Female,No,0,Not Graduate,No,APP1325,2014.0,7006.0,565.0,180.0,0.0,Urban,N
-LP100326,Applicant_326,Male,Yes,0,Graduate,Yes,APP1326,6218.0,6056.0,554.0,,0.0,Semiurban,Y
-LP100327,Applicant_327,,No,1,Graduate,No,APP1327,17448.0,6326.0,,180.0,0.0,Rural,
-LP100328,Applicant_328,,No,2,Not Graduate,No,APP1328,23058.0,6108.0,529.0,180.0,1.0,Rural,
-LP100329,Applicant_329,Male,No,2,Not Graduate,No,APP1329,15810.0,199.0,185.0,240.0,1.0,Semiurban,N
-LP100330,Applicant_330,Female,Yes,2,Graduate,No,APP1330,,4663.0,141.0,120.0,1.0,Urban,Y
-LP100331,Applicant_331,Male,Yes,3+,Graduate,Yes,APP1331,,5651.0,,240.0,1.0,Rural,N
-LP100332,Applicant_332,Female,No,1,Graduate,Yes,APP1332,5996.0,5756.0,593.0,180.0,1.0,Urban,N
-LP100333,Applicant_333,Male,No,3+,Not Graduate,Yes,APP1333,22545.0,5047.0,493.0,240.0,1.0,Urban,Y
-LP100334,Applicant_334,Male,Yes,2,Not Graduate,Yes,APP1334,15126.0,7300.0,195.0,180.0,1.0,Semiurban,N
-LP100335,Applicant_335,Female,No,3+,,No,APP1335,16443.0,14324.0,316.0,360.0,1.0,Urban,N
-LP100336,Applicant_336,Female,No,0,Not Graduate,Yes,APP1336,24286.0,,169.0,120.0,0.0,Semiurban,N
-LP100337,Applicant_337,Female,No,3+,Not Graduate,No,APP1337,21305.0,,370.0,360.0,0.0,Semiurban,N
-LP100338,Applicant_338,Male,No,,,No,APP1338,15449.0,3533.0,95.0,,1.0,Urban,Y
-LP100339,Applicant_339,Male,No,,Not Graduate,No,APP1339,21922.0,11925.0,,120.0,0.0,,N
-LP100340,Applicant_340,Male,No,0,Not Graduate,No,APP1340,,14545.0,561.0,360.0,1.0,Rural,N
-LP100341,Applicant_341,Male,Yes,2,Not Graduate,Yes,APP1341,16389.0,,337.0,360.0,,Semiurban,Y
-LP100342,Applicant_342,Female,,0,Graduate,No,APP1342,18192.0,12149.0,419.0,180.0,,Urban,Y
-LP100343,Applicant_343,Female,Yes,0,Graduate,Yes,APP1343,,6809.0,490.0,120.0,1.0,,N
-LP100344,Applicant_344,Female,,0,Not Graduate,Yes,APP1344,19589.0,13167.0,,,0.0,Urban,N
-LP100345,Applicant_345,Male,Yes,2,Graduate,,APP1345,16247.0,7249.0,319.0,180.0,1.0,Rural,N
-LP100346,Applicant_346,,No,0,Graduate,Yes,APP1346,14106.0,4728.0,677.0,120.0,1.0,,N
-LP100347,Applicant_347,Female,No,1,Graduate,Yes,APP1347,13142.0,2683.0,,,1.0,,Y
-LP100348,Applicant_348,Female,Yes,1,Graduate,Yes,APP1348,8897.0,13200.0,579.0,360.0,0.0,Urban,Y
-LP100349,Applicant_349,Female,Yes,1,Graduate,No,APP1349,7588.0,11927.0,,180.0,0.0,,Y
-LP100350,Applicant_350,Male,No,1,Graduate,No,APP1350,15418.0,,496.0,180.0,1.0,Rural,Y
-LP100351,Applicant_351,Male,,2,Graduate,Yes,APP1351,21310.0,6944.0,218.0,120.0,1.0,Rural,
-LP100352,Applicant_352,Female,Yes,3+,Graduate,No,APP1352,1743.0,11937.0,373.0,180.0,0.0,Urban,Y
-LP100353,Applicant_353,Male,No,3+,Not Graduate,Yes,APP1353,20437.0,14687.0,553.0,180.0,1.0,,Y
-LP100354,Applicant_354,Female,No,1,Graduate,,APP1354,17823.0,6786.0,204.0,120.0,,Urban,
-LP100355,Applicant_355,Male,Yes,,Not Graduate,Yes,APP1355,9257.0,,619.0,180.0,1.0,Rural,Y
-LP100356,Applicant_356,Male,No,1,Not Graduate,Yes,APP1356,24835.0,13689.0,500.0,120.0,1.0,Urban,Y
-LP100357,Applicant_357,Female,Yes,1,,Yes,APP1357,17940.0,9620.0,104.0,180.0,0.0,,Y
-LP100358,Applicant_358,Female,Yes,3+,Graduate,No,APP1358,10322.0,9796.0,243.0,180.0,1.0,Urban,N
-LP100359,Applicant_359,Female,No,3+,Graduate,Yes,APP1359,14962.0,1410.0,202.0,180.0,0.0,,N
-LP100360,Applicant_360,Female,No,0,Graduate,No,APP1360,19396.0,2353.0,105.0,360.0,1.0,Semiurban,Y
-LP100361,Applicant_361,Male,,1,Graduate,No,APP1361,20385.0,3404.0,285.0,180.0,0.0,Urban,Y
-LP100362,Applicant_362,Female,No,3+,Graduate,No,APP1362,13524.0,4968.0,237.0,120.0,0.0,Urban,N
-LP100363,Applicant_363,Male,Yes,3+,Not Graduate,No,APP1363,2596.0,7776.0,86.0,360.0,0.0,Semiurban,Y
-LP100364,Applicant_364,Female,No,3+,Not Graduate,No,APP1364,2740.0,,531.0,360.0,1.0,Rural,N
-LP100365,Applicant_365,Male,No,0,Not Graduate,No,APP1365,20117.0,8606.0,316.0,180.0,0.0,Rural,
-LP100366,Applicant_366,Female,Yes,1,Graduate,Yes,APP1366,17335.0,5495.0,217.0,240.0,1.0,Rural,N
-LP100367,Applicant_367,Male,No,1,,No,APP1367,24597.0,1083.0,528.0,360.0,0.0,Semiurban,N
-LP100368,Applicant_368,Male,Yes,,Not Graduate,Yes,APP1368,13577.0,9677.0,496.0,120.0,1.0,Rural,
-LP100369,Applicant_369,Female,,0,Graduate,Yes,APP1369,5208.0,12388.0,168.0,,1.0,Urban,Y
-LP100370,Applicant_370,,Yes,0,Graduate,Yes,APP1370,20514.0,6156.0,556.0,120.0,0.0,Urban,N
-LP100371,Applicant_371,,Yes,1,Graduate,No,APP1371,17278.0,1449.0,91.0,240.0,0.0,Rural,N
-LP100372,Applicant_372,Female,No,2,,No,APP1372,24126.0,108.0,502.0,180.0,0.0,Urban,N
-LP100373,Applicant_373,Female,Yes,2,Not Graduate,,APP1373,4123.0,6708.0,415.0,120.0,0.0,Urban,Y
-LP100374,Applicant_374,Male,No,1,Graduate,No,APP1374,6155.0,10466.0,624.0,120.0,0.0,Semiurban,N
-LP100375,Applicant_375,Female,Yes,3+,Not Graduate,Yes,APP1375,18749.0,14981.0,546.0,180.0,1.0,Semiurban,N
-LP100376,Applicant_376,Female,Yes,0,Graduate,Yes,APP1376,10656.0,4478.0,518.0,240.0,1.0,Semiurban,N
-LP100377,Applicant_377,Female,Yes,2,Not Graduate,No,APP1377,16735.0,6791.0,554.0,360.0,0.0,Semiurban,Y
-LP100378,Applicant_378,Female,No,3+,Graduate,No,APP1378,,2865.0,165.0,360.0,1.0,Urban,Y
-LP100379,Applicant_379,Female,No,2,Graduate,Yes,APP1379,4063.0,9106.0,201.0,180.0,0.0,Urban,Y
-LP100380,Applicant_380,Female,Yes,3+,Not Graduate,,APP1380,18649.0,7571.0,176.0,180.0,1.0,Rural,N
-LP100381,Applicant_381,Male,No,3+,Graduate,Yes,APP1381,21490.0,11636.0,407.0,,0.0,Rural,Y
-LP100382,Applicant_382,,No,0,Graduate,,APP1382,4398.0,9304.0,145.0,180.0,0.0,Rural,
-LP100383,Applicant_383,Female,Yes,2,,No,APP1383,9535.0,12373.0,258.0,240.0,1.0,Semiurban,Y
-LP100384,Applicant_384,Female,Yes,2,Graduate,Yes,APP1384,16981.0,14989.0,,120.0,0.0,Semiurban,N
-LP100385,Applicant_385,Male,Yes,3+,Graduate,,APP1385,22165.0,2243.0,234.0,120.0,1.0,Semiurban,Y
-LP100386,Applicant_386,Female,No,1,Not Graduate,Yes,APP1386,23249.0,3264.0,222.0,240.0,0.0,,N
-LP100387,Applicant_387,Female,Yes,2,Graduate,,APP1387,23412.0,3047.0,570.0,180.0,0.0,Urban,
-LP100388,Applicant_388,Male,Yes,0,Not Graduate,,APP1388,,13636.0,329.0,360.0,0.0,Semiurban,N
-LP100389,Applicant_389,Female,,1,,Yes,APP1389,23915.0,6254.0,626.0,180.0,0.0,Semiurban,N
-LP100390,Applicant_390,Female,Yes,2,Not Graduate,No,APP1390,22264.0,4742.0,,120.0,1.0,Rural,Y
-LP100391,Applicant_391,Male,No,0,Graduate,No,APP1391,,9074.0,267.0,180.0,1.0,Urban,Y
-LP100392,Applicant_392,Female,Yes,1,Graduate,,APP1392,20493.0,8037.0,647.0,120.0,,Urban,N
-LP100393,Applicant_393,Female,,2,,No,APP1393,11739.0,691.0,54.0,180.0,1.0,,N
-LP100394,Applicant_394,Female,Yes,0,Graduate,Yes,APP1394,21588.0,13480.0,588.0,,0.0,Urban,N
-LP100395,Applicant_395,Female,Yes,1,,Yes,APP1395,3229.0,13537.0,634.0,,0.0,Semiurban,Y
-LP100396,Applicant_396,Female,Yes,2,Not Graduate,Yes,APP1396,12757.0,4947.0,234.0,180.0,1.0,Urban,Y
-LP100397,Applicant_397,Male,,1,Graduate,No,APP1397,19031.0,13673.0,476.0,240.0,1.0,Semiurban,N
-LP100398,Applicant_398,Female,No,3+,Graduate,No,APP1398,1853.0,,128.0,180.0,0.0,Semiurban,N
-LP100399,Applicant_399,Male,,3+,Graduate,,APP1399,16863.0,4979.0,302.0,360.0,0.0,Urban,N
-LP100400,Applicant_400,Male,Yes,1,Graduate,Yes,APP1400,16377.0,8095.0,560.0,240.0,1.0,Urban,N
-LP100401,Applicant_401,Female,No,,Graduate,,APP1401,18298.0,9163.0,146.0,360.0,1.0,Rural,N
-LP100402,Applicant_402,Female,Yes,3+,Not Graduate,Yes,APP1402,16875.0,12121.0,386.0,180.0,1.0,Urban,Y
-LP100403,Applicant_403,Male,Yes,1,Graduate,Yes,APP1403,20307.0,7593.0,76.0,240.0,0.0,Urban,N
-LP100404,Applicant_404,Male,Yes,3+,Graduate,Yes,APP1404,12363.0,3678.0,341.0,120.0,1.0,Urban,N
-LP100405,Applicant_405,Female,No,1,Graduate,Yes,APP1405,15295.0,439.0,174.0,240.0,,Rural,Y
-LP100406,Applicant_406,Male,No,1,Graduate,No,APP1406,13064.0,12963.0,453.0,240.0,1.0,Urban,Y
-LP100407,Applicant_407,Male,Yes,3+,Not Graduate,,APP1407,11154.0,40.0,432.0,180.0,1.0,Urban,Y
-LP100408,Applicant_408,Male,No,2,Graduate,Yes,APP1408,10976.0,2523.0,654.0,120.0,,Urban,N
-LP100409,Applicant_409,Male,Yes,,Not Graduate,Yes,APP1409,6988.0,4303.0,158.0,,1.0,Semiurban,N
-LP100410,Applicant_410,Male,No,1,Not Graduate,No,APP1410,2657.0,4917.0,,240.0,0.0,Semiurban,Y
-LP100411,Applicant_411,,,2,Not Graduate,Yes,APP1411,24275.0,10494.0,207.0,240.0,0.0,Urban,Y
-LP100412,Applicant_412,Female,Yes,3+,,No,APP1412,21083.0,13668.0,79.0,240.0,0.0,Rural,N
-LP100413,Applicant_413,Male,No,0,,Yes,APP1413,,10429.0,133.0,120.0,0.0,Rural,N
-LP100414,Applicant_414,Female,Yes,2,Graduate,Yes,APP1414,19971.0,7742.0,521.0,240.0,0.0,Rural,N
-LP100415,Applicant_415,Female,Yes,0,Graduate,Yes,APP1415,10034.0,2034.0,541.0,360.0,0.0,,Y
-LP100416,Applicant_416,Male,No,3+,Graduate,,APP1416,3512.0,,514.0,180.0,1.0,Urban,N
-LP100417,Applicant_417,Female,No,,Not Graduate,Yes,APP1417,22120.0,10910.0,693.0,180.0,0.0,Rural,
-LP100418,Applicant_418,Female,Yes,1,Not Graduate,No,APP1418,17004.0,14625.0,325.0,180.0,1.0,Semiurban,N
-LP100419,Applicant_419,Female,No,3+,Not Graduate,Yes,APP1419,20444.0,4713.0,658.0,240.0,0.0,Semiurban,N
-LP100420,Applicant_420,Male,,3+,Not Graduate,Yes,APP1420,7040.0,6834.0,55.0,180.0,0.0,Semiurban,Y
-LP100421,Applicant_421,Male,No,3+,Graduate,Yes,APP1421,20271.0,2938.0,387.0,240.0,1.0,,Y
-LP100422,Applicant_422,Male,Yes,3+,,No,APP1422,3191.0,8059.0,94.0,180.0,1.0,Rural,N
-LP100423,Applicant_423,Male,No,3+,Graduate,,APP1423,23006.0,14856.0,687.0,120.0,0.0,Semiurban,N
-LP100424,Applicant_424,Female,Yes,3+,Graduate,No,APP1424,11060.0,11269.0,513.0,240.0,0.0,Rural,N
-LP100425,Applicant_425,Male,No,3+,Graduate,Yes,APP1425,21957.0,10564.0,382.0,240.0,1.0,,Y
-LP100426,Applicant_426,Male,Yes,1,Graduate,Yes,APP1426,2394.0,4009.0,632.0,,0.0,,N
-LP100427,Applicant_427,Female,Yes,0,Not Graduate,No,APP1427,10898.0,466.0,,120.0,1.0,Rural,N
-LP100428,Applicant_428,Male,No,0,Not Graduate,,APP1428,17384.0,1955.0,266.0,120.0,,Urban,Y
-LP100429,Applicant_429,Male,,1,Not Graduate,Yes,APP1429,4203.0,,99.0,360.0,1.0,,N
-LP100430,Applicant_430,Male,Yes,2,Not Graduate,Yes,APP1430,5655.0,4541.0,339.0,,0.0,Urban,Y
-LP100431,Applicant_431,Female,No,0,Graduate,No,APP1431,18067.0,8078.0,380.0,360.0,1.0,Urban,N
-LP100432,Applicant_432,Male,,2,Not Graduate,Yes,APP1432,4018.0,1093.0,106.0,120.0,1.0,Semiurban,Y
-LP100433,Applicant_433,Female,,1,Not Graduate,No,APP1433,10604.0,9812.0,122.0,240.0,0.0,Semiurban,N
-LP100434,Applicant_434,Female,No,2,Graduate,No,APP1434,9759.0,12215.0,610.0,,0.0,Rural,N
-LP100435,Applicant_435,Female,No,1,Graduate,No,APP1435,5843.0,5927.0,666.0,180.0,0.0,Rural,Y
-LP100436,Applicant_436,,Yes,3+,Not Graduate,Yes,APP1436,21678.0,,440.0,,1.0,Urban,N
-LP100437,Applicant_437,Female,Yes,3+,Not Graduate,Yes,APP1437,10706.0,7872.0,144.0,240.0,1.0,Semiurban,Y
-LP100438,Applicant_438,Male,Yes,0,Not Graduate,No,APP1438,10518.0,9266.0,458.0,120.0,1.0,,Y
-LP100439,Applicant_439,,No,,Not Graduate,No,APP1439,9919.0,7144.0,311.0,240.0,0.0,Rural,N
-LP100440,Applicant_440,Female,Yes,2,Not Graduate,Yes,APP1440,,14226.0,232.0,240.0,0.0,,N
-LP100441,Applicant_441,Female,No,2,Not Graduate,,APP1441,,4225.0,295.0,240.0,1.0,Urban,Y
-LP100442,Applicant_442,Male,Yes,0,Not Graduate,Yes,APP1442,21286.0,10289.0,458.0,240.0,0.0,Semiurban,N
-LP100443,Applicant_443,Female,,,Graduate,No,APP1443,7221.0,11237.0,141.0,,0.0,Rural,Y
-LP100444,Applicant_444,Female,,1,Graduate,No,APP1444,20891.0,7799.0,71.0,120.0,0.0,Rural,N
-LP100445,Applicant_445,Male,Yes,3+,Graduate,No,APP1445,6452.0,11374.0,263.0,240.0,1.0,Rural,N
-LP100446,Applicant_446,Female,No,0,Graduate,No,APP1446,23099.0,13406.0,216.0,120.0,0.0,Rural,
-LP100447,Applicant_447,Female,No,1,Graduate,Yes,APP1447,16135.0,1959.0,447.0,120.0,0.0,Semiurban,N
-LP100448,Applicant_448,Male,No,2,Graduate,Yes,APP1448,13616.0,6114.0,462.0,240.0,0.0,Semiurban,Y
-LP100449,Applicant_449,Female,No,0,Not Graduate,No,APP1449,7247.0,8397.0,341.0,360.0,1.0,Rural,Y
-LP100450,Applicant_450,Male,No,3+,Not Graduate,No,APP1450,10060.0,12008.0,207.0,,1.0,Rural,Y
-LP100451,Applicant_451,,Yes,2,Not Graduate,No,APP1451,,9425.0,,240.0,1.0,Semiurban,Y
-LP100452,Applicant_452,Female,Yes,2,Graduate,No,APP1452,9239.0,287.0,355.0,180.0,,Urban,
-LP100453,Applicant_453,Female,No,0,Not Graduate,,APP1453,17389.0,,552.0,120.0,1.0,Semiurban,Y
-LP100454,Applicant_454,Male,No,3+,Not Graduate,Yes,APP1454,,4252.0,492.0,360.0,1.0,Rural,Y
-LP100455,Applicant_455,Male,Yes,0,Graduate,Yes,APP1455,18781.0,2668.0,367.0,120.0,0.0,Rural,Y
-LP100456,Applicant_456,Male,,1,Graduate,No,APP1456,2584.0,9529.0,667.0,,1.0,Urban,Y
-LP100457,Applicant_457,Male,No,1,Not Graduate,No,APP1457,12734.0,958.0,184.0,120.0,1.0,,N
-LP100458,Applicant_458,Female,Yes,2,Not Graduate,No,APP1458,,2394.0,417.0,360.0,1.0,Rural,N
-LP100459,Applicant_459,Male,No,3+,Graduate,No,APP1459,6253.0,5237.0,148.0,120.0,0.0,Rural,Y
-LP100460,Applicant_460,Male,,,Not Graduate,No,APP1460,,7553.0,426.0,180.0,,Semiurban,Y
-LP100461,Applicant_461,Male,No,1,Not Graduate,Yes,APP1461,6551.0,,574.0,360.0,1.0,Urban,
-LP100462,Applicant_462,Female,No,1,Graduate,,APP1462,,11358.0,,360.0,0.0,Rural,N
-LP100463,Applicant_463,Female,No,1,Graduate,Yes,APP1463,15031.0,2219.0,551.0,360.0,0.0,Urban,N
-LP100464,Applicant_464,Female,No,0,Not Graduate,Yes,APP1464,14055.0,5855.0,506.0,120.0,0.0,Urban,Y
-LP100465,Applicant_465,Female,Yes,2,Not Graduate,No,APP1465,9297.0,2675.0,447.0,360.0,0.0,Semiurban,N
-LP100466,Applicant_466,Female,No,2,Graduate,Yes,APP1466,23148.0,866.0,,180.0,0.0,Rural,Y
-LP100467,Applicant_467,Male,,1,Graduate,No,APP1467,15923.0,4467.0,,120.0,1.0,Semiurban,Y
-LP100468,Applicant_468,Male,No,,Not Graduate,Yes,APP1468,22392.0,,626.0,180.0,0.0,Rural,N
-LP100469,Applicant_469,Female,,2,Graduate,No,APP1469,6981.0,6873.0,,120.0,1.0,Rural,Y
-LP100470,Applicant_470,Female,Yes,2,Not Graduate,Yes,APP1470,8409.0,10424.0,483.0,120.0,1.0,Semiurban,Y
-LP100471,Applicant_471,Male,No,2,,,APP1471,20431.0,14943.0,142.0,,,Semiurban,N
-LP100472,Applicant_472,Female,Yes,0,,Yes,APP1472,12807.0,5832.0,482.0,,1.0,Semiurban,
-LP100473,Applicant_473,Female,No,1,Not Graduate,No,APP1473,3280.0,798.0,427.0,180.0,0.0,Rural,Y
-LP100474,Applicant_474,Male,Yes,3+,Not Graduate,No,APP1474,22545.0,4749.0,678.0,,1.0,,Y
-LP100475,Applicant_475,Female,No,0,Graduate,,APP1475,10163.0,4778.0,,120.0,,,Y
-LP100476,Applicant_476,Female,No,2,Graduate,No,APP1476,,8677.0,494.0,,1.0,Urban,
-LP100477,Applicant_477,Female,Yes,1,Graduate,Yes,APP1477,3221.0,10468.0,695.0,120.0,,Urban,N
-LP100478,Applicant_478,Female,Yes,1,Graduate,,APP1478,6991.0,1258.0,486.0,120.0,1.0,Rural,N
-LP100479,Applicant_479,Male,No,1,Not Graduate,Yes,APP1479,,8419.0,145.0,,0.0,Rural,Y
-LP100480,Applicant_480,Female,No,1,,Yes,APP1480,14566.0,3175.0,91.0,240.0,1.0,Urban,N
-LP100481,Applicant_481,Male,No,2,Graduate,Yes,APP1481,17105.0,12557.0,575.0,240.0,,Rural,N
-LP100482,Applicant_482,Female,No,1,Graduate,Yes,APP1482,11375.0,10289.0,399.0,360.0,1.0,Urban,Y
-LP100483,Applicant_483,Female,No,3+,Not Graduate,Yes,APP1483,,,,240.0,1.0,Urban,Y
-LP100484,Applicant_484,Female,Yes,3+,Not Graduate,Yes,APP1484,18949.0,12528.0,279.0,180.0,1.0,Urban,N
-LP100485,Applicant_485,Male,,,Graduate,Yes,APP1485,9156.0,1548.0,,240.0,1.0,Semiurban,N
-LP100486,Applicant_486,Female,No,2,Not Graduate,No,APP1486,13945.0,9810.0,557.0,,1.0,Rural,N
-LP100487,Applicant_487,Female,No,3+,Not Graduate,Yes,APP1487,23897.0,12331.0,589.0,180.0,,Rural,N
-LP100488,Applicant_488,Female,Yes,3+,Graduate,Yes,APP1488,24621.0,2738.0,694.0,,1.0,Urban,N
-LP100489,Applicant_489,Male,No,3+,Graduate,Yes,APP1489,14281.0,8908.0,587.0,240.0,0.0,Rural,
-LP100490,Applicant_490,Female,No,0,Not Graduate,No,APP1490,17051.0,5285.0,135.0,180.0,1.0,Urban,N
-LP100491,Applicant_491,Male,No,0,Not Graduate,No,APP1491,10105.0,14294.0,347.0,240.0,,Urban,Y
-LP100492,Applicant_492,Male,Yes,,Graduate,No,APP1492,6256.0,,529.0,240.0,0.0,Rural,Y
-LP100493,Applicant_493,,Yes,2,Graduate,Yes,APP1493,18881.0,13546.0,497.0,,1.0,Semiurban,N
-LP100494,Applicant_494,Male,No,2,Not Graduate,No,APP1494,15745.0,13844.0,131.0,360.0,,Urban,Y
-LP100495,Applicant_495,Male,No,,Not Graduate,Yes,APP1495,1888.0,11222.0,539.0,120.0,1.0,Semiurban,N
-LP100496,Applicant_496,Female,Yes,3+,Not Graduate,Yes,APP1496,10963.0,13105.0,,,,Rural,Y
-LP100497,Applicant_497,Male,Yes,2,Graduate,,APP1497,16206.0,4932.0,202.0,240.0,,Urban,Y
-LP100498,Applicant_498,Female,Yes,0,Not Graduate,Yes,APP1498,14017.0,4447.0,180.0,240.0,0.0,,Y
-LP100499,Applicant_499,,No,0,Not Graduate,No,APP1499,23732.0,11230.0,357.0,180.0,0.0,,
-LP100500,Applicant_500,Male,Yes,3+,Not Graduate,Yes,APP1500,11844.0,11435.0,304.0,240.0,1.0,Rural,N
-LP100501,Applicant_501,Female,Yes,2,Graduate,No,APP1501,18875.0,11277.0,585.0,240.0,1.0,Urban,N
-LP100502,Applicant_502,Female,Yes,0,Not Graduate,,APP1502,23876.0,5939.0,487.0,360.0,0.0,Semiurban,Y
-LP100503,Applicant_503,Female,Yes,3+,Graduate,No,APP1503,,,352.0,120.0,0.0,Urban,N
-LP100504,Applicant_504,Male,No,1,Graduate,No,APP1504,4690.0,8755.0,632.0,180.0,,Rural,Y
-LP100505,Applicant_505,Female,No,,Not Graduate,,APP1505,18909.0,9503.0,98.0,180.0,1.0,Rural,Y
-LP100506,Applicant_506,Female,No,1,Not Graduate,Yes,APP1506,22387.0,5761.0,614.0,,0.0,Semiurban,N
-LP100507,Applicant_507,Female,Yes,3+,Graduate,No,APP1507,13094.0,13489.0,128.0,360.0,1.0,Urban,
-LP100508,Applicant_508,Female,Yes,2,,Yes,APP1508,15648.0,2354.0,96.0,240.0,0.0,Semiurban,Y
-LP100509,Applicant_509,Female,No,2,Graduate,Yes,APP1509,21504.0,211.0,575.0,120.0,1.0,Urban,Y
-LP100510,Applicant_510,Female,,2,Not Graduate,No,APP1510,22866.0,2243.0,160.0,120.0,0.0,Urban,N
-LP100511,Applicant_511,Female,No,2,Graduate,Yes,APP1511,10432.0,8489.0,572.0,,0.0,Semiurban,Y
-LP100512,Applicant_512,Male,No,1,,Yes,APP1512,12476.0,4610.0,485.0,240.0,0.0,,
-LP100513,Applicant_513,,Yes,3+,Not Graduate,Yes,APP1513,10358.0,6111.0,472.0,240.0,0.0,Semiurban,N
-LP100514,Applicant_514,Male,Yes,2,Not Graduate,Yes,APP1514,10251.0,12759.0,146.0,240.0,0.0,Semiurban,N
-LP100515,Applicant_515,Male,No,0,Graduate,Yes,APP1515,4720.0,7944.0,525.0,120.0,1.0,Semiurban,N
-LP100516,Applicant_516,Female,No,0,Graduate,No,APP1516,9867.0,6750.0,632.0,120.0,0.0,Urban,N
-LP100517,Applicant_517,Male,No,0,Not Graduate,Yes,APP1517,,5575.0,309.0,360.0,1.0,Semiurban,Y
-LP100518,Applicant_518,Male,No,3+,,Yes,APP1518,20642.0,14922.0,413.0,360.0,1.0,Semiurban,N
-LP100519,Applicant_519,Male,,0,Not Graduate,Yes,APP1519,14317.0,2671.0,310.0,180.0,1.0,Rural,Y
-LP100520,Applicant_520,Male,Yes,0,Not Graduate,Yes,APP1520,16609.0,,649.0,180.0,1.0,Semiurban,N
-LP100521,Applicant_521,,Yes,1,Not Graduate,No,APP1521,23627.0,,133.0,120.0,1.0,Rural,Y
-LP100522,Applicant_522,,Yes,3+,Graduate,,APP1522,9423.0,2532.0,565.0,240.0,0.0,Rural,N
-LP100523,Applicant_523,Male,No,3+,Graduate,No,APP1523,23516.0,8247.0,66.0,240.0,1.0,,Y
-LP100524,Applicant_524,Male,,0,,No,APP1524,20791.0,3622.0,166.0,180.0,0.0,Urban,N
-LP100525,Applicant_525,Male,Yes,3+,Graduate,No,APP1525,7887.0,13624.0,523.0,240.0,0.0,Urban,N
-LP100526,Applicant_526,Male,No,1,Not Graduate,Yes,APP1526,18537.0,3087.0,233.0,360.0,0.0,Urban,Y
-LP100527,Applicant_527,,No,1,,Yes,APP1527,12556.0,13027.0,236.0,240.0,1.0,Rural,Y
-LP100528,Applicant_528,Male,No,2,Not Graduate,Yes,APP1528,23707.0,14697.0,452.0,180.0,0.0,Rural,N
-LP100529,Applicant_529,Male,Yes,1,Not Graduate,,APP1529,24119.0,9153.0,96.0,240.0,1.0,Urban,N
-LP100530,Applicant_530,Female,No,2,Graduate,No,APP1530,7395.0,10050.0,135.0,360.0,0.0,Rural,N
-LP100531,Applicant_531,Female,No,0,Graduate,Yes,APP1531,11765.0,11299.0,476.0,120.0,0.0,Rural,
-LP100532,Applicant_532,Female,,,Graduate,No,APP1532,19444.0,13621.0,354.0,240.0,,Urban,N
-LP100533,Applicant_533,Male,Yes,2,Not Graduate,No,APP1533,,8612.0,371.0,120.0,0.0,Urban,Y
-LP100534,Applicant_534,Male,Yes,0,Graduate,No,APP1534,,13862.0,651.0,,0.0,Rural,N
-LP100535,Applicant_535,Male,Yes,,Not Graduate,No,APP1535,1777.0,,,180.0,1.0,Urban,N
-LP100536,Applicant_536,Female,No,1,Graduate,No,APP1536,3726.0,11674.0,510.0,360.0,1.0,Semiurban,Y
-LP100537,Applicant_537,Male,Yes,0,Not Graduate,,APP1537,1891.0,9029.0,688.0,180.0,1.0,Rural,N
-LP100538,Applicant_538,Male,No,3+,,,APP1538,14975.0,11505.0,,,1.0,Semiurban,N
-LP100539,Applicant_539,Female,Yes,2,Graduate,,APP1539,4701.0,12391.0,399.0,240.0,0.0,Rural,Y
-LP100540,Applicant_540,Female,No,1,Graduate,Yes,APP1540,18711.0,13149.0,241.0,360.0,0.0,Urban,Y
-LP100541,Applicant_541,Female,No,3+,Not Graduate,Yes,APP1541,4904.0,1867.0,266.0,180.0,0.0,Semiurban,Y
-LP100542,Applicant_542,,Yes,0,Graduate,No,APP1542,23962.0,6837.0,239.0,180.0,0.0,Urban,N
-LP100543,Applicant_543,,No,0,Not Graduate,No,APP1543,16112.0,7544.0,130.0,360.0,1.0,Rural,
-LP100544,Applicant_544,Male,No,0,Graduate,No,APP1544,,1251.0,668.0,240.0,0.0,Urban,N
-LP100545,Applicant_545,Male,Yes,1,Not Graduate,No,APP1545,8689.0,1909.0,315.0,,1.0,Semiurban,N
-LP100546,Applicant_546,Female,Yes,3+,Graduate,No,APP1546,10783.0,13415.0,158.0,180.0,0.0,Semiurban,N
-LP100547,Applicant_547,Male,No,0,Not Graduate,No,APP1547,9754.0,,,180.0,1.0,Urban,N
-LP100548,Applicant_548,,Yes,1,Graduate,,APP1548,7826.0,284.0,597.0,120.0,1.0,Rural,Y
-LP100549,Applicant_549,,Yes,1,Graduate,Yes,APP1549,2615.0,7856.0,68.0,,1.0,Rural,Y
-LP100550,Applicant_550,Female,Yes,3+,Not Graduate,No,APP1550,2276.0,5705.0,55.0,240.0,1.0,Urban,N
-LP100551,Applicant_551,Female,Yes,0,Not Graduate,Yes,APP1551,21796.0,,454.0,360.0,1.0,Rural,N
-LP100552,Applicant_552,Male,Yes,0,Graduate,Yes,APP1552,4512.0,11322.0,169.0,120.0,1.0,Urban,Y
-LP100553,Applicant_553,Female,No,2,Not Graduate,No,APP1553,3363.0,5940.0,63.0,360.0,,,
-LP100554,Applicant_554,Male,Yes,0,Graduate,Yes,APP1554,20968.0,2277.0,225.0,,0.0,Semiurban,Y
-LP100555,Applicant_555,Female,No,3+,,No,APP1555,23015.0,13386.0,538.0,120.0,1.0,Urban,Y
-LP100556,Applicant_556,Female,No,1,Not Graduate,Yes,APP1556,8604.0,7240.0,521.0,240.0,1.0,Rural,
-LP100557,Applicant_557,Male,No,3+,Not Graduate,Yes,APP1557,,14577.0,464.0,240.0,0.0,Semiurban,Y
-LP100558,Applicant_558,Female,Yes,0,Graduate,No,APP1558,,9791.0,666.0,180.0,0.0,,Y
-LP100559,Applicant_559,Female,Yes,1,Graduate,Yes,APP1559,5490.0,8570.0,548.0,360.0,,Urban,Y
-LP100560,Applicant_560,Female,Yes,3+,Graduate,No,APP1560,24702.0,12510.0,360.0,180.0,1.0,Rural,N
-LP100561,Applicant_561,Male,No,0,Graduate,,APP1561,5431.0,,683.0,240.0,,Urban,N
-LP100562,Applicant_562,Female,,0,Not Graduate,Yes,APP1562,4330.0,2821.0,681.0,240.0,1.0,Rural,N
-LP100563,Applicant_563,Male,,0,Not Graduate,Yes,APP1563,21314.0,11630.0,419.0,360.0,1.0,Semiurban,Y
-LP100564,Applicant_564,Female,No,,Not Graduate,No,APP1564,5756.0,4991.0,454.0,240.0,1.0,Rural,Y
-LP100565,Applicant_565,Female,No,2,Not Graduate,No,APP1565,13819.0,471.0,,180.0,0.0,Rural,Y
-LP100566,Applicant_566,Female,Yes,2,Graduate,Yes,APP1566,23008.0,12197.0,139.0,180.0,0.0,,N
-LP100567,Applicant_567,Female,Yes,,,,APP1567,22730.0,13345.0,,180.0,0.0,Rural,Y
-LP100568,Applicant_568,Female,No,3+,Not Graduate,No,APP1568,20048.0,1943.0,188.0,120.0,0.0,Rural,Y
-LP100569,Applicant_569,Female,Yes,1,Not Graduate,No,APP1569,7554.0,3643.0,64.0,240.0,0.0,Urban,Y
-LP100570,Applicant_570,,No,1,Not Graduate,Yes,APP1570,5132.0,2108.0,245.0,240.0,1.0,Semiurban,Y
-LP100571,Applicant_571,Male,No,0,Not Graduate,Yes,APP1571,24295.0,14038.0,164.0,180.0,0.0,Rural,N
-LP100572,Applicant_572,Female,No,0,Graduate,No,APP1572,7537.0,,66.0,,1.0,Rural,N
-LP100573,Applicant_573,Female,Yes,1,Graduate,No,APP1573,,2332.0,242.0,180.0,0.0,Semiurban,N
-LP100574,Applicant_574,Male,Yes,3+,Not Graduate,Yes,APP1574,11152.0,11272.0,77.0,240.0,0.0,Urban,Y
-LP100575,Applicant_575,Female,Yes,2,Not Graduate,No,APP1575,16801.0,3712.0,264.0,120.0,1.0,Rural,
-LP100576,Applicant_576,Female,,1,Not Graduate,Yes,APP1576,23142.0,5036.0,542.0,180.0,1.0,Rural,Y
-LP100577,Applicant_577,Female,Yes,1,Graduate,Yes,APP1577,3981.0,2053.0,198.0,360.0,0.0,Semiurban,N
-LP100578,Applicant_578,,Yes,3+,Graduate,,APP1578,22431.0,3438.0,297.0,180.0,1.0,Rural,Y
-LP100579,Applicant_579,Female,Yes,3+,,No,APP1579,16358.0,2133.0,496.0,240.0,0.0,Rural,
-LP100580,Applicant_580,Female,No,1,Not Graduate,Yes,APP1580,10556.0,1287.0,691.0,360.0,1.0,Semiurban,N
-LP100581,Applicant_581,Male,Yes,0,Not Graduate,No,APP1581,15491.0,6960.0,601.0,240.0,1.0,Urban,Y
-LP100582,Applicant_582,Female,Yes,0,Graduate,Yes,APP1582,24182.0,11318.0,245.0,180.0,1.0,Rural,Y
-LP100583,Applicant_583,Male,No,1,Graduate,No,APP1583,23375.0,12501.0,138.0,120.0,0.0,Semiurban,Y
-LP100584,Applicant_584,,Yes,0,Not Graduate,Yes,APP1584,12097.0,12845.0,358.0,240.0,0.0,Urban,N
-LP100585,Applicant_585,Female,No,3+,Graduate,No,APP1585,,1830.0,524.0,240.0,,Urban,N
-LP100586,Applicant_586,Female,No,,,Yes,APP1586,6807.0,1273.0,201.0,,1.0,Urban,N
-LP100587,Applicant_587,Female,Yes,3+,Not Graduate,Yes,APP1587,3924.0,308.0,535.0,,0.0,Urban,N
-LP100588,Applicant_588,Female,,2,Not Graduate,No,APP1588,10586.0,12692.0,482.0,360.0,0.0,,
-LP100589,Applicant_589,,Yes,1,Not Graduate,No,APP1589,3544.0,,72.0,120.0,0.0,Urban,N
-LP100590,Applicant_590,,No,1,Not Graduate,No,APP1590,14043.0,12408.0,169.0,240.0,0.0,Urban,N
-LP100591,Applicant_591,Male,Yes,,Graduate,No,APP1591,14233.0,,220.0,120.0,0.0,Rural,Y
-LP100592,Applicant_592,Male,No,0,Graduate,Yes,APP1592,12400.0,696.0,206.0,120.0,1.0,Semiurban,
-LP100593,Applicant_593,Female,Yes,1,Graduate,Yes,APP1593,,3217.0,505.0,240.0,1.0,Semiurban,Y
-LP100594,Applicant_594,Female,Yes,2,,Yes,APP1594,9961.0,1766.0,546.0,180.0,1.0,Rural,Y
-LP100595,Applicant_595,Male,Yes,0,Graduate,No,APP1595,10172.0,537.0,532.0,240.0,1.0,Urban,Y
-LP100596,Applicant_596,Female,Yes,2,Graduate,Yes,APP1596,7330.0,12993.0,70.0,180.0,1.0,,N
-LP100597,Applicant_597,Female,No,1,Graduate,No,APP1597,15936.0,10809.0,510.0,,1.0,Urban,
-LP100598,Applicant_598,Female,Yes,1,Graduate,Yes,APP1598,3774.0,8412.0,649.0,240.0,,,N
-LP100599,Applicant_599,Male,Yes,,Not Graduate,No,APP1599,17612.0,9718.0,,240.0,0.0,Semiurban,N
-LP100600,Applicant_600,Male,Yes,2,Graduate,Yes,APP1600,8075.0,971.0,256.0,240.0,0.0,Rural,N
-LP100601,Applicant_601,,Yes,0,Not Graduate,,APP1601,21498.0,7685.0,351.0,180.0,1.0,Semiurban,Y
-LP100602,Applicant_602,Male,No,,Not Graduate,Yes,APP1602,14365.0,1948.0,633.0,360.0,0.0,Urban,N
-LP100603,Applicant_603,Female,Yes,,Graduate,Yes,APP1603,,14885.0,451.0,240.0,0.0,Semiurban,Y
-LP100604,Applicant_604,,No,3+,Graduate,Yes,APP1604,22651.0,4145.0,102.0,360.0,1.0,,Y
-LP100605,Applicant_605,Female,Yes,0,,No,APP1605,17623.0,709.0,391.0,180.0,1.0,Rural,N
-LP100606,Applicant_606,Female,No,1,Graduate,No,APP1606,5053.0,1085.0,58.0,180.0,1.0,Urban,N
-LP100607,Applicant_607,Female,No,3+,Graduate,Yes,APP1607,6214.0,4942.0,155.0,120.0,1.0,Urban,N
-LP100608,Applicant_608,Female,No,0,,Yes,APP1608,19215.0,10937.0,695.0,120.0,1.0,,Y
-LP100609,Applicant_609,Female,No,0,,No,APP1609,,168.0,492.0,360.0,0.0,Rural,N
-LP100610,Applicant_610,Female,Yes,,Graduate,No,APP1610,8656.0,12362.0,,180.0,1.0,Urban,N
-LP100611,Applicant_611,Female,No,2,Graduate,No,APP1611,21618.0,1581.0,557.0,240.0,1.0,Rural,N
-LP100612,Applicant_612,Female,No,,Not Graduate,Yes,APP1612,22580.0,12818.0,642.0,240.0,0.0,Rural,N
-LP100613,Applicant_613,Female,No,3+,Graduate,Yes,APP1613,4981.0,2028.0,660.0,360.0,1.0,Semiurban,N
-LP100614,Applicant_614,Female,Yes,3+,Not Graduate,No,APP1614,15969.0,9859.0,617.0,120.0,0.0,Semiurban,Y
-LP100615,Applicant_615,Female,Yes,2,Graduate,Yes,APP1615,,3365.0,347.0,360.0,1.0,Rural,Y
-LP100616,Applicant_616,Male,,1,Not Graduate,No,APP1616,9986.0,9627.0,87.0,360.0,1.0,Rural,Y
-LP100617,Applicant_617,,No,3+,Not Graduate,Yes,APP1617,4884.0,14764.0,549.0,120.0,1.0,Semiurban,Y
-LP100618,Applicant_618,Male,No,0,Not Graduate,No,APP1618,2642.0,,459.0,240.0,1.0,Urban,N
-LP100619,Applicant_619,Female,,0,Not Graduate,No,APP1619,3889.0,3027.0,547.0,240.0,1.0,Urban,N
-LP100620,Applicant_620,Male,No,0,Graduate,Yes,APP1620,3807.0,10987.0,,180.0,0.0,Semiurban,N
-LP100621,Applicant_621,,Yes,0,Graduate,No,APP1621,,5759.0,655.0,120.0,0.0,Rural,Y
-LP100622,Applicant_622,Male,No,2,Not Graduate,,APP1622,9711.0,479.0,676.0,,0.0,Urban,N
-LP100623,Applicant_623,Male,Yes,1,Graduate,Yes,APP1623,16110.0,1487.0,549.0,360.0,1.0,Urban,N
-LP100624,Applicant_624,Female,No,0,Not Graduate,Yes,APP1624,2114.0,2384.0,287.0,240.0,,Rural,
-LP100625,Applicant_625,Female,No,0,Graduate,No,APP1625,17808.0,13858.0,112.0,360.0,1.0,Urban,Y
-LP100626,Applicant_626,,No,3+,Not Graduate,Yes,APP1626,6377.0,12225.0,590.0,360.0,0.0,,N
-LP100627,Applicant_627,Male,No,2,Graduate,No,APP1627,22893.0,4544.0,69.0,240.0,0.0,Rural,N
-LP100628,Applicant_628,Male,Yes,3+,Graduate,No,APP1628,22482.0,9498.0,,240.0,,Semiurban,
-LP100629,Applicant_629,Female,No,3+,Not Graduate,Yes,APP1629,1528.0,5698.0,640.0,120.0,1.0,Rural,N
-LP100630,Applicant_630,Male,Yes,3+,,Yes,APP1630,2739.0,5770.0,373.0,240.0,1.0,Semiurban,Y
-LP100631,Applicant_631,Female,No,0,Graduate,Yes,APP1631,23277.0,2630.0,616.0,180.0,0.0,Urban,Y
-LP100632,Applicant_632,Male,Yes,1,Graduate,Yes,APP1632,,14010.0,115.0,240.0,1.0,Semiurban,N
-LP100633,Applicant_633,Female,,2,Graduate,,APP1633,10230.0,8202.0,324.0,360.0,0.0,Semiurban,N
-LP100634,Applicant_634,Male,Yes,,Graduate,No,APP1634,6467.0,12792.0,477.0,360.0,1.0,Urban,Y
-LP100635,Applicant_635,Male,No,,Graduate,No,APP1635,24439.0,11936.0,534.0,,0.0,Semiurban,Y
-LP100636,Applicant_636,,No,0,Not Graduate,Yes,APP1636,12307.0,10042.0,169.0,360.0,1.0,Rural,N
-LP100637,Applicant_637,Male,Yes,1,Graduate,Yes,APP1637,14323.0,3962.0,556.0,180.0,1.0,Semiurban,Y
-LP100638,Applicant_638,Male,Yes,1,Not Graduate,,APP1638,20329.0,8272.0,687.0,120.0,,Rural,Y
-LP100639,Applicant_639,Female,Yes,2,Not Graduate,No,APP1639,1621.0,,405.0,240.0,0.0,Rural,
-LP100640,Applicant_640,Male,Yes,3+,Not Graduate,No,APP1640,18388.0,1119.0,509.0,240.0,1.0,Rural,
-LP100641,Applicant_641,Female,No,0,Graduate,No,APP1641,24686.0,1623.0,496.0,240.0,0.0,Semiurban,Y
-LP100642,Applicant_642,Male,No,,Graduate,Yes,APP1642,17578.0,,71.0,360.0,1.0,Rural,Y
-LP100643,Applicant_643,Male,No,3+,Not Graduate,,APP1643,17167.0,9472.0,215.0,360.0,0.0,Urban,
-LP100644,Applicant_644,Female,Yes,1,Graduate,No,APP1644,15788.0,12504.0,344.0,180.0,0.0,Urban,
-LP100645,Applicant_645,Female,Yes,0,Not Graduate,Yes,APP1645,14735.0,229.0,246.0,240.0,1.0,Rural,N
-LP100646,Applicant_646,Female,,1,,No,APP1646,3797.0,8664.0,530.0,180.0,0.0,Rural,Y
-LP100647,Applicant_647,Female,No,0,Graduate,Yes,APP1647,19198.0,,402.0,240.0,,Semiurban,N
-LP100648,Applicant_648,Female,Yes,3+,Graduate,No,APP1648,8900.0,11727.0,498.0,120.0,0.0,,Y
-LP100649,Applicant_649,Male,Yes,0,,No,APP1649,1608.0,3138.0,287.0,,1.0,Rural,N
-LP100650,Applicant_650,Male,,3+,Not Graduate,Yes,APP1650,14096.0,4617.0,569.0,180.0,0.0,Semiurban,N
-LP100651,Applicant_651,Female,No,,Graduate,,APP1651,24085.0,2814.0,274.0,360.0,,Urban,
-LP100652,Applicant_652,,No,2,Not Graduate,Yes,APP1652,,14772.0,651.0,360.0,1.0,Semiurban,Y
-LP100653,Applicant_653,Male,No,1,Not Graduate,Yes,APP1653,5471.0,12353.0,397.0,180.0,0.0,Semiurban,N
-LP100654,Applicant_654,Male,No,0,Not Graduate,Yes,APP1654,20087.0,8800.0,666.0,120.0,1.0,,N
-LP100655,Applicant_655,Female,Yes,,Graduate,No,APP1655,19040.0,70.0,529.0,360.0,0.0,Urban,Y
-LP100656,Applicant_656,Female,Yes,1,Not Graduate,Yes,APP1656,,11884.0,184.0,240.0,1.0,Semiurban,Y
-LP100657,Applicant_657,Male,No,0,Graduate,Yes,APP1657,12426.0,1616.0,350.0,180.0,0.0,Urban,N
-LP100658,Applicant_658,Male,No,1,Graduate,Yes,APP1658,23842.0,3506.0,449.0,,1.0,Urban,N
-LP100659,Applicant_659,Male,Yes,3+,Graduate,Yes,APP1659,11423.0,8260.0,476.0,360.0,1.0,,N
-LP100660,Applicant_660,,Yes,2,Graduate,Yes,APP1660,14627.0,13947.0,418.0,120.0,1.0,Urban,N
-LP100661,Applicant_661,Female,No,2,Not Graduate,Yes,APP1661,,11595.0,,180.0,0.0,Urban,Y
-LP100662,Applicant_662,,Yes,1,Not Graduate,No,APP1662,,7777.0,215.0,240.0,1.0,,Y
-LP100663,Applicant_663,Male,Yes,2,,Yes,APP1663,22703.0,6004.0,686.0,120.0,0.0,Semiurban,N
-LP100664,Applicant_664,Male,No,1,Not Graduate,No,APP1664,4470.0,,262.0,180.0,1.0,,Y
-LP100665,Applicant_665,Female,No,2,Graduate,Yes,APP1665,13471.0,9656.0,339.0,180.0,0.0,Rural,N
-LP100666,Applicant_666,Male,No,0,,No,APP1666,19018.0,3033.0,138.0,360.0,1.0,Rural,Y
-LP100667,Applicant_667,Female,No,0,Not Graduate,No,APP1667,12643.0,7203.0,544.0,,1.0,Urban,Y
-LP100668,Applicant_668,Female,Yes,2,Not Graduate,No,APP1668,4136.0,11035.0,182.0,240.0,,Rural,Y
-LP100669,Applicant_669,Female,Yes,3+,Not Graduate,Yes,APP1669,16561.0,1758.0,227.0,360.0,1.0,Urban,N
-LP100670,Applicant_670,Female,No,2,Not Graduate,No,APP1670,11001.0,2963.0,254.0,360.0,,Rural,Y
-LP100671,Applicant_671,Female,Yes,0,Graduate,Yes,APP1671,22726.0,13676.0,,240.0,1.0,Urban,N
-LP100672,Applicant_672,Female,No,2,Not Graduate,Yes,APP1672,8155.0,5813.0,670.0,120.0,1.0,Semiurban,N
-LP100673,Applicant_673,Male,,0,Graduate,Yes,APP1673,7287.0,6219.0,553.0,240.0,,Semiurban,N
-LP100674,Applicant_674,Male,No,3+,Graduate,No,APP1674,19669.0,6948.0,,360.0,1.0,Semiurban,Y
-LP100675,Applicant_675,Male,No,3+,Not Graduate,No,APP1675,2788.0,3510.0,,360.0,0.0,,
-LP100676,Applicant_676,Male,Yes,2,Not Graduate,,APP1676,14088.0,8425.0,555.0,360.0,,Rural,Y
-LP100677,Applicant_677,Female,No,0,Graduate,Yes,APP1677,23150.0,3728.0,360.0,240.0,1.0,Semiurban,
-LP100678,Applicant_678,,Yes,3+,Graduate,No,APP1678,7758.0,6677.0,,,1.0,Rural,Y
-LP100679,Applicant_679,,Yes,1,Graduate,Yes,APP1679,,1848.0,264.0,180.0,1.0,Semiurban,
-LP100680,Applicant_680,Male,,2,Not Graduate,No,APP1680,24302.0,12474.0,620.0,120.0,1.0,Urban,
-LP100681,Applicant_681,Male,No,1,,Yes,APP1681,14282.0,,98.0,180.0,0.0,Semiurban,Y
-LP100682,Applicant_682,Male,Yes,2,Graduate,Yes,APP1682,4998.0,2025.0,68.0,180.0,0.0,Urban,
-LP100683,Applicant_683,Male,No,,Not Graduate,No,APP1683,22164.0,7633.0,417.0,360.0,1.0,Urban,Y
-LP100684,Applicant_684,Male,No,0,Not Graduate,Yes,APP1684,24071.0,1807.0,,360.0,1.0,Urban,Y
-LP100685,Applicant_685,Female,,1,Not Graduate,No,APP1685,13272.0,8515.0,415.0,240.0,1.0,Rural,N
-LP100686,Applicant_686,Female,Yes,0,Graduate,Yes,APP1686,17441.0,2226.0,212.0,360.0,1.0,Rural,Y
-LP100687,Applicant_687,,Yes,0,Not Graduate,No,APP1687,4280.0,8123.0,228.0,360.0,1.0,Rural,Y
-LP100688,Applicant_688,Female,Yes,0,,Yes,APP1688,22235.0,12489.0,565.0,120.0,1.0,Semiurban,N
-LP100689,Applicant_689,Male,No,1,Not Graduate,Yes,APP1689,15851.0,,82.0,180.0,1.0,,N
-LP100690,Applicant_690,Male,No,0,Graduate,No,APP1690,7708.0,11546.0,115.0,360.0,0.0,Urban,Y
-LP100691,Applicant_691,Female,No,3+,Not Graduate,,APP1691,6085.0,4723.0,395.0,180.0,1.0,Rural,N
-LP100692,Applicant_692,,,2,Graduate,No,APP1692,2669.0,9128.0,490.0,360.0,1.0,Urban,Y
-LP100693,Applicant_693,Female,,3+,Not Graduate,Yes,APP1693,7827.0,11831.0,,180.0,1.0,Urban,N
-LP100694,Applicant_694,Male,Yes,,Graduate,Yes,APP1694,2331.0,665.0,682.0,180.0,1.0,Rural,N
-LP100695,Applicant_695,Male,No,1,Graduate,No,APP1695,20929.0,1347.0,282.0,360.0,0.0,Rural,Y
-LP100696,Applicant_696,Female,Yes,0,Graduate,No,APP1696,9314.0,,173.0,240.0,1.0,Urban,Y
-LP100697,Applicant_697,Male,Yes,3+,Graduate,Yes,APP1697,17531.0,8088.0,625.0,360.0,1.0,Semiurban,Y
-LP100698,Applicant_698,Female,,1,Graduate,No,APP1698,14239.0,1895.0,279.0,120.0,1.0,Rural,Y
-LP100699,Applicant_699,Male,,2,Graduate,Yes,APP1699,3564.0,6304.0,548.0,120.0,,Semiurban,Y
-LP100700,Applicant_700,Male,No,1,Graduate,No,APP1700,19212.0,,314.0,180.0,0.0,Semiurban,N
-LP100701,Applicant_701,Male,No,3+,Not Graduate,No,APP1701,22583.0,7486.0,398.0,180.0,1.0,Urban,Y
-LP100702,Applicant_702,Female,No,2,Graduate,Yes,APP1702,11583.0,9836.0,413.0,240.0,0.0,,N
-LP100703,Applicant_703,Male,Yes,2,Graduate,Yes,APP1703,17873.0,12061.0,97.0,240.0,0.0,,Y
-LP100704,Applicant_704,Male,Yes,0,Not Graduate,Yes,APP1704,18996.0,,620.0,360.0,0.0,Urban,Y
-LP100705,Applicant_705,Male,,2,,No,APP1705,,11256.0,323.0,180.0,1.0,Semiurban,Y
-LP100706,Applicant_706,Male,No,0,Graduate,Yes,APP1706,,13780.0,204.0,180.0,1.0,Urban,N
-LP100707,Applicant_707,Female,Yes,0,Graduate,Yes,APP1707,2713.0,7273.0,577.0,,1.0,Urban,
-LP100708,Applicant_708,Female,No,1,Not Graduate,Yes,APP1708,,3700.0,668.0,120.0,0.0,Urban,N
-LP100709,Applicant_709,Female,No,1,Not Graduate,,APP1709,3336.0,9075.0,156.0,120.0,1.0,Rural,Y
-LP100710,Applicant_710,Male,,0,Graduate,No,APP1710,,6672.0,101.0,180.0,1.0,Urban,N
-LP100711,Applicant_711,Female,No,3+,Graduate,No,APP1711,2902.0,4761.0,498.0,360.0,1.0,Rural,N
-LP100712,Applicant_712,Female,No,0,Graduate,No,APP1712,14787.0,14014.0,518.0,,1.0,Urban,
-LP100713,Applicant_713,Female,No,,Graduate,Yes,APP1713,5372.0,7011.0,163.0,120.0,0.0,Rural,N
-LP100714,Applicant_714,,Yes,2,Graduate,Yes,APP1714,8436.0,3093.0,158.0,360.0,1.0,Semiurban,Y
-LP100715,Applicant_715,Female,No,2,Not Graduate,No,APP1715,22925.0,14037.0,675.0,240.0,0.0,,N
-LP100716,Applicant_716,Female,No,2,,No,APP1716,23366.0,1140.0,674.0,180.0,1.0,Rural,N
-LP100717,Applicant_717,Male,Yes,0,Graduate,No,APP1717,18641.0,14659.0,154.0,240.0,1.0,Rural,N
-LP100718,Applicant_718,Male,No,3+,Not Graduate,No,APP1718,16519.0,13779.0,625.0,,1.0,Rural,N
-LP100719,Applicant_719,Female,No,0,Not Graduate,,APP1719,23719.0,13147.0,92.0,360.0,1.0,,N
-LP100720,Applicant_720,Female,Yes,2,Not Graduate,No,APP1720,19082.0,7793.0,569.0,120.0,1.0,Semiurban,N
-LP100721,Applicant_721,Female,No,,Not Graduate,Yes,APP1721,,11126.0,157.0,120.0,0.0,Urban,
-LP100722,Applicant_722,Male,No,2,Not Graduate,No,APP1722,20484.0,6020.0,221.0,360.0,0.0,Rural,Y
-LP100723,Applicant_723,Male,Yes,2,Not Graduate,No,APP1723,9134.0,,695.0,360.0,1.0,Rural,Y
-LP100724,Applicant_724,Male,Yes,1,Not Graduate,Yes,APP1724,3860.0,209.0,,180.0,0.0,Urban,
-LP100725,Applicant_725,Male,No,3+,Graduate,No,APP1725,2708.0,11045.0,260.0,240.0,0.0,Urban,N
-LP100726,Applicant_726,Female,Yes,2,Not Graduate,Yes,APP1726,,8055.0,420.0,120.0,1.0,Rural,N
-LP100727,Applicant_727,Male,No,3+,Graduate,Yes,APP1727,17520.0,11011.0,210.0,240.0,0.0,Semiurban,N
-LP100728,Applicant_728,Male,Yes,1,Graduate,No,APP1728,22924.0,,349.0,360.0,1.0,,
-LP100729,Applicant_729,Female,,1,Graduate,,APP1729,2124.0,6494.0,502.0,180.0,0.0,Semiurban,Y
-LP100730,Applicant_730,Female,,1,Graduate,,APP1730,16940.0,7177.0,,120.0,1.0,Rural,N
-LP100731,Applicant_731,Female,Yes,0,Graduate,Yes,APP1731,,8563.0,,,1.0,Urban,Y
-LP100732,Applicant_732,Male,Yes,3+,,No,APP1732,3000.0,10789.0,151.0,120.0,1.0,Rural,Y
-LP100733,Applicant_733,Female,Yes,0,Graduate,Yes,APP1733,9452.0,11084.0,207.0,240.0,1.0,,N
-LP100734,Applicant_734,Female,No,1,Not Graduate,No,APP1734,24480.0,,422.0,180.0,0.0,Rural,N
-LP100735,Applicant_735,Male,No,2,Not Graduate,Yes,APP1735,22759.0,1953.0,392.0,,0.0,Urban,Y
-LP100736,Applicant_736,Female,No,0,Graduate,Yes,APP1736,5777.0,2348.0,191.0,180.0,1.0,Urban,N
-LP100737,Applicant_737,,Yes,2,Not Graduate,No,APP1737,1970.0,6468.0,175.0,120.0,0.0,Semiurban,N
-LP100738,Applicant_738,Female,,0,Not Graduate,No,APP1738,7144.0,,,,1.0,Rural,Y
-LP100739,Applicant_739,Female,,3+,Not Graduate,No,APP1739,22231.0,11387.0,499.0,,0.0,,N
-LP100740,Applicant_740,,No,2,Not Graduate,No,APP1740,3137.0,9675.0,475.0,120.0,1.0,Rural,N
-LP100741,Applicant_741,,No,0,Graduate,Yes,APP1741,11570.0,1666.0,56.0,360.0,1.0,Urban,N
-LP100742,Applicant_742,Male,Yes,1,Not Graduate,Yes,APP1742,4688.0,12147.0,301.0,240.0,,Rural,Y
-LP100743,Applicant_743,Female,Yes,1,Graduate,Yes,APP1743,16448.0,14621.0,535.0,240.0,1.0,Urban,Y
-LP100744,Applicant_744,Female,Yes,3+,Graduate,Yes,APP1744,21528.0,2764.0,399.0,180.0,0.0,,N
-LP100745,Applicant_745,Female,,3+,Graduate,Yes,APP1745,7093.0,1060.0,343.0,360.0,0.0,Urban,N
-LP100746,Applicant_746,Female,No,0,Not Graduate,No,APP1746,20867.0,5959.0,567.0,180.0,1.0,Semiurban,Y
-LP100747,Applicant_747,Female,No,,Not Graduate,Yes,APP1747,3595.0,3261.0,225.0,360.0,0.0,Rural,N
-LP100748,Applicant_748,Male,No,2,Graduate,No,APP1748,4984.0,5548.0,137.0,360.0,1.0,Semiurban,Y
-LP100749,Applicant_749,Female,Yes,0,Not Graduate,Yes,APP1749,5241.0,3281.0,322.0,120.0,,Semiurban,N
-LP100750,Applicant_750,Male,No,0,,Yes,APP1750,17790.0,9747.0,431.0,180.0,0.0,Rural,N
-LP100751,Applicant_751,Female,No,1,Graduate,,APP1751,20996.0,13828.0,474.0,240.0,0.0,Semiurban,N
-LP100752,Applicant_752,Female,No,,Graduate,Yes,APP1752,21672.0,6623.0,,180.0,1.0,Rural,
-LP100753,Applicant_753,,No,2,Graduate,Yes,APP1753,8727.0,,694.0,360.0,0.0,Urban,N
-LP100754,Applicant_754,Male,No,3+,Graduate,Yes,APP1754,3567.0,3815.0,301.0,360.0,0.0,Semiurban,
-LP100755,Applicant_755,Female,Yes,0,Graduate,No,APP1755,8140.0,13731.0,,,,Urban,N
-LP100756,Applicant_756,Male,Yes,0,Not Graduate,Yes,APP1756,15466.0,,,120.0,0.0,Semiurban,N
-LP100757,Applicant_757,Female,No,1,Graduate,Yes,APP1757,12554.0,,481.0,240.0,1.0,Urban,N
-LP100758,Applicant_758,Female,No,3+,Not Graduate,,APP1758,23729.0,8177.0,283.0,120.0,1.0,Urban,Y
-LP100759,Applicant_759,Male,Yes,0,Graduate,No,APP1759,14673.0,4563.0,191.0,180.0,1.0,Urban,N
-LP100760,Applicant_760,Male,No,0,Not Graduate,No,APP1760,12124.0,12530.0,489.0,180.0,1.0,Urban,
-LP100761,Applicant_761,,No,3+,Graduate,No,APP1761,5458.0,,473.0,240.0,0.0,Urban,Y
-LP100762,Applicant_762,Female,Yes,1,Not Graduate,No,APP1762,23916.0,12549.0,469.0,180.0,1.0,Urban,N
-LP100763,Applicant_763,Female,No,1,Graduate,No,APP1763,20373.0,,519.0,360.0,0.0,Semiurban,Y
-LP100764,Applicant_764,,No,2,Graduate,Yes,APP1764,19387.0,9726.0,578.0,180.0,,Rural,N
-LP100765,Applicant_765,Male,No,2,Graduate,Yes,APP1765,6000.0,,420.0,240.0,0.0,Urban,N
-LP100766,Applicant_766,Female,No,2,,,APP1766,12037.0,12391.0,80.0,120.0,,Urban,N
-LP100767,Applicant_767,Male,No,3+,Not Graduate,Yes,APP1767,8487.0,12935.0,503.0,180.0,1.0,Semiurban,Y
-LP100768,Applicant_768,Female,No,2,Graduate,Yes,APP1768,,13123.0,199.0,120.0,0.0,Urban,Y
-LP100769,Applicant_769,Female,Yes,2,,Yes,APP1769,20934.0,10548.0,60.0,120.0,0.0,,Y
-LP100770,Applicant_770,Female,No,3+,Graduate,,APP1770,7183.0,6557.0,579.0,360.0,1.0,,Y
-LP100771,Applicant_771,Male,No,2,Graduate,,APP1771,12493.0,5834.0,,240.0,1.0,Semiurban,N
-LP100772,Applicant_772,Male,No,1,Not Graduate,Yes,APP1772,3571.0,7795.0,136.0,120.0,0.0,Semiurban,Y
-LP100773,Applicant_773,Male,Yes,0,Graduate,Yes,APP1773,5456.0,10922.0,396.0,360.0,1.0,Semiurban,Y
-LP100774,Applicant_774,Male,No,1,Not Graduate,Yes,APP1774,10474.0,9882.0,372.0,180.0,1.0,,
-LP100775,Applicant_775,Female,Yes,1,Graduate,No,APP1775,6128.0,6626.0,461.0,120.0,0.0,Rural,N
-LP100776,Applicant_776,Male,No,0,Not Graduate,Yes,APP1776,15103.0,7938.0,218.0,120.0,0.0,Rural,Y
-LP100777,Applicant_777,Female,Yes,1,Graduate,No,APP1777,,8379.0,494.0,180.0,0.0,,N
-LP100778,Applicant_778,Male,No,0,Graduate,Yes,APP1778,24316.0,4569.0,112.0,180.0,0.0,Urban,N
-LP100779,Applicant_779,Male,No,,Not Graduate,No,APP1779,13621.0,2414.0,452.0,360.0,0.0,Semiurban,Y
-LP100780,Applicant_780,Male,No,3+,Not Graduate,No,APP1780,,12582.0,87.0,180.0,,Semiurban,Y
-LP100781,Applicant_781,Female,No,3+,,Yes,APP1781,6906.0,7448.0,,180.0,0.0,Rural,Y
-LP100782,Applicant_782,Male,Yes,2,Graduate,No,APP1782,15874.0,,638.0,240.0,0.0,Rural,N
-LP100783,Applicant_783,Male,Yes,3+,Graduate,No,APP1783,9483.0,2001.0,109.0,120.0,1.0,Urban,
-LP100784,Applicant_784,Female,No,0,,No,APP1784,20570.0,,696.0,180.0,1.0,Urban,Y
-LP100785,Applicant_785,Female,No,2,Not Graduate,Yes,APP1785,,,,240.0,0.0,Urban,N
-LP100786,Applicant_786,Female,Yes,1,Graduate,Yes,APP1786,5870.0,8147.0,352.0,360.0,0.0,Rural,Y
-LP100787,Applicant_787,,Yes,3+,,Yes,APP1787,4775.0,3781.0,,360.0,0.0,Semiurban,N
-LP100788,Applicant_788,Female,,2,Not Graduate,Yes,APP1788,22215.0,10295.0,461.0,,0.0,Rural,Y
-LP100789,Applicant_789,Female,Yes,3+,Not Graduate,Yes,APP1789,21568.0,2205.0,616.0,360.0,1.0,,N
-LP100790,Applicant_790,Male,Yes,2,Not Graduate,No,APP1790,13825.0,486.0,,180.0,0.0,Semiurban,N
-LP100791,Applicant_791,Female,Yes,0,Not Graduate,Yes,APP1791,6669.0,1631.0,,,,,N
-LP100792,Applicant_792,Male,Yes,0,Not Graduate,No,APP1792,2012.0,12088.0,402.0,180.0,0.0,Semiurban,Y
-LP100793,Applicant_793,Female,Yes,1,Graduate,,APP1793,17456.0,865.0,58.0,180.0,1.0,Urban,Y
-LP100794,Applicant_794,Male,Yes,2,Not Graduate,Yes,APP1794,4145.0,13603.0,336.0,180.0,1.0,Urban,Y
-LP100795,Applicant_795,Male,No,,Not Graduate,Yes,APP1795,1708.0,1117.0,590.0,360.0,1.0,Urban,Y
-LP100796,Applicant_796,Male,No,1,Not Graduate,Yes,APP1796,1736.0,8161.0,675.0,180.0,0.0,Semiurban,Y
-LP100797,Applicant_797,Female,No,2,Graduate,,APP1797,7379.0,11110.0,200.0,180.0,1.0,Semiurban,Y
-LP100798,Applicant_798,Female,Yes,1,,Yes,APP1798,4420.0,438.0,463.0,,1.0,,N
-LP100799,Applicant_799,Female,Yes,0,Not Graduate,No,APP1799,24658.0,2934.0,506.0,360.0,1.0,Rural,N
-LP100800,Applicant_800,Female,Yes,1,Graduate,No,APP1800,22856.0,6269.0,260.0,240.0,0.0,,Y
-LP100801,Applicant_801,Male,Yes,2,Graduate,No,APP1801,20955.0,9905.0,607.0,,0.0,,Y
-LP100802,Applicant_802,Female,No,3+,Not Graduate,No,APP1802,10797.0,11128.0,689.0,120.0,1.0,Semiurban,N
-LP100803,Applicant_803,Female,No,0,,Yes,APP1803,15138.0,5356.0,683.0,180.0,1.0,Urban,N
-LP100804,Applicant_804,Female,No,2,Not Graduate,No,APP1804,24224.0,,502.0,180.0,1.0,Urban,
-LP100805,Applicant_805,Male,Yes,2,Graduate,No,APP1805,17097.0,4960.0,403.0,180.0,0.0,Rural,Y
-LP100806,Applicant_806,Female,No,1,Not Graduate,,APP1806,24187.0,10190.0,464.0,240.0,0.0,Semiurban,Y
-LP100807,Applicant_807,Female,,0,,,APP1807,5658.0,10211.0,252.0,,1.0,Urban,Y
-LP100808,Applicant_808,Female,No,3+,Not Graduate,No,APP1808,8255.0,1578.0,358.0,,0.0,Urban,N
-LP100809,Applicant_809,Female,Yes,3+,Not Graduate,No,APP1809,6188.0,12454.0,136.0,120.0,0.0,Urban,Y
-LP100810,Applicant_810,Female,Yes,1,Not Graduate,Yes,APP1810,22465.0,1253.0,87.0,120.0,1.0,Rural,N
-LP100811,Applicant_811,,Yes,,Not Graduate,Yes,APP1811,10378.0,,600.0,240.0,0.0,,N
-LP100812,Applicant_812,Female,,3+,Not Graduate,No,APP1812,18640.0,12314.0,392.0,180.0,1.0,Urban,Y
-LP100813,Applicant_813,Male,Yes,0,Graduate,No,APP1813,16259.0,8518.0,449.0,120.0,1.0,Urban,N
-LP100814,Applicant_814,Male,No,1,Graduate,,APP1814,15001.0,12575.0,179.0,240.0,,Semiurban,
-LP100815,Applicant_815,Female,Yes,0,Graduate,Yes,APP1815,9339.0,8064.0,582.0,360.0,,Rural,Y
-LP100816,Applicant_816,Male,Yes,0,Not Graduate,No,APP1816,7219.0,12988.0,603.0,120.0,1.0,,Y
-LP100817,Applicant_817,Female,No,0,Graduate,Yes,APP1817,21506.0,7635.0,340.0,240.0,,Rural,
-LP100818,Applicant_818,Male,No,1,Graduate,,APP1818,24164.0,3308.0,268.0,240.0,1.0,Urban,Y
-LP100819,Applicant_819,Female,Yes,1,Not Graduate,Yes,APP1819,2732.0,4809.0,,180.0,0.0,Urban,Y
-LP100820,Applicant_820,,No,1,Graduate,Yes,APP1820,21038.0,10847.0,573.0,240.0,1.0,,Y
-LP100821,Applicant_821,Female,Yes,3+,Graduate,,APP1821,7398.0,8157.0,615.0,240.0,0.0,Urban,Y
-LP100822,Applicant_822,Female,Yes,,,No,APP1822,17880.0,8032.0,369.0,,0.0,Urban,N
-LP100823,Applicant_823,Male,No,0,Graduate,No,APP1823,21555.0,8270.0,583.0,240.0,1.0,Semiurban,Y
-LP100824,Applicant_824,Female,Yes,2,Not Graduate,No,APP1824,4384.0,4287.0,398.0,180.0,1.0,Urban,N
-LP100825,Applicant_825,Male,No,0,Graduate,No,APP1825,22051.0,8887.0,,240.0,1.0,Semiurban,N
-LP100826,Applicant_826,,,0,Graduate,No,APP1826,11369.0,5629.0,213.0,360.0,0.0,Rural,
-LP100827,Applicant_827,Female,No,0,Not Graduate,Yes,APP1827,12898.0,13262.0,73.0,240.0,1.0,Rural,Y
-LP100828,Applicant_828,Male,No,1,Not Graduate,No,APP1828,15222.0,14084.0,78.0,240.0,1.0,Semiurban,N
-LP100829,Applicant_829,Female,Yes,3+,Graduate,,APP1829,1649.0,8856.0,602.0,360.0,1.0,Urban,N
-LP100830,Applicant_830,Male,No,1,Not Graduate,Yes,APP1830,19775.0,8955.0,656.0,120.0,,Rural,N
-LP100831,Applicant_831,Female,No,,Not Graduate,Yes,APP1831,,289.0,314.0,180.0,1.0,Urban,Y
-LP100832,Applicant_832,Male,Yes,2,Graduate,No,APP1832,7788.0,12516.0,297.0,180.0,1.0,Rural,Y
-LP100833,Applicant_833,Male,Yes,0,,No,APP1833,5350.0,517.0,,120.0,1.0,Urban,N
-LP100834,Applicant_834,Female,No,,,Yes,APP1834,18873.0,7051.0,482.0,240.0,1.0,Urban,N
-LP100835,Applicant_835,Male,Yes,3+,Not Graduate,Yes,APP1835,4635.0,14419.0,567.0,240.0,1.0,Urban,N
-LP100836,Applicant_836,Male,No,0,Graduate,Yes,APP1836,21780.0,14990.0,163.0,120.0,0.0,,N
-LP100837,Applicant_837,,No,,Not Graduate,Yes,APP1837,13358.0,1951.0,111.0,240.0,1.0,Semiurban,N
-LP100838,Applicant_838,Female,Yes,3+,Not Graduate,No,APP1838,19185.0,,431.0,120.0,1.0,Rural,
-LP100839,Applicant_839,Female,Yes,3+,Graduate,No,APP1839,18131.0,7374.0,315.0,240.0,0.0,Urban,Y
-LP100840,Applicant_840,Female,No,3+,,No,APP1840,8685.0,5153.0,692.0,240.0,1.0,Semiurban,N
-LP100841,Applicant_841,Male,No,0,Graduate,No,APP1841,16711.0,13973.0,569.0,360.0,0.0,Semiurban,N
-LP100842,Applicant_842,Female,Yes,3+,Graduate,Yes,APP1842,22027.0,6165.0,412.0,120.0,0.0,Urban,N
-LP100843,Applicant_843,Female,Yes,3+,Not Graduate,Yes,APP1843,23104.0,7250.0,176.0,180.0,0.0,Urban,N
-LP100844,Applicant_844,Female,No,,Graduate,No,APP1844,8319.0,7531.0,98.0,240.0,0.0,Urban,Y
-LP100845,Applicant_845,Female,No,2,Graduate,Yes,APP1845,10557.0,589.0,177.0,180.0,0.0,,N
-LP100846,Applicant_846,Male,No,,Graduate,No,APP1846,3238.0,538.0,,180.0,1.0,Rural,Y
-LP100847,Applicant_847,Male,Yes,1,Not Graduate,Yes,APP1847,7847.0,2897.0,,180.0,0.0,Semiurban,N
-LP100848,Applicant_848,Male,No,2,Not Graduate,No,APP1848,5192.0,9120.0,636.0,360.0,1.0,Rural,N
-LP100849,Applicant_849,Female,Yes,2,Graduate,No,APP1849,6389.0,10803.0,55.0,360.0,1.0,Rural,N
-LP100850,Applicant_850,Male,Yes,3+,Graduate,Yes,APP1850,23954.0,14096.0,514.0,120.0,1.0,Rural,Y
-LP100851,Applicant_851,Male,,1,Not Graduate,Yes,APP1851,17045.0,12769.0,397.0,240.0,1.0,Semiurban,N
-LP100852,Applicant_852,Female,No,0,Graduate,Yes,APP1852,17802.0,4965.0,291.0,240.0,1.0,Rural,Y
-LP100853,Applicant_853,Male,,1,Graduate,Yes,APP1853,7277.0,14494.0,645.0,240.0,1.0,Semiurban,Y
-LP100854,Applicant_854,Male,Yes,2,Not Graduate,No,APP1854,6735.0,11568.0,629.0,240.0,1.0,Rural,N
-LP100855,Applicant_855,Female,,3+,Not Graduate,No,APP1855,23459.0,2689.0,,120.0,0.0,Semiurban,Y
-LP100856,Applicant_856,Male,No,3+,Graduate,Yes,APP1856,2912.0,,596.0,240.0,0.0,Rural,N
-LP100857,Applicant_857,Female,,3+,Graduate,No,APP1857,,7056.0,659.0,240.0,,Rural,N
-LP100858,Applicant_858,Male,Yes,0,Graduate,Yes,APP1858,22630.0,2203.0,289.0,120.0,0.0,,N
-LP100859,Applicant_859,,No,0,Not Graduate,No,APP1859,13433.0,5119.0,408.0,360.0,0.0,Rural,Y
-LP100860,Applicant_860,Female,No,,Not Graduate,No,APP1860,10840.0,11726.0,356.0,240.0,,Urban,N
-LP100861,Applicant_861,Male,,3+,Not Graduate,Yes,APP1861,8367.0,6374.0,341.0,360.0,0.0,Rural,N
-LP100862,Applicant_862,Female,No,1,Not Graduate,Yes,APP1862,15743.0,7986.0,636.0,360.0,1.0,Rural,Y
-LP100863,Applicant_863,Female,Yes,3+,Graduate,No,APP1863,9737.0,12517.0,193.0,240.0,0.0,Semiurban,Y
-LP100864,Applicant_864,Female,No,,Graduate,,APP1864,12454.0,1792.0,436.0,180.0,1.0,Rural,Y
-LP100865,Applicant_865,Female,No,1,Not Graduate,Yes,APP1865,21711.0,,582.0,180.0,0.0,Semiurban,Y
-LP100866,Applicant_866,,Yes,0,Graduate,Yes,APP1866,16348.0,11059.0,,240.0,1.0,Semiurban,Y
-LP100867,Applicant_867,Male,Yes,3+,,Yes,APP1867,2919.0,8037.0,157.0,,1.0,Semiurban,N
-LP100868,Applicant_868,Female,Yes,2,Not Graduate,Yes,APP1868,4921.0,10814.0,385.0,120.0,0.0,Rural,Y
-LP100869,Applicant_869,Male,No,3+,Graduate,No,APP1869,3218.0,9073.0,,240.0,1.0,Urban,
-LP100870,Applicant_870,Male,,3+,,No,APP1870,19108.0,11229.0,646.0,120.0,1.0,Rural,Y
-LP100871,Applicant_871,Male,Yes,2,Not Graduate,No,APP1871,7263.0,8837.0,247.0,,0.0,Semiurban,N
-LP100872,Applicant_872,Male,No,2,Not Graduate,No,APP1872,6678.0,9375.0,419.0,240.0,1.0,Semiurban,N
-LP100873,Applicant_873,Female,No,,Graduate,No,APP1873,2452.0,7697.0,515.0,240.0,1.0,Semiurban,Y
-LP100874,Applicant_874,Male,Yes,2,Not Graduate,Yes,APP1874,,7797.0,150.0,180.0,0.0,Semiurban,
-LP100875,Applicant_875,Female,No,1,Not Graduate,Yes,APP1875,18372.0,9211.0,200.0,180.0,0.0,Urban,
-LP100876,Applicant_876,Male,No,0,Graduate,Yes,APP1876,5303.0,13997.0,485.0,240.0,,Urban,N
-LP100877,Applicant_877,Male,Yes,2,Not Graduate,Yes,APP1877,3821.0,2560.0,471.0,360.0,0.0,Rural,N
-LP100878,Applicant_878,Female,Yes,1,Not Graduate,Yes,APP1878,9210.0,8301.0,,120.0,0.0,Urban,N
-LP100879,Applicant_879,,Yes,0,Not Graduate,No,APP1879,16075.0,913.0,144.0,360.0,1.0,Semiurban,N
-LP100880,Applicant_880,Female,No,2,,Yes,APP1880,20921.0,6412.0,113.0,180.0,,,Y
-LP100881,Applicant_881,Female,Yes,0,Not Graduate,No,APP1881,20497.0,4315.0,485.0,120.0,0.0,Rural,Y
-LP100882,Applicant_882,Male,No,3+,Graduate,No,APP1882,12181.0,8105.0,183.0,240.0,0.0,Rural,
-LP100883,Applicant_883,,No,2,Graduate,No,APP1883,15231.0,9683.0,537.0,180.0,1.0,Urban,N
-LP100884,Applicant_884,Female,No,1,Not Graduate,Yes,APP1884,8012.0,6189.0,269.0,120.0,0.0,Urban,Y
-LP100885,Applicant_885,Male,No,1,Graduate,No,APP1885,23679.0,10107.0,506.0,180.0,1.0,Semiurban,N
-LP100886,Applicant_886,Male,Yes,0,Graduate,Yes,APP1886,12172.0,11083.0,129.0,180.0,1.0,Semiurban,Y
-LP100887,Applicant_887,Female,Yes,1,Graduate,Yes,APP1887,9038.0,5779.0,428.0,360.0,,Semiurban,N
-LP100888,Applicant_888,Female,Yes,1,Not Graduate,No,APP1888,5108.0,12557.0,588.0,360.0,0.0,Rural,N
-LP100889,Applicant_889,Female,No,2,Graduate,No,APP1889,12186.0,4660.0,462.0,360.0,0.0,Rural,N
-LP100890,Applicant_890,Female,No,0,,No,APP1890,,5250.0,,240.0,1.0,Urban,Y
-LP100891,Applicant_891,Female,Yes,1,Graduate,No,APP1891,4713.0,1006.0,622.0,,,Semiurban,N
-LP100892,Applicant_892,Female,Yes,3+,Graduate,Yes,APP1892,9269.0,461.0,581.0,360.0,0.0,Urban,N
-LP100893,Applicant_893,Female,Yes,,Not Graduate,Yes,APP1893,,9674.0,,180.0,1.0,Urban,N
-LP100894,Applicant_894,Male,Yes,1,Graduate,Yes,APP1894,8052.0,739.0,320.0,240.0,1.0,Rural,Y
-LP100895,Applicant_895,Female,Yes,1,Graduate,No,APP1895,,2100.0,648.0,180.0,1.0,Semiurban,Y
-LP100896,Applicant_896,Female,Yes,1,Not Graduate,Yes,APP1896,8730.0,13712.0,560.0,240.0,1.0,Urban,N
-LP100897,Applicant_897,Male,No,,Not Graduate,Yes,APP1897,3909.0,6003.0,,120.0,1.0,Rural,Y
-LP100898,Applicant_898,Male,No,2,Graduate,,APP1898,16933.0,5715.0,500.0,120.0,0.0,Semiurban,N
-LP100899,Applicant_899,,Yes,0,Not Graduate,Yes,APP1899,20672.0,13263.0,551.0,240.0,1.0,Semiurban,Y
-LP100900,Applicant_900,Female,Yes,2,Not Graduate,Yes,APP1900,17373.0,12157.0,,120.0,1.0,Semiurban,Y
-LP100901,Applicant_901,,No,1,,No,APP1901,3280.0,9567.0,216.0,240.0,1.0,Rural,
-LP100902,Applicant_902,,Yes,1,Graduate,Yes,APP1902,,440.0,197.0,360.0,1.0,,Y
-LP100903,Applicant_903,Male,No,3+,Graduate,Yes,APP1903,6249.0,12536.0,567.0,360.0,0.0,Urban,Y
-LP100904,Applicant_904,Female,Yes,2,Not Graduate,,APP1904,,14603.0,180.0,120.0,1.0,Rural,Y
-LP100905,Applicant_905,Female,No,1,Graduate,No,APP1905,21469.0,10242.0,546.0,180.0,1.0,Semiurban,N
-LP100906,Applicant_906,Male,Yes,3+,Graduate,,APP1906,16409.0,,518.0,120.0,0.0,Rural,Y
-LP100907,Applicant_907,Male,No,0,Graduate,Yes,APP1907,7334.0,6235.0,182.0,180.0,1.0,Rural,Y
-LP100908,Applicant_908,Female,No,0,Graduate,Yes,APP1908,14192.0,1594.0,575.0,240.0,1.0,Rural,N
-LP100909,Applicant_909,Female,Yes,0,Graduate,Yes,APP1909,13738.0,7014.0,591.0,120.0,0.0,Semiurban,
-LP100910,Applicant_910,Male,No,1,Graduate,No,APP1910,5969.0,5654.0,170.0,,1.0,Rural,
-LP100911,Applicant_911,Female,No,1,Graduate,Yes,APP1911,16499.0,5855.0,267.0,180.0,,Rural,N
-LP100912,Applicant_912,Male,Yes,0,,Yes,APP1912,7862.0,6749.0,516.0,240.0,1.0,Rural,Y
-LP100913,Applicant_913,Male,No,3+,Graduate,,APP1913,22210.0,5755.0,534.0,,0.0,Urban,N
-LP100914,Applicant_914,Female,No,0,Graduate,Yes,APP1914,13250.0,924.0,,360.0,0.0,Urban,N
-LP100915,Applicant_915,Male,Yes,2,Not Graduate,No,APP1915,10337.0,10833.0,210.0,360.0,0.0,Semiurban,Y
-LP100916,Applicant_916,Male,Yes,1,Graduate,No,APP1916,,4001.0,622.0,240.0,1.0,Semiurban,
-LP100917,Applicant_917,Male,Yes,,Not Graduate,Yes,APP1917,12506.0,4056.0,428.0,240.0,0.0,Semiurban,Y
-LP100918,Applicant_918,Female,Yes,2,,Yes,APP1918,5668.0,3844.0,171.0,120.0,0.0,Rural,
-LP100919,Applicant_919,Female,No,,Not Graduate,No,APP1919,2551.0,10618.0,666.0,240.0,0.0,Semiurban,N
-LP100920,Applicant_920,Male,No,2,Graduate,No,APP1920,24182.0,5113.0,468.0,180.0,1.0,,N
-LP100921,Applicant_921,Female,,0,Graduate,No,APP1921,20134.0,9708.0,162.0,180.0,1.0,Rural,N
-LP100922,Applicant_922,Male,,0,Not Graduate,,APP1922,3454.0,1391.0,,120.0,0.0,,N
-LP100923,Applicant_923,Male,Yes,1,Not Graduate,,APP1923,10694.0,14915.0,428.0,180.0,,Semiurban,Y
-LP100924,Applicant_924,,,1,Not Graduate,No,APP1924,5972.0,11272.0,635.0,180.0,1.0,Rural,Y
-LP100925,Applicant_925,Female,Yes,0,Graduate,Yes,APP1925,5140.0,1073.0,346.0,180.0,,Rural,N
-LP100926,Applicant_926,Female,No,2,Graduate,No,APP1926,16754.0,,91.0,240.0,1.0,Urban,Y
-LP100927,Applicant_927,Male,No,0,Not Graduate,No,APP1927,16526.0,4995.0,585.0,180.0,0.0,Urban,N
-LP100928,Applicant_928,Male,Yes,2,Graduate,Yes,APP1928,15204.0,1875.0,206.0,360.0,0.0,Rural,N
-LP100929,Applicant_929,Male,Yes,3+,Graduate,Yes,APP1929,,5531.0,170.0,240.0,1.0,Semiurban,N
-LP100930,Applicant_930,Female,No,0,,No,APP1930,12758.0,2781.0,430.0,180.0,0.0,Urban,N
-LP100931,Applicant_931,Female,,2,,No,APP1931,,322.0,362.0,180.0,,Rural,Y
-LP100932,Applicant_932,Male,No,2,Not Graduate,No,APP1932,11171.0,8821.0,433.0,180.0,1.0,Semiurban,N
-LP100933,Applicant_933,Female,No,2,Not Graduate,Yes,APP1933,21279.0,5343.0,360.0,360.0,0.0,Urban,Y
-LP100934,Applicant_934,Female,No,,Graduate,Yes,APP1934,6637.0,612.0,351.0,180.0,1.0,Semiurban,Y
-LP100935,Applicant_935,Female,No,1,Graduate,Yes,APP1935,22405.0,7551.0,547.0,180.0,1.0,Rural,
-LP100936,Applicant_936,Female,Yes,3+,Not Graduate,Yes,APP1936,21538.0,10776.0,78.0,120.0,1.0,,Y
-LP100937,Applicant_937,Male,Yes,3+,Not Graduate,Yes,APP1937,7068.0,14145.0,196.0,240.0,1.0,Semiurban,N
-LP100938,Applicant_938,,No,,Graduate,No,APP1938,,,195.0,240.0,1.0,Semiurban,N
-LP100939,Applicant_939,Male,Yes,1,Graduate,No,APP1939,19612.0,,653.0,360.0,1.0,Urban,Y
-LP100940,Applicant_940,Male,Yes,2,Graduate,No,APP1940,9026.0,8433.0,481.0,180.0,0.0,Rural,Y
-LP100941,Applicant_941,Male,No,,Graduate,No,APP1941,4333.0,14768.0,99.0,360.0,0.0,Rural,N
-LP100942,Applicant_942,Female,Yes,1,Not Graduate,No,APP1942,14990.0,6900.0,362.0,120.0,1.0,Rural,Y
-LP100943,Applicant_943,Female,Yes,3+,Graduate,No,APP1943,18597.0,4368.0,340.0,360.0,0.0,Urban,Y
-LP100944,Applicant_944,Male,Yes,2,,Yes,APP1944,17530.0,334.0,270.0,240.0,0.0,Rural,
-LP100945,Applicant_945,Female,Yes,2,Graduate,No,APP1945,8592.0,11402.0,237.0,,0.0,,Y
-LP100946,Applicant_946,Male,No,1,Not Graduate,No,APP1946,20884.0,7695.0,550.0,120.0,,Rural,Y
-LP100947,Applicant_947,,No,,Graduate,No,APP1947,17015.0,9633.0,52.0,360.0,1.0,Urban,Y
-LP100948,Applicant_948,Male,No,,Graduate,,APP1948,16663.0,364.0,175.0,120.0,0.0,Urban,
-LP100949,Applicant_949,Female,No,3+,Graduate,,APP1949,,5185.0,610.0,360.0,,Rural,N
-LP100950,Applicant_950,Female,Yes,0,Not Graduate,No,APP1950,1975.0,6188.0,407.0,180.0,1.0,Semiurban,Y
-LP100951,Applicant_951,Female,Yes,1,Graduate,Yes,APP1951,15528.0,9344.0,119.0,240.0,1.0,Urban,Y
-LP100952,Applicant_952,Female,No,2,Graduate,Yes,APP1952,9582.0,6394.0,95.0,240.0,1.0,Urban,
-LP100953,Applicant_953,Female,No,,Not Graduate,Yes,APP1953,9620.0,5282.0,477.0,360.0,0.0,Rural,Y
-LP100954,Applicant_954,Male,Yes,0,,Yes,APP1954,,9380.0,542.0,360.0,1.0,Rural,Y
-LP100955,Applicant_955,Male,No,3+,,No,APP1955,15729.0,1601.0,636.0,360.0,1.0,,N
-LP100956,Applicant_956,Female,Yes,1,Graduate,Yes,APP1956,,,,120.0,1.0,Rural,Y
-LP100957,Applicant_957,Male,Yes,2,Not Graduate,Yes,APP1957,8787.0,8001.0,629.0,360.0,0.0,Rural,N
-LP100958,Applicant_958,Female,Yes,0,Graduate,,APP1958,20891.0,1639.0,513.0,,1.0,Semiurban,Y
-LP100959,Applicant_959,Male,No,1,Not Graduate,No,APP1959,6381.0,11319.0,395.0,360.0,0.0,Urban,Y
-LP100960,Applicant_960,Male,Yes,2,Not Graduate,Yes,APP1960,20299.0,11061.0,436.0,,1.0,Urban,N
-LP100961,Applicant_961,Female,Yes,2,Not Graduate,No,APP1961,1666.0,3373.0,,360.0,0.0,Rural,
-LP100962,Applicant_962,Female,Yes,1,Graduate,No,APP1962,15189.0,5504.0,670.0,240.0,0.0,Urban,N
-LP100963,Applicant_963,Female,Yes,0,Not Graduate,Yes,APP1963,2949.0,8138.0,185.0,120.0,1.0,Rural,N
-LP100964,Applicant_964,Male,Yes,,Graduate,Yes,APP1964,2812.0,8237.0,191.0,240.0,0.0,Rural,N
-LP100965,Applicant_965,Male,Yes,3+,Not Graduate,Yes,APP1965,16922.0,13294.0,566.0,,1.0,Semiurban,N
-LP100966,Applicant_966,Male,,0,Not Graduate,No,APP1966,18022.0,,,120.0,1.0,Semiurban,N
-LP100967,Applicant_967,Male,,2,Graduate,No,APP1967,2601.0,,,240.0,0.0,,Y
-LP100968,Applicant_968,Female,Yes,1,Graduate,Yes,APP1968,15449.0,5563.0,,120.0,0.0,,Y
-LP100969,Applicant_969,Female,Yes,1,Not Graduate,No,APP1969,18903.0,2730.0,202.0,120.0,0.0,Urban,Y
-LP100970,Applicant_970,Male,No,0,Not Graduate,No,APP1970,14421.0,10073.0,383.0,120.0,1.0,Semiurban,Y
-LP100971,Applicant_971,Male,No,2,,No,APP1971,17204.0,4907.0,141.0,120.0,1.0,Rural,
-LP100972,Applicant_972,Male,Yes,2,Graduate,Yes,APP1972,24327.0,5952.0,689.0,180.0,1.0,Urban,N
-LP100973,Applicant_973,,Yes,0,Graduate,Yes,APP1973,4711.0,7143.0,,120.0,0.0,Semiurban,Y
-LP100974,Applicant_974,,,0,Graduate,No,APP1974,16325.0,3305.0,469.0,,0.0,Urban,N
-LP100975,Applicant_975,Female,Yes,0,Graduate,No,APP1975,17729.0,8142.0,,,0.0,Rural,Y
-LP100976,Applicant_976,Female,No,3+,Graduate,No,APP1976,9381.0,,288.0,360.0,,Semiurban,Y
-LP100977,Applicant_977,Female,Yes,3+,Not Graduate,Yes,APP1977,4222.0,13882.0,,120.0,0.0,Urban,N
-LP100978,Applicant_978,Male,No,3+,,Yes,APP1978,19800.0,12896.0,397.0,120.0,,Rural,N
-LP100979,Applicant_979,Female,No,1,Not Graduate,Yes,APP1979,1907.0,1234.0,603.0,360.0,1.0,Urban,N
-LP100980,Applicant_980,Male,,,Not Graduate,No,APP1980,24213.0,,96.0,360.0,0.0,,N
-LP100981,Applicant_981,Female,No,3+,Not Graduate,No,APP1981,14824.0,13931.0,503.0,240.0,1.0,Rural,Y
-LP100982,Applicant_982,Female,Yes,3+,Graduate,No,APP1982,8643.0,8779.0,334.0,240.0,0.0,Rural,Y
-LP100983,Applicant_983,Female,,,Graduate,No,APP1983,5848.0,3507.0,140.0,180.0,0.0,Urban,Y
-LP100984,Applicant_984,Male,No,3+,Not Graduate,,APP1984,13244.0,4708.0,,360.0,0.0,Semiurban,Y
-LP100985,Applicant_985,Female,No,0,Not Graduate,Yes,APP1985,11192.0,4344.0,75.0,,0.0,Semiurban,Y
-LP100986,Applicant_986,,No,,Not Graduate,No,APP1986,9333.0,778.0,635.0,,1.0,Rural,Y
-LP100987,Applicant_987,Female,Yes,1,Not Graduate,Yes,APP1987,22721.0,4871.0,695.0,180.0,0.0,Rural,
-LP100988,Applicant_988,Female,Yes,1,Not Graduate,No,APP1988,4473.0,9396.0,366.0,120.0,,Rural,Y
-LP100989,Applicant_989,Male,No,3+,Not Graduate,No,APP1989,2021.0,,624.0,240.0,0.0,Urban,Y
-LP100990,Applicant_990,Female,No,0,Not Graduate,,APP1990,17221.0,13182.0,176.0,240.0,0.0,Rural,
-LP100991,Applicant_991,Male,Yes,0,Graduate,No,APP1991,23422.0,3700.0,622.0,240.0,1.0,Rural,Y
-LP100992,Applicant_992,Female,No,2,Not Graduate,Yes,APP1992,11488.0,10232.0,137.0,180.0,,,N
-LP100993,Applicant_993,Female,No,,Not Graduate,No,APP1993,6801.0,12171.0,247.0,360.0,0.0,Rural,Y
-LP100994,Applicant_994,Male,No,,Graduate,No,APP1994,24545.0,1506.0,683.0,120.0,0.0,Urban,Y
-LP100995,Applicant_995,Female,No,2,Not Graduate,Yes,APP1995,16549.0,,604.0,360.0,1.0,,Y
-LP100996,Applicant_996,Female,No,0,Not Graduate,Yes,APP1996,20190.0,13831.0,640.0,120.0,1.0,,N
-LP100997,Applicant_997,Male,Yes,0,Not Graduate,No,APP1997,20625.0,,104.0,360.0,1.0,,N
-LP100998,Applicant_998,,No,2,Not Graduate,,APP1998,2299.0,1552.0,633.0,,1.0,Rural,
-LP100999,Applicant_999,Female,No,1,Not Graduate,Yes,APP1999,16404.0,9697.0,584.0,240.0,1.0,Semiurban,N
+LP100000,Applicant_0,Male,Yes,1,Not Graduate,No,APP1000,6392,7598,394,180,1,Urban,Y
+LP100001,Applicant_1,Male,Yes,3+,Graduate,Yes,APP1001,10690,,329,240,0,Rural,Y
+LP100002,Applicant_2,Female,Yes,1,Graduate,Yes,APP1002,2521,2271,118,360,,Rural,N
+LP100003,Applicant_3,Male,Yes,1,,Yes,APP1003,12613,14322,630,360,,Urban,Y
+LP100004,Applicant_4,Male,No,2,Not Graduate,No,APP1004,13795,,593,,,,N
+LP100005,Applicant_5,Male,Yes,,Not Graduate,Yes,APP1005,22029,6641,536,360,0,Rural,
+LP100006,Applicant_6,Male,Yes,3+,Graduate,Yes,APP1006,,3030,487,120,0,Urban,N
+LP100007,Applicant_7,Male,Yes,0,Not Graduate,Yes,APP1007,6938,12941,264,,1,Urban,N
+LP100008,Applicant_8,Female,Yes,,,No,APP1008,20209,14279,405,180,0,Rural,Y
+LP100009,Applicant_9,Male,,3+,Not Graduate,No,APP1009,21347,6068,128,240,0,Rural,N
+LP100010,Applicant_10,,Yes,1,Graduate,Yes,APP1010,14265,,359,360,1,Semiurban,N
+LP100011,Applicant_11,Male,Yes,3+,Graduate,Yes,APP1011,7640,7607,566,120,1,Urban,Y
+LP100012,Applicant_12,Male,No,1,Graduate,No,APP1012,21003,11532,357,240,1,Rural,N
+LP100013,Applicant_13,Male,Yes,2,Not Graduate,,APP1013,5328,10377,493,360,1,Rural,N
+LP100014,Applicant_14,Male,Yes,,,,APP1014,11601,22,602,240,0,Rural,Y
+LP100015,Applicant_15,Male,No,2,Graduate,Yes,APP1015,24610,14096,370,360,1,Semiurban,Y
+LP100016,Applicant_16,Female,Yes,0,Not Graduate,No,APP1016,11805,10277,254,120,,Semiurban,N
+LP100017,Applicant_17,Male,Yes,3+,Not Graduate,No,APP1017,24760,1158,474,240,,,N
+LP100018,Applicant_18,Female,No,2,Not Graduate,Yes,APP1018,2536,6305,461,180,1,Urban,N
+LP100019,Applicant_19,Female,Yes,0,Not Graduate,Yes,APP1019,10396,14638,307,240,0,Urban,N
+LP100020,Applicant_20,Male,Yes,1,Graduate,No,APP1020,15061,11317,689,360,1,Urban,N
+LP100021,Applicant_21,Male,Yes,0,Graduate,Yes,APP1021,4344,5454,577,,0,,N
+LP100022,Applicant_22,Female,Yes,2,Graduate,No,APP1022,,,514,240,1,Urban,
+LP100023,Applicant_23,,Yes,3+,Not Graduate,,APP1023,9287,535,610,120,1,,N
+LP100024,Applicant_24,Female,No,0,Not Graduate,Yes,APP1024,13676,4859,234,360,1,Rural,N
+LP100025,Applicant_25,Male,Yes,0,Graduate,,APP1025,16308,6977,69,360,1,Urban,N
+LP100026,Applicant_26,Male,No,,Graduate,,APP1026,11416,12335,692,360,,Rural,Y
+LP100027,Applicant_27,Female,,1,Not Graduate,No,APP1027,8582,4420,578,180,1,Rural,Y
+LP100028,Applicant_28,Male,Yes,3+,Graduate,Yes,APP1028,18706,11436,,120,0,Urban,N
+LP100029,Applicant_29,Male,,1,Not Graduate,Yes,APP1029,11406,10035,640,180,1,Rural,
+LP100030,Applicant_30,,Yes,2,Graduate,,APP1030,7234,8887,,180,1,Rural,Y
+LP100031,Applicant_31,Male,Yes,2,Not Graduate,No,APP1031,5177,9424,268,120,0,Semiurban,N
+LP100032,Applicant_32,Female,No,,,Yes,APP1032,,13016,,,0,Rural,Y
+LP100033,Applicant_33,Female,Yes,1,Graduate,,APP1033,2725,3393,324,180,0,,N
+LP100034,Applicant_34,Female,,1,Graduate,No,APP1034,,12905,595,,1,Semiurban,Y
+LP100035,Applicant_35,Male,,0,Graduate,Yes,APP1035,4534,11217,679,240,0,,N
+LP100036,Applicant_36,Female,No,3+,Graduate,Yes,APP1036,,1326,494,180,0,Rural,Y
+LP100037,Applicant_37,Male,No,1,,Yes,APP1037,18080,10165,629,360,1,Urban,N
+LP100038,Applicant_38,Female,Yes,1,,Yes,APP1038,2317,14431,691,120,1,Rural,Y
+LP100039,Applicant_39,,No,,Graduate,Yes,APP1039,17315,5500,111,180,0,,N
+LP100040,Applicant_40,Female,Yes,1,Not Graduate,No,APP1040,17885,12054,584,,1,Urban,Y
+LP100041,Applicant_41,Female,Yes,2,Graduate,,APP1041,6548,898,255,360,0,Semiurban,N
+LP100042,Applicant_42,Male,,2,,Yes,APP1042,7732,8433,423,120,1,Urban,
+LP100043,Applicant_43,Male,No,3+,Not Graduate,Yes,APP1043,12644,14909,523,240,1,Rural,Y
+LP100044,Applicant_44,Male,Yes,3+,Not Graduate,Yes,APP1044,17342,11053,201,360,0,Urban,
+LP100045,Applicant_45,Male,Yes,2,Not Graduate,No,APP1045,18658,5963,296,120,0,Semiurban,
+LP100046,Applicant_46,Female,No,2,Not Graduate,No,APP1046,11669,14548,204,180,0,Urban,N
+LP100047,Applicant_47,Male,,2,Graduate,No,APP1047,12226,844,357,240,0,Rural,Y
+LP100048,Applicant_48,Male,No,2,Not Graduate,No,APP1048,6195,1818,495,120,1,Semiurban,N
+LP100049,Applicant_49,Male,Yes,3+,Graduate,No,APP1049,4719,6274,,120,1,Urban,Y
+LP100050,Applicant_50,Female,No,3+,Not Graduate,,APP1050,18413,5989,376,240,0,Semiurban,N
+LP100051,Applicant_51,Female,No,0,Not Graduate,Yes,APP1051,,7624,115,360,1,Rural,
+LP100052,Applicant_52,Female,Yes,3+,Not Graduate,,APP1052,5848,10143,,360,0,Urban,N
+LP100053,Applicant_53,Female,Yes,2,Graduate,Yes,APP1053,8223,669,258,,1,Rural,Y
+LP100054,Applicant_54,,No,1,Not Graduate,No,APP1054,,5989,472,180,1,Rural,Y
+LP100055,Applicant_55,Female,Yes,2,Graduate,No,APP1055,16552,6003,323,180,1,Rural,Y
+LP100056,Applicant_56,Female,,2,Not Graduate,No,APP1056,14200,2871,343,240,0,Urban,Y
+LP100057,Applicant_57,Male,Yes,3+,Not Graduate,No,APP1057,24885,10619,214,240,1,Urban,Y
+LP100058,Applicant_58,Female,No,0,Not Graduate,Yes,APP1058,18616,9155,312,360,1,Urban,N
+LP100059,Applicant_59,,No,1,Not Graduate,Yes,APP1059,5295,11548,665,120,0,Urban,Y
+LP100060,Applicant_60,Male,No,1,Graduate,No,APP1060,,,291,360,1,Semiurban,Y
+LP100061,Applicant_61,Male,No,0,Not Graduate,No,APP1061,,9187,465,120,0,Rural,Y
+LP100062,Applicant_62,Male,No,2,Graduate,Yes,APP1062,2942,11621,294,240,0,Rural,N
+LP100063,Applicant_63,,No,3+,Graduate,No,APP1063,24013,12674,,240,1,Rural,N
+LP100064,Applicant_64,Female,Yes,2,Graduate,Yes,APP1064,20973,3354,,,0,Semiurban,Y
+LP100065,Applicant_65,Female,,1,Graduate,No,APP1065,4353,2267,246,240,1,Urban,N
+LP100066,Applicant_66,,,1,Not Graduate,Yes,APP1066,,5487,78,360,,Urban,Y
+LP100067,Applicant_67,,No,2,Not Graduate,Yes,APP1067,16798,3909,301,240,0,Urban,Y
+LP100068,Applicant_68,Male,No,1,Graduate,No,APP1068,3011,8841,367,180,0,Urban,Y
+LP100069,Applicant_69,Male,,3+,Graduate,No,APP1069,4878,1860,525,360,0,Rural,Y
+LP100070,Applicant_70,,,1,,Yes,APP1070,18558,10633,547,120,0,Rural,Y
+LP100071,Applicant_71,Female,No,3+,Not Graduate,No,APP1071,23093,7839,623,360,1,Urban,Y
+LP100072,Applicant_72,Female,No,2,Not Graduate,No,APP1072,11739,12081,496,180,1,Rural,Y
+LP100073,Applicant_73,Female,No,2,Graduate,No,APP1073,2236,12325,482,180,1,Semiurban,Y
+LP100074,Applicant_74,Male,No,3+,Not Graduate,No,APP1074,20425,9504,87,120,0,,Y
+LP100075,Applicant_75,Male,Yes,3+,Not Graduate,No,APP1075,11728,14272,256,240,,Rural,Y
+LP100076,Applicant_76,,No,3+,Graduate,Yes,APP1076,22433,11515,213,240,0,Semiurban,N
+LP100077,Applicant_77,Male,No,1,,No,APP1077,8376,3437,329,360,0,Urban,Y
+LP100078,Applicant_78,Female,No,2,Graduate,No,APP1078,12014,12339,189,180,1,Semiurban,N
+LP100079,Applicant_79,Female,No,1,,No,APP1079,8071,12206,79,180,0,Rural,N
+LP100080,Applicant_80,Female,No,1,Graduate,Yes,APP1080,,12466,314,120,1,Urban,Y
+LP100081,Applicant_81,Male,Yes,3+,Not Graduate,No,APP1081,10890,3693,334,180,0,Urban,Y
+LP100082,Applicant_82,Female,,1,Graduate,Yes,APP1082,10565,5250,,180,0,Urban,N
+LP100083,Applicant_83,Male,Yes,0,Graduate,No,APP1083,18941,5778,230,240,1,Rural,N
+LP100084,Applicant_84,Male,Yes,0,,Yes,APP1084,11957,14711,93,240,0,Rural,N
+LP100085,Applicant_85,Female,Yes,0,,No,APP1085,15954,4380,547,360,1,Rural,Y
+LP100086,Applicant_86,Female,Yes,0,Graduate,Yes,APP1086,23491,8250,70,360,1,Urban,Y
+LP100087,Applicant_87,Female,No,0,Graduate,Yes,APP1087,5355,11144,106,240,0,Urban,N
+LP100088,Applicant_88,,Yes,3+,Not Graduate,No,APP1088,10434,6929,,120,0,Rural,N
+LP100089,Applicant_89,Male,No,1,Graduate,No,APP1089,6392,4540,371,180,1,Rural,Y
+LP100090,Applicant_90,Male,,,Not Graduate,No,APP1090,6660,892,,360,0,Rural,N
+LP100091,Applicant_91,Female,Yes,0,Graduate,Yes,APP1091,10466,1038,355,360,0,Rural,Y
+LP100092,Applicant_92,Male,No,1,Graduate,No,APP1092,5250,6108,115,240,1,Semiurban,Y
+LP100093,Applicant_93,Male,,0,Not Graduate,Yes,APP1093,1999,5656,466,120,0,Semiurban,
+LP100094,Applicant_94,Male,No,1,,No,APP1094,21912,7412,422,120,,Urban,Y
+LP100095,Applicant_95,Male,No,,Graduate,Yes,APP1095,19837,,142,240,0,Semiurban,Y
+LP100096,Applicant_96,,No,2,,No,APP1096,,8215,456,120,,Rural,Y
+LP100097,Applicant_97,Female,Yes,,,No,APP1097,4854,8629,193,180,0,Rural,
+LP100098,Applicant_98,Male,No,3+,Not Graduate,Yes,APP1098,8269,13591,291,120,1,Semiurban,N
+LP100099,Applicant_99,Female,No,3+,Not Graduate,Yes,APP1099,19277,2010,164,360,1,Semiurban,N
+LP100100,Applicant_100,Female,,0,Not Graduate,No,APP1100,12979,7703,634,180,1,Rural,N
+LP100101,Applicant_101,,Yes,0,Not Graduate,No,APP1101,,11629,562,360,1,Urban,
+LP100102,Applicant_102,Female,Yes,3+,Graduate,No,APP1102,11936,8714,173,120,1,Semiurban,Y
+LP100103,Applicant_103,Male,Yes,0,Not Graduate,Yes,APP1103,10381,11113,584,360,0,Semiurban,N
+LP100104,Applicant_104,Male,No,0,Graduate,No,APP1104,6138,13523,644,240,0,Urban,N
+LP100105,Applicant_105,Female,Yes,2,,,APP1105,24580,8730,587,360,0,Urban,
+LP100106,Applicant_106,Female,Yes,2,Graduate,Yes,APP1106,10782,14736,307,180,1,Semiurban,N
+LP100107,Applicant_107,,No,0,Graduate,No,APP1107,20311,4788,558,120,1,Semiurban,N
+LP100108,Applicant_108,Female,No,3+,Graduate,Yes,APP1108,9522,7405,142,240,0,Semiurban,Y
+LP100109,Applicant_109,Female,Yes,1,,Yes,APP1109,7112,10173,293,180,0,Semiurban,N
+LP100110,Applicant_110,Male,No,0,Graduate,Yes,APP1110,3834,6031,664,120,0,Urban,
+LP100111,Applicant_111,Female,Yes,0,Not Graduate,No,APP1111,11703,13105,175,120,0,Rural,N
+LP100112,Applicant_112,Male,No,1,Not Graduate,Yes,APP1112,21595,11031,370,,0,Semiurban,Y
+LP100113,Applicant_113,Female,Yes,1,Not Graduate,Yes,APP1113,,11357,387,240,0,Semiurban,Y
+LP100114,Applicant_114,Male,No,,Not Graduate,Yes,APP1114,19213,13251,,120,0,Semiurban,N
+LP100115,Applicant_115,Male,Yes,2,Not Graduate,Yes,APP1115,16037,14469,449,180,1,Semiurban,N
+LP100116,Applicant_116,Female,Yes,2,Not Graduate,No,APP1116,3162,1075,291,120,0,Semiurban,Y
+LP100117,Applicant_117,Male,No,2,Not Graduate,Yes,APP1117,5762,3085,483,120,0,Rural,N
+LP100118,Applicant_118,Male,No,3+,Graduate,Yes,APP1118,2450,,273,,1,Urban,Y
+LP100119,Applicant_119,Female,No,0,Graduate,Yes,APP1119,16925,,197,240,0,Urban,N
+LP100120,Applicant_120,Male,No,2,Not Graduate,Yes,APP1120,23634,7501,159,120,1,Rural,Y
+LP100121,Applicant_121,Male,Yes,3+,Not Graduate,No,APP1121,3153,1430,229,360,1,Urban,N
+LP100122,Applicant_122,Female,Yes,,Graduate,Yes,APP1122,4971,1313,269,180,0,Rural,Y
+LP100123,Applicant_123,Female,Yes,1,Not Graduate,Yes,APP1123,14069,,331,,1,Rural,N
+LP100124,Applicant_124,Male,,,Graduate,No,APP1124,3262,14711,500,240,0,Urban,Y
+LP100125,Applicant_125,Male,Yes,2,Not Graduate,No,APP1125,4321,2929,468,360,0,Semiurban,N
+LP100126,Applicant_126,Female,Yes,,Not Graduate,No,APP1126,15474,4724,310,360,1,Rural,N
+LP100127,Applicant_127,Female,Yes,0,Graduate,No,APP1127,14342,1260,653,,1,Rural,N
+LP100128,Applicant_128,Male,Yes,0,Graduate,No,APP1128,7364,1791,107,240,0,Semiurban,Y
+LP100129,Applicant_129,Male,Yes,3+,Not Graduate,No,APP1129,24590,2699,552,240,0,Semiurban,Y
+LP100130,Applicant_130,Male,No,,Not Graduate,Yes,APP1130,,4521,596,240,0,Urban,N
+LP100131,Applicant_131,Male,No,3+,Not Graduate,No,APP1131,20923,1835,433,360,1,Rural,Y
+LP100132,Applicant_132,Male,No,3+,,No,APP1132,22126,11420,165,360,1,Urban,N
+LP100133,Applicant_133,Female,No,0,Not Graduate,Yes,APP1133,,2424,374,360,1,Semiurban,N
+LP100134,Applicant_134,Male,Yes,0,Not Graduate,Yes,APP1134,24416,8131,608,240,,Rural,Y
+LP100135,Applicant_135,Male,No,1,Not Graduate,Yes,APP1135,16109,2465,,360,1,,Y
+LP100136,Applicant_136,,No,0,Not Graduate,No,APP1136,21695,14335,536,120,0,Semiurban,Y
+LP100137,Applicant_137,Female,No,3+,Not Graduate,No,APP1137,13153,,302,240,1,Urban,N
+LP100138,Applicant_138,Male,Yes,3+,Graduate,Yes,APP1138,11738,8530,334,120,1,Urban,N
+LP100139,Applicant_139,,Yes,2,Graduate,No,APP1139,12389,,198,240,0,Urban,N
+LP100140,Applicant_140,Female,Yes,0,Graduate,No,APP1140,7992,371,421,180,0,Semiurban,Y
+LP100141,Applicant_141,Male,Yes,0,Not Graduate,,APP1141,24860,,536,360,1,Urban,N
+LP100142,Applicant_142,Male,Yes,1,Not Graduate,,APP1142,23483,6824,426,360,1,,N
+LP100143,Applicant_143,Female,Yes,1,Not Graduate,Yes,APP1143,18981,11180,365,240,1,Semiurban,N
+LP100144,Applicant_144,Female,No,3+,Not Graduate,No,APP1144,4073,,71,,0,Semiurban,Y
+LP100145,Applicant_145,Female,No,2,Not Graduate,No,APP1145,16759,2163,670,180,0,Urban,N
+LP100146,Applicant_146,Female,No,0,Graduate,Yes,APP1146,20105,7764,85,240,1,Semiurban,N
+LP100147,Applicant_147,Female,No,0,Graduate,Yes,APP1147,5818,5680,105,360,1,Rural,N
+LP100148,Applicant_148,Male,No,2,Not Graduate,,APP1148,4544,,295,180,1,Urban,Y
+LP100149,Applicant_149,Male,No,0,,No,APP1149,24391,,309,360,0,Rural,N
+LP100150,Applicant_150,Male,No,1,,Yes,APP1150,16844,12086,615,120,,Urban,Y
+LP100151,Applicant_151,Male,Yes,2,Not Graduate,No,APP1151,4687,10562,443,120,1,Urban,
+LP100152,Applicant_152,Female,Yes,0,Not Graduate,No,APP1152,,351,366,180,0,,N
+LP100153,Applicant_153,Male,No,1,Graduate,No,APP1153,11670,4776,421,360,1,Semiurban,N
+LP100154,Applicant_154,Male,No,1,Graduate,Yes,APP1154,23928,3097,174,120,1,Urban,Y
+LP100155,Applicant_155,Male,Yes,3+,Graduate,No,APP1155,22616,1031,597,180,1,Rural,Y
+LP100156,Applicant_156,Male,No,,Not Graduate,Yes,APP1156,24772,361,292,180,,Rural,Y
+LP100157,Applicant_157,Male,No,2,Not Graduate,No,APP1157,,14283,503,240,0,Urban,Y
+LP100158,Applicant_158,Male,No,1,Graduate,No,APP1158,16918,13139,447,120,,Rural,
+LP100159,Applicant_159,Male,Yes,1,Graduate,No,APP1159,,3806,58,360,,Rural,Y
+LP100160,Applicant_160,Male,Yes,3+,Graduate,No,APP1160,,13679,452,120,1,Semiurban,Y
+LP100161,Applicant_161,Male,No,2,Graduate,Yes,APP1161,6209,8513,311,240,0,Urban,N
+LP100162,Applicant_162,Female,Yes,,Graduate,,APP1162,21715,10562,,,1,Semiurban,N
+LP100163,Applicant_163,Male,Yes,1,Graduate,No,APP1163,9955,5503,142,360,0,Rural,N
+LP100164,Applicant_164,Male,Yes,0,Graduate,Yes,APP1164,13409,6745,291,180,0,Semiurban,Y
+LP100165,Applicant_165,Female,No,,Graduate,No,APP1165,14347,9481,354,240,0,Rural,Y
+LP100166,Applicant_166,Female,,0,Not Graduate,No,APP1166,7508,5616,265,360,0,Rural,Y
+LP100167,Applicant_167,Male,Yes,,Graduate,No,APP1167,24424,10743,214,120,0,Rural,
+LP100168,Applicant_168,Male,No,3+,Not Graduate,No,APP1168,23296,10584,499,240,1,Rural,N
+LP100169,Applicant_169,Female,No,,Graduate,No,APP1169,,12891,696,180,1,Rural,N
+LP100170,Applicant_170,Male,No,0,Not Graduate,No,APP1170,12141,5346,374,180,,Semiurban,Y
+LP100171,Applicant_171,Female,Yes,2,Not Graduate,,APP1171,,7965,466,180,,Rural,Y
+LP100172,Applicant_172,Female,,3+,Not Graduate,Yes,APP1172,17474,9721,84,360,,Semiurban,N
+LP100173,Applicant_173,Male,No,2,Not Graduate,Yes,APP1173,,10909,330,180,,Rural,Y
+LP100174,Applicant_174,,No,0,Graduate,Yes,APP1174,3641,11417,132,360,,Urban,Y
+LP100175,Applicant_175,Male,Yes,2,Graduate,No,APP1175,17075,8686,553,180,1,Urban,
+LP100176,Applicant_176,Female,Yes,,Graduate,Yes,APP1176,5199,13793,532,120,0,Rural,
+LP100177,Applicant_177,Female,No,3+,Not Graduate,No,APP1177,13016,8986,472,180,0,Rural,N
+LP100178,Applicant_178,Female,Yes,,Not Graduate,No,APP1178,17184,7295,390,120,,,Y
+LP100179,Applicant_179,Female,No,2,,Yes,APP1179,16613,,482,180,1,Urban,Y
+LP100180,Applicant_180,Female,Yes,3+,Graduate,Yes,APP1180,7096,4982,152,360,0,Semiurban,N
+LP100181,Applicant_181,Male,No,3+,Not Graduate,Yes,APP1181,10749,9293,214,120,0,Semiurban,
+LP100182,Applicant_182,Male,Yes,1,Not Graduate,No,APP1182,12923,2161,317,,0,Urban,N
+LP100183,Applicant_183,Male,,3+,Not Graduate,Yes,APP1183,21306,14717,568,360,0,Semiurban,N
+LP100184,Applicant_184,Female,Yes,0,Graduate,Yes,APP1184,20331,12932,117,240,1,Rural,Y
+LP100185,Applicant_185,Female,No,2,Not Graduate,No,APP1185,5674,5021,410,360,1,Rural,Y
+LP100186,Applicant_186,Male,Yes,1,Graduate,No,APP1186,18144,2813,480,120,0,Rural,Y
+LP100187,Applicant_187,Male,No,0,Not Graduate,Yes,APP1187,4872,12931,666,240,1,Semiurban,N
+LP100188,Applicant_188,Male,No,0,Graduate,No,APP1188,14793,4259,610,240,,Semiurban,N
+LP100189,Applicant_189,Male,No,2,Not Graduate,,APP1189,24905,3715,384,,,Semiurban,N
+LP100190,Applicant_190,Female,No,1,Graduate,No,APP1190,5005,7933,514,360,1,Rural,N
+LP100191,Applicant_191,Male,No,3+,Graduate,No,APP1191,12178,6093,78,240,0,Semiurban,Y
+LP100192,Applicant_192,Female,Yes,1,Graduate,Yes,APP1192,19723,4720,103,240,0,,Y
+LP100193,Applicant_193,Male,No,3+,Graduate,No,APP1193,22781,,238,120,1,Semiurban,Y
+LP100194,Applicant_194,Female,Yes,2,Graduate,Yes,APP1194,3824,13852,695,360,1,Semiurban,N
+LP100195,Applicant_195,Female,No,2,Graduate,Yes,APP1195,,775,504,180,1,Urban,Y
+LP100196,Applicant_196,Male,Yes,0,,Yes,APP1196,18957,2430,189,,1,Urban,Y
+LP100197,Applicant_197,Male,No,0,Not Graduate,Yes,APP1197,16605,5785,53,120,1,Urban,Y
+LP100198,Applicant_198,,No,,Graduate,No,APP1198,,4659,460,240,1,Urban,
+LP100199,Applicant_199,Male,Yes,2,Graduate,,APP1199,20850,7469,254,240,1,Semiurban,Y
+LP100200,Applicant_200,Male,No,,Not Graduate,Yes,APP1200,15047,,693,,0,Urban,Y
+LP100201,Applicant_201,Male,Yes,2,Graduate,No,APP1201,9317,10135,362,360,0,,Y
+LP100202,Applicant_202,Male,Yes,2,Graduate,No,APP1202,21844,2634,371,240,1,Rural,
+LP100203,Applicant_203,Male,No,0,Graduate,No,APP1203,,11662,639,180,1,Urban,N
+LP100204,Applicant_204,Male,No,,Graduate,No,APP1204,,,134,120,1,Rural,N
+LP100205,Applicant_205,Female,Yes,0,,No,APP1205,6710,4673,163,,,Semiurban,Y
+LP100206,Applicant_206,Female,,,Not Graduate,No,APP1206,17306,2986,211,360,1,Semiurban,N
+LP100207,Applicant_207,Female,No,3+,Not Graduate,No,APP1207,14076,2873,305,180,1,Semiurban,Y
+LP100208,Applicant_208,Male,No,3+,Not Graduate,Yes,APP1208,3664,13751,578,240,0,Urban,N
+LP100209,Applicant_209,,Yes,,Not Graduate,No,APP1209,12664,11601,183,360,1,Semiurban,Y
+LP100210,Applicant_210,,No,0,Not Graduate,,APP1210,8323,11351,658,180,1,Rural,Y
+LP100211,Applicant_211,Male,Yes,,,No,APP1211,24242,14822,470,180,1,Semiurban,N
+LP100212,Applicant_212,Female,Yes,0,Not Graduate,Yes,APP1212,20864,,377,180,0,Semiurban,N
+LP100213,Applicant_213,Male,,2,Graduate,Yes,APP1213,15627,13016,512,120,0,Urban,N
+LP100214,Applicant_214,Female,Yes,0,Not Graduate,No,APP1214,15765,2514,539,120,1,Semiurban,Y
+LP100215,Applicant_215,Female,No,2,Not Graduate,No,APP1215,20086,2641,186,360,0,Rural,Y
+LP100216,Applicant_216,Female,No,3+,Not Graduate,No,APP1216,12713,3897,316,360,1,Rural,N
+LP100217,Applicant_217,Female,Yes,0,Graduate,No,APP1217,19343,1915,227,360,1,Urban,N
+LP100218,Applicant_218,,Yes,2,Graduate,No,APP1218,,674,657,240,0,Urban,N
+LP100219,Applicant_219,Female,Yes,3+,Not Graduate,Yes,APP1219,9238,5187,385,240,1,Rural,Y
+LP100220,Applicant_220,Male,Yes,3+,Not Graduate,No,APP1220,7171,9413,338,360,0,Semiurban,Y
+LP100221,Applicant_221,,No,0,Not Graduate,No,APP1221,23212,2072,253,120,0,Rural,Y
+LP100222,Applicant_222,Female,Yes,1,Graduate,No,APP1222,23441,7223,136,120,1,Urban,N
+LP100223,Applicant_223,Male,Yes,1,,Yes,APP1223,4052,4266,474,180,0,Urban,Y
+LP100224,Applicant_224,Male,Yes,3+,Graduate,Yes,APP1224,24827,6056,426,360,0,Rural,Y
+LP100225,Applicant_225,Male,Yes,1,Not Graduate,No,APP1225,20315,3022,236,240,0,Urban,N
+LP100226,Applicant_226,Female,Yes,1,Not Graduate,No,APP1226,17445,3361,452,180,1,Rural,Y
+LP100227,Applicant_227,Male,No,2,Not Graduate,,APP1227,5246,9215,,120,1,Rural,Y
+LP100228,Applicant_228,Male,No,2,Not Graduate,Yes,APP1228,20904,11585,634,360,1,Rural,N
+LP100229,Applicant_229,Female,No,2,Not Graduate,Yes,APP1229,21032,568,279,120,1,Semiurban,
+LP100230,Applicant_230,Male,No,3+,Not Graduate,Yes,APP1230,16668,10904,71,180,1,Semiurban,Y
+LP100231,Applicant_231,Male,,1,Graduate,No,APP1231,12161,5192,73,360,1,Semiurban,N
+LP100232,Applicant_232,Male,Yes,0,Graduate,Yes,APP1232,19689,5633,621,240,1,Rural,N
+LP100233,Applicant_233,Male,,1,Graduate,No,APP1233,4699,2423,676,360,0,Urban,N
+LP100234,Applicant_234,Male,Yes,3+,Graduate,No,APP1234,,,,,1,Rural,N
+LP100235,Applicant_235,,No,2,Not Graduate,,APP1235,7272,7347,284,360,1,,Y
+LP100236,Applicant_236,Male,No,3+,Not Graduate,No,APP1236,11593,8845,141,360,1,Semiurban,Y
+LP100237,Applicant_237,Female,No,2,Graduate,No,APP1237,14797,2663,523,360,0,Rural,
+LP100238,Applicant_238,Male,No,3+,Graduate,No,APP1238,3780,,253,360,0,Rural,Y
+LP100239,Applicant_239,Male,,0,Not Graduate,No,APP1239,,,318,240,1,Semiurban,Y
+LP100240,Applicant_240,Male,No,2,Not Graduate,No,APP1240,5063,1990,,120,0,Rural,N
+LP100241,Applicant_241,Male,Yes,2,Not Graduate,No,APP1241,23962,,100,360,1,Rural,
+LP100242,Applicant_242,Female,No,1,,No,APP1242,21043,6628,,180,0,,Y
+LP100243,Applicant_243,Female,No,3+,Not Graduate,,APP1243,13916,8182,682,360,,Semiurban,Y
+LP100244,Applicant_244,Female,No,1,Not Graduate,Yes,APP1244,12228,12591,,240,0,,N
+LP100245,Applicant_245,Male,Yes,3+,Graduate,Yes,APP1245,17697,2381,664,360,1,Urban,N
+LP100246,Applicant_246,Female,Yes,0,Graduate,Yes,APP1246,22635,7504,316,120,,Rural,Y
+LP100247,Applicant_247,Male,No,1,Not Graduate,Yes,APP1247,23132,5246,202,240,0,Urban,
+LP100248,Applicant_248,Female,No,2,Graduate,No,APP1248,3514,2556,141,360,1,Urban,N
+LP100249,Applicant_249,Female,Yes,0,Not Graduate,Yes,APP1249,4466,70,426,,,Urban,N
+LP100250,Applicant_250,Male,Yes,3+,Not Graduate,Yes,APP1250,8630,12099,224,360,,,N
+LP100251,Applicant_251,Female,No,2,Not Graduate,Yes,APP1251,6052,,630,360,1,Rural,Y
+LP100252,Applicant_252,Female,No,3+,,No,APP1252,20530,8313,170,120,1,Semiurban,N
+LP100253,Applicant_253,Female,Yes,2,,Yes,APP1253,22344,,64,240,1,Semiurban,Y
+LP100254,Applicant_254,Male,,3+,Not Graduate,Yes,APP1254,1506,10604,588,240,0,Semiurban,Y
+LP100255,Applicant_255,Male,Yes,2,,Yes,APP1255,6307,11558,495,360,1,,Y
+LP100256,Applicant_256,Female,No,3+,Not Graduate,,APP1256,23155,4842,,240,0,Rural,N
+LP100257,Applicant_257,Male,No,1,Graduate,Yes,APP1257,6389,7764,556,180,1,Urban,Y
+LP100258,Applicant_258,Male,Yes,2,Not Graduate,Yes,APP1258,16343,14679,171,360,0,Semiurban,Y
+LP100259,Applicant_259,Male,Yes,2,Graduate,No,APP1259,,4748,279,240,1,Rural,N
+LP100260,Applicant_260,Female,No,1,,Yes,APP1260,11051,12356,258,240,0,Urban,Y
+LP100261,Applicant_261,,Yes,3+,Graduate,Yes,APP1261,14278,9399,245,240,0,Semiurban,Y
+LP100262,Applicant_262,Female,No,2,,No,APP1262,21671,10926,,240,,,N
+LP100263,Applicant_263,Male,Yes,1,Not Graduate,Yes,APP1263,20437,2409,,360,,Urban,Y
+LP100264,Applicant_264,Male,,3+,Graduate,Yes,APP1264,16152,13100,556,,1,Semiurban,N
+LP100265,Applicant_265,Female,Yes,2,Not Graduate,No,APP1265,7911,9260,441,360,1,Semiurban,Y
+LP100266,Applicant_266,Female,Yes,2,Not Graduate,No,APP1266,8239,11936,183,240,0,Rural,N
+LP100267,Applicant_267,Male,No,3+,Not Graduate,,APP1267,23831,14858,491,120,1,Urban,
+LP100268,Applicant_268,Female,No,1,Not Graduate,Yes,APP1268,11874,7243,261,180,,Semiurban,N
+LP100269,Applicant_269,Female,Yes,2,Not Graduate,No,APP1269,11321,5549,664,360,0,Rural,Y
+LP100270,Applicant_270,Male,No,3+,Not Graduate,No,APP1270,20186,11290,270,360,1,Urban,Y
+LP100271,Applicant_271,Female,No,,Not Graduate,Yes,APP1271,23767,1840,339,,0,Semiurban,Y
+LP100272,Applicant_272,Male,No,3+,Graduate,Yes,APP1272,11479,11987,243,,1,Rural,N
+LP100273,Applicant_273,Male,No,2,Not Graduate,Yes,APP1273,,7847,478,180,0,Semiurban,Y
+LP100274,Applicant_274,Female,No,,Graduate,Yes,APP1274,12780,14748,234,180,0,Urban,N
+LP100275,Applicant_275,,,1,Graduate,,APP1275,4425,656,468,120,0,Rural,N
+LP100276,Applicant_276,Male,,1,Not Graduate,No,APP1276,20594,2284,199,120,,Rural,N
+LP100277,Applicant_277,,No,0,Graduate,No,APP1277,1766,11108,79,240,1,Semiurban,N
+LP100278,Applicant_278,Female,Yes,3+,Graduate,No,APP1278,21537,9026,347,240,,Urban,Y
+LP100279,Applicant_279,Female,No,1,Not Graduate,No,APP1279,18225,1914,,240,1,Rural,Y
+LP100280,Applicant_280,,Yes,3+,Not Graduate,,APP1280,14744,5047,291,180,1,Urban,Y
+LP100281,Applicant_281,Female,No,2,Not Graduate,No,APP1281,5679,406,682,180,0,Urban,Y
+LP100282,Applicant_282,Male,No,0,Graduate,Yes,APP1282,11139,6580,511,180,,Semiurban,Y
+LP100283,Applicant_283,Female,No,3+,Graduate,Yes,APP1283,3545,10117,304,360,0,Urban,N
+LP100284,Applicant_284,Female,Yes,3+,,No,APP1284,,13776,428,360,1,Semiurban,Y
+LP100285,Applicant_285,Female,No,1,Graduate,No,APP1285,19485,,646,180,1,Urban,N
+LP100286,Applicant_286,Male,Yes,2,Not Graduate,No,APP1286,3240,7306,519,,1,Semiurban,Y
+LP100287,Applicant_287,Male,Yes,1,Not Graduate,No,APP1287,1527,5855,,240,0,Semiurban,N
+LP100288,Applicant_288,Female,No,2,Not Graduate,No,APP1288,,1515,60,120,0,Rural,
+LP100289,Applicant_289,,No,1,Graduate,Yes,APP1289,19851,5347,530,,1,,Y
+LP100290,Applicant_290,Male,No,3+,Not Graduate,Yes,APP1290,13271,901,,180,0,Rural,
+LP100291,Applicant_291,Male,Yes,3+,Graduate,,APP1291,5094,9963,381,180,0,Semiurban,N
+LP100292,Applicant_292,,Yes,0,Graduate,No,APP1292,10747,,457,240,0,Urban,Y
+LP100293,Applicant_293,Male,,3+,Not Graduate,No,APP1293,2521,3197,267,120,1,Rural,Y
+LP100294,Applicant_294,Female,No,3+,Not Graduate,No,APP1294,9208,9558,,,1,Urban,N
+LP100295,Applicant_295,Male,No,3+,Graduate,No,APP1295,15646,8625,483,120,1,Urban,Y
+LP100296,Applicant_296,,Yes,3+,Not Graduate,,APP1296,24510,3639,661,120,0,Urban,N
+LP100297,Applicant_297,Female,Yes,0,Graduate,No,APP1297,20838,12800,312,360,0,Urban,N
+LP100298,Applicant_298,Male,No,,Graduate,Yes,APP1298,14419,12568,124,180,1,Rural,Y
+LP100299,Applicant_299,,,0,Not Graduate,Yes,APP1299,21987,,147,360,0,Urban,N
+LP100300,Applicant_300,Male,Yes,0,Not Graduate,Yes,APP1300,11924,3206,620,,,Semiurban,N
+LP100301,Applicant_301,Male,No,1,Graduate,No,APP1301,24823,,110,360,0,Semiurban,Y
+LP100302,Applicant_302,Male,,2,Graduate,No,APP1302,14043,1369,103,240,1,Urban,Y
+LP100303,Applicant_303,Female,Yes,1,Graduate,No,APP1303,14804,8821,390,120,0,Urban,Y
+LP100304,Applicant_304,Male,Yes,0,Not Graduate,Yes,APP1304,14003,13917,290,180,,Semiurban,Y
+LP100305,Applicant_305,Female,No,3+,Graduate,No,APP1305,15760,7298,532,180,1,Semiurban,Y
+LP100306,Applicant_306,Male,No,,Graduate,,APP1306,19362,,412,180,1,Semiurban,Y
+LP100307,Applicant_307,,Yes,3+,Not Graduate,No,APP1307,8421,11002,670,360,1,Urban,N
+LP100308,Applicant_308,Female,Yes,,Not Graduate,Yes,APP1308,23208,1431,662,120,0,Semiurban,Y
+LP100309,Applicant_309,Female,Yes,0,Not Graduate,No,APP1309,7182,8385,96,180,0,Rural,Y
+LP100310,Applicant_310,Male,Yes,0,Not Graduate,No,APP1310,17060,6462,55,240,1,Urban,Y
+LP100311,Applicant_311,Female,Yes,2,Not Graduate,Yes,APP1311,6057,3185,309,,0,Semiurban,Y
+LP100312,Applicant_312,,No,1,Not Graduate,Yes,APP1312,7667,8035,566,120,1,Semiurban,Y
+LP100313,Applicant_313,Male,Yes,1,Graduate,No,APP1313,19700,,684,120,0,Urban,Y
+LP100314,Applicant_314,Male,,3+,,Yes,APP1314,14102,9882,440,120,0,Rural,
+LP100315,Applicant_315,Female,No,2,Graduate,No,APP1315,13305,,,240,1,Semiurban,N
+LP100316,Applicant_316,Female,Yes,3+,Not Graduate,No,APP1316,15171,8381,,120,0,Semiurban,Y
+LP100317,Applicant_317,Male,No,,Graduate,No,APP1317,6555,918,429,180,0,,N
+LP100318,Applicant_318,,Yes,,Not Graduate,Yes,APP1318,10952,14883,185,360,0,,Y
+LP100319,Applicant_319,,Yes,2,Graduate,Yes,APP1319,23456,10924,,240,0,Urban,N
+LP100320,Applicant_320,Male,Yes,0,Graduate,No,APP1320,5613,,92,360,0,Semiurban,N
+LP100321,Applicant_321,Female,Yes,3+,,No,APP1321,,,644,240,,Urban,Y
+LP100322,Applicant_322,Male,No,0,Graduate,Yes,APP1322,1880,2423,233,180,1,Rural,N
+LP100323,Applicant_323,Male,Yes,2,Graduate,No,APP1323,3850,11730,316,360,0,Urban,Y
+LP100324,Applicant_324,Female,No,,Not Graduate,Yes,APP1324,,13988,223,180,,Semiurban,N
+LP100325,Applicant_325,Female,No,0,Not Graduate,No,APP1325,2014,7006,565,180,0,Urban,N
+LP100326,Applicant_326,Male,Yes,0,Graduate,Yes,APP1326,6218,6056,554,,0,Semiurban,Y
+LP100327,Applicant_327,,No,1,Graduate,No,APP1327,17448,6326,,180,0,Rural,
+LP100328,Applicant_328,,No,2,Not Graduate,No,APP1328,23058,6108,529,180,1,Rural,
+LP100329,Applicant_329,Male,No,2,Not Graduate,No,APP1329,15810,199,185,240,1,Semiurban,N
+LP100330,Applicant_330,Female,Yes,2,Graduate,No,APP1330,,4663,141,120,1,Urban,Y
+LP100331,Applicant_331,Male,Yes,3+,Graduate,Yes,APP1331,,5651,,240,1,Rural,N
+LP100332,Applicant_332,Female,No,1,Graduate,Yes,APP1332,5996,5756,593,180,1,Urban,N
+LP100333,Applicant_333,Male,No,3+,Not Graduate,Yes,APP1333,22545,5047,493,240,1,Urban,Y
+LP100334,Applicant_334,Male,Yes,2,Not Graduate,Yes,APP1334,15126,7300,195,180,1,Semiurban,N
+LP100335,Applicant_335,Female,No,3+,,No,APP1335,16443,14324,316,360,1,Urban,N
+LP100336,Applicant_336,Female,No,0,Not Graduate,Yes,APP1336,24286,,169,120,0,Semiurban,N
+LP100337,Applicant_337,Female,No,3+,Not Graduate,No,APP1337,21305,,370,360,0,Semiurban,N
+LP100338,Applicant_338,Male,No,,,No,APP1338,15449,3533,95,,1,Urban,Y
+LP100339,Applicant_339,Male,No,,Not Graduate,No,APP1339,21922,11925,,120,0,,N
+LP100340,Applicant_340,Male,No,0,Not Graduate,No,APP1340,,14545,561,360,1,Rural,N
+LP100341,Applicant_341,Male,Yes,2,Not Graduate,Yes,APP1341,16389,,337,360,,Semiurban,Y
+LP100342,Applicant_342,Female,,0,Graduate,No,APP1342,18192,12149,419,180,,Urban,Y
+LP100343,Applicant_343,Female,Yes,0,Graduate,Yes,APP1343,,6809,490,120,1,,N
+LP100344,Applicant_344,Female,,0,Not Graduate,Yes,APP1344,19589,13167,,,0,Urban,N
+LP100345,Applicant_345,Male,Yes,2,Graduate,,APP1345,16247,7249,319,180,1,Rural,N
+LP100346,Applicant_346,,No,0,Graduate,Yes,APP1346,14106,4728,677,120,1,,N
+LP100347,Applicant_347,Female,No,1,Graduate,Yes,APP1347,13142,2683,,,1,,Y
+LP100348,Applicant_348,Female,Yes,1,Graduate,Yes,APP1348,8897,13200,579,360,0,Urban,Y
+LP100349,Applicant_349,Female,Yes,1,Graduate,No,APP1349,7588,11927,,180,0,,Y
+LP100350,Applicant_350,Male,No,1,Graduate,No,APP1350,15418,,496,180,1,Rural,Y
+LP100351,Applicant_351,Male,,2,Graduate,Yes,APP1351,21310,6944,218,120,1,Rural,
+LP100352,Applicant_352,Female,Yes,3+,Graduate,No,APP1352,1743,11937,373,180,0,Urban,Y
+LP100353,Applicant_353,Male,No,3+,Not Graduate,Yes,APP1353,20437,14687,553,180,1,,Y
+LP100354,Applicant_354,Female,No,1,Graduate,,APP1354,17823,6786,204,120,,Urban,
+LP100355,Applicant_355,Male,Yes,,Not Graduate,Yes,APP1355,9257,,619,180,1,Rural,Y
+LP100356,Applicant_356,Male,No,1,Not Graduate,Yes,APP1356,24835,13689,500,120,1,Urban,Y
+LP100357,Applicant_357,Female,Yes,1,,Yes,APP1357,17940,9620,104,180,0,,Y
+LP100358,Applicant_358,Female,Yes,3+,Graduate,No,APP1358,10322,9796,243,180,1,Urban,N
+LP100359,Applicant_359,Female,No,3+,Graduate,Yes,APP1359,14962,1410,202,180,0,,N
+LP100360,Applicant_360,Female,No,0,Graduate,No,APP1360,19396,2353,105,360,1,Semiurban,Y
+LP100361,Applicant_361,Male,,1,Graduate,No,APP1361,20385,3404,285,180,0,Urban,Y
+LP100362,Applicant_362,Female,No,3+,Graduate,No,APP1362,13524,4968,237,120,0,Urban,N
+LP100363,Applicant_363,Male,Yes,3+,Not Graduate,No,APP1363,2596,7776,86,360,0,Semiurban,Y
+LP100364,Applicant_364,Female,No,3+,Not Graduate,No,APP1364,2740,,531,360,1,Rural,N
+LP100365,Applicant_365,Male,No,0,Not Graduate,No,APP1365,20117,8606,316,180,0,Rural,
+LP100366,Applicant_366,Female,Yes,1,Graduate,Yes,APP1366,17335,5495,217,240,1,Rural,N
+LP100367,Applicant_367,Male,No,1,,No,APP1367,246597,1083,528,360,0,Semiurban,N
+LP100368,Applicant_368,Male,Yes,,Not Graduate,Yes,APP1368,13577,9677,496,120,1,Rural,
+LP100369,Applicant_369,Female,,0,Graduate,Yes,APP1369,5208,12388,168,,1,Urban,Y
+LP100370,Applicant_370,,Yes,0,Graduate,Yes,APP1370,20514,6156,556,120,0,Urban,N
+LP100371,Applicant_371,,Yes,1,Graduate,No,APP1371,17278,1449,91,240,0,Rural,N
+LP100372,Applicant_372,Female,No,2,,No,APP1372,24126,108,502,180,0,Urban,N
+LP100373,Applicant_373,Female,Yes,2,Not Graduate,,APP1373,4123,6708,415,120,0,Urban,Y
+LP100374,Applicant_374,Male,No,1,Graduate,No,APP1374,6155,10466,624,120,0,Semiurban,N
+LP100375,Applicant_375,Female,Yes,3+,Not Graduate,Yes,APP1375,18749,144981,546,180,1,Semiurban,N
+LP100376,Applicant_376,Female,Yes,0,Graduate,Yes,APP1376,10656,4478,518,240,1,Semiurban,N
+LP100377,Applicant_377,Female,Yes,2,Not Graduate,No,APP1377,16735,6791,554,360,0,Semiurban,Y
+LP100378,Applicant_378,Female,No,3+,Graduate,No,APP1378,,2865,165,360,1,Urban,Y
+LP100379,Applicant_379,Female,No,2,Graduate,Yes,APP1379,4063,9106,201,180,0,Urban,Y
+LP100380,Applicant_380,Female,Yes,3+,Not Graduate,,APP1380,18649,7571,176,180,1,Rural,N
+LP100381,Applicant_381,Male,No,3+,Graduate,Yes,APP1381,21490,11636,407,,0,Rural,Y
+LP100382,Applicant_382,,No,0,Graduate,,APP1382,4398,9304,145,180,0,Rural,
+LP100383,Applicant_383,Female,Yes,2,,No,APP1383,9535,12373,258,240,1,Semiurban,Y
+LP100384,Applicant_384,Female,Yes,2,Graduate,Yes,APP1384,16981,14989,,120,0,Semiurban,N
+LP100385,Applicant_385,Male,Yes,3+,Graduate,,APP1385,22165,2243,234,120,1,Semiurban,Y
+LP100386,Applicant_386,Female,No,1,Not Graduate,Yes,APP1386,23249,3264,222,240,0,,N
+LP100387,Applicant_387,Female,Yes,2,Graduate,,APP1387,23412,3047,570,180,0,Urban,
+LP100388,Applicant_388,Male,Yes,0,Not Graduate,,APP1388,,13636,329,360,0,Semiurban,N
+LP100389,Applicant_389,Female,,1,,Yes,APP1389,23915,6254,626,180,0,Semiurban,N
+LP100390,Applicant_390,Female,Yes,2,Not Graduate,No,APP1390,22264,4742,,120,1,Rural,Y
+LP100391,Applicant_391,Male,No,0,Graduate,No,APP1391,,9074,267,180,1,Urban,Y
+LP100392,Applicant_392,Female,Yes,1,Graduate,,APP1392,20493,8037,647,120,,Urban,N
+LP100393,Applicant_393,Female,,2,,No,APP1393,11739,691,54,180,1,,N
+LP100394,Applicant_394,Female,Yes,0,Graduate,Yes,APP1394,21588,13480,588,,0,Urban,N
+LP100395,Applicant_395,Female,Yes,1,,Yes,APP1395,3229,13537,634,,0,Semiurban,Y
+LP100396,Applicant_396,Female,Yes,2,Not Graduate,Yes,APP1396,12757,4947,234,180,1,Urban,Y
+LP100397,Applicant_397,Male,,1,Graduate,No,APP1397,19031,13673,476,240,1,Semiurban,N
+LP100398,Applicant_398,Female,No,3+,Graduate,No,APP1398,1853,,128,180,0,Semiurban,N
+LP100399,Applicant_399,Male,,3+,Graduate,,APP1399,16863,4979,302,360,0,Urban,N
+LP100400,Applicant_400,Male,Yes,1,Graduate,Yes,APP1400,16377,8095,560,240,1,Urban,N
+LP100401,Applicant_401,Female,No,,Graduate,,APP1401,18298,9163,146,360,1,Rural,N
+LP100402,Applicant_402,Female,Yes,3+,Not Graduate,Yes,APP1402,16875,12121,386,180,1,Urban,Y
+LP100403,Applicant_403,Male,Yes,1,Graduate,Yes,APP1403,20307,7593,76,240,0,Urban,N
+LP100404,Applicant_404,Male,Yes,3+,Graduate,Yes,APP1404,12363,3678,341,120,1,Urban,N
+LP100405,Applicant_405,Female,No,1,Graduate,Yes,APP1405,15295,439,174,240,,Rural,Y
+LP100406,Applicant_406,Male,No,1,Graduate,No,APP1406,13064,12963,453,240,1,Urban,Y
+LP100407,Applicant_407,Male,Yes,3+,Not Graduate,,APP1407,11154,40,432,180,1,Urban,Y
+LP100408,Applicant_408,Male,No,2,Graduate,Yes,APP1408,10976,2523,654,120,,Urban,N
+LP100409,Applicant_409,Male,Yes,,Not Graduate,Yes,APP1409,6988,4303,158,,1,Semiurban,N
+LP100410,Applicant_410,Male,No,1,Not Graduate,No,APP1410,2657,4917,,240,0,Semiurban,Y
+LP100411,Applicant_411,,,2,Not Graduate,Yes,APP1411,24275,10494,207,240,0,Urban,Y
+LP100412,Applicant_412,Female,Yes,3+,,No,APP1412,21083,13668,79,240,0,Rural,N
+LP100413,Applicant_413,Male,No,0,,Yes,APP1413,,10429,133,120,0,Rural,N
+LP100414,Applicant_414,Female,Yes,2,Graduate,Yes,APP1414,19971,7742,521,240,0,Rural,N
+LP100415,Applicant_415,Female,Yes,0,Graduate,Yes,APP1415,10034,2034,541,360,0,,Y
+LP100416,Applicant_416,Male,No,3+,Graduate,,APP1416,3512,,514,180,1,Urban,N
+LP100417,Applicant_417,Female,No,,Not Graduate,Yes,APP1417,22120,10910,693,180,0,Rural,
+LP100418,Applicant_418,Female,Yes,1,Not Graduate,No,APP1418,17004,14625,325,180,1,Semiurban,N
+LP100419,Applicant_419,Female,No,3+,Not Graduate,Yes,APP1419,20444,4713,658,240,0,Semiurban,N
+LP100420,Applicant_420,Male,,3+,Not Graduate,Yes,APP1420,7040,6834,55,180,0,Semiurban,Y
+LP100421,Applicant_421,Male,No,3+,Graduate,Yes,APP1421,20271,2938,387,240,1,,Y
+LP100422,Applicant_422,Male,Yes,3+,,No,APP1422,3191,8059,94,180,1,Rural,N
+LP100423,Applicant_423,Male,No,3+,Graduate,,APP1423,23006,14856,687,120,0,Semiurban,N
+LP100424,Applicant_424,Female,Yes,3+,Graduate,No,APP1424,11060,11269,513,240,0,Rural,N
+LP100425,Applicant_425,Male,No,3+,Graduate,Yes,APP1425,21957,10564,382,240,1,,Y
+LP100426,Applicant_426,Male,Yes,1,Graduate,Yes,APP1426,2394,4009,632,,0,,N
+LP100427,Applicant_427,Female,Yes,0,Not Graduate,No,APP1427,10898,466,,120,1,Rural,N
+LP100428,Applicant_428,Male,No,0,Not Graduate,,APP1428,17384,1955,266,120,,Urban,Y
+LP100429,Applicant_429,Male,,1,Not Graduate,Yes,APP1429,4203,,99,360,1,,N
+LP100430,Applicant_430,Male,Yes,2,Not Graduate,Yes,APP1430,5655,4541,339,,0,Urban,Y
+LP100431,Applicant_431,Female,No,0,Graduate,No,APP1431,18067,8078,380,360,1,Urban,N
+LP100432,Applicant_432,Male,,2,Not Graduate,Yes,APP1432,4018,1093,106,120,1,Semiurban,Y
+LP100433,Applicant_433,Female,,1,Not Graduate,No,APP1433,10604,9812,122,240,0,Semiurban,N
+LP100434,Applicant_434,Female,No,2,Graduate,No,APP1434,9759,12215,610,,0,Rural,N
+LP100435,Applicant_435,Female,No,1,Graduate,No,APP1435,5843,5927,666,180,0,Rural,Y
+LP100436,Applicant_436,,Yes,3+,Not Graduate,Yes,APP1436,21678,,440,,1,Urban,N
+LP100437,Applicant_437,Female,Yes,3+,Not Graduate,Yes,APP1437,10706,7872,144,240,1,Semiurban,Y
+LP100438,Applicant_438,Male,Yes,0,Not Graduate,No,APP1438,10518,9266,458,120,1,,Y
+LP100439,Applicant_439,,No,,Not Graduate,No,APP1439,9919,7144,311,240,0,Rural,N
+LP100440,Applicant_440,Female,Yes,2,Not Graduate,Yes,APP1440,,14226,232,240,0,,N
+LP100441,Applicant_441,Female,No,2,Not Graduate,,APP1441,,4225,295,240,1,Urban,Y
+LP100442,Applicant_442,Male,Yes,0,Not Graduate,Yes,APP1442,21286,10289,458,240,0,Semiurban,N
+LP100443,Applicant_443,Female,,,Graduate,No,APP1443,7221,11237,141,,0,Rural,Y
+LP100444,Applicant_444,Female,,1,Graduate,No,APP1444,20891,7799,71,120,0,Rural,N
+LP100445,Applicant_445,Male,Yes,3+,Graduate,No,APP1445,6452,11374,263,240,1,Rural,N
+LP100446,Applicant_446,Female,No,0,Graduate,No,APP1446,23099,13406,216,120,0,Rural,
+LP100447,Applicant_447,Female,No,1,Graduate,Yes,APP1447,16135,1959,447,120,0,Semiurban,N
+LP100448,Applicant_448,Male,No,2,Graduate,Yes,APP1448,13616,6114,462,240,0,Semiurban,Y
+LP100449,Applicant_449,Female,No,0,Not Graduate,No,APP1449,7247,8397,341,360,1,Rural,Y
+LP100450,Applicant_450,Male,No,3+,Not Graduate,No,APP1450,10060,12008,207,,1,Rural,Y
+LP100451,Applicant_451,,Yes,2,Not Graduate,No,APP1451,,9425,,240,1,Semiurban,Y
+LP100452,Applicant_452,Female,Yes,2,Graduate,No,APP1452,9239,287,355,180,,Urban,
+LP100453,Applicant_453,Female,No,0,Not Graduate,,APP1453,17389,,552,120,1,Semiurban,Y
+LP100454,Applicant_454,Male,No,3+,Not Graduate,Yes,APP1454,,4252,492,360,1,Rural,Y
+LP100455,Applicant_455,Male,Yes,0,Graduate,Yes,APP1455,18781,2668,367,120,0,Rural,Y
+LP100456,Applicant_456,Male,,1,Graduate,No,APP1456,2584,9529,667,,1,Urban,Y
+LP100457,Applicant_457,Male,No,1,Not Graduate,No,APP1457,12734,958,184,120,1,,N
+LP100458,Applicant_458,Female,Yes,2,Not Graduate,No,APP1458,,2394,417,360,1,Rural,N
+LP100459,Applicant_459,Male,No,3+,Graduate,No,APP1459,6253,5237,148,120,0,Rural,Y
+LP100460,Applicant_460,Male,,,Not Graduate,No,APP1460,,7553,426,180,,Semiurban,Y
+LP100461,Applicant_461,Male,No,1,Not Graduate,Yes,APP1461,6551,,574,360,1,Urban,
+LP100462,Applicant_462,Female,No,1,Graduate,,APP1462,,11358,,360,0,Rural,N
+LP100463,Applicant_463,Female,No,1,Graduate,Yes,APP1463,15031,2219,551,360,0,Urban,N
+LP100464,Applicant_464,Female,No,0,Not Graduate,Yes,APP1464,14055,5855,506,120,0,Urban,Y
+LP100465,Applicant_465,Female,Yes,2,Not Graduate,No,APP1465,9297,2675,447,360,0,Semiurban,N
+LP100466,Applicant_466,Female,No,2,Graduate,Yes,APP1466,23148,866,,180,0,Rural,Y
+LP100467,Applicant_467,Male,,1,Graduate,No,APP1467,15923,4467,,120,1,Semiurban,Y
+LP100468,Applicant_468,Male,No,,Not Graduate,Yes,APP1468,22392,,626,180,0,Rural,N
+LP100469,Applicant_469,Female,,2,Graduate,No,APP1469,6981,6873,,120,1,Rural,Y
+LP100470,Applicant_470,Female,Yes,2,Not Graduate,Yes,APP1470,8409,10424,483,120,1,Semiurban,Y
+LP100471,Applicant_471,Male,No,2,,,APP1471,20431,14943,142,,,Semiurban,N
+LP100472,Applicant_472,Female,Yes,0,,Yes,APP1472,12807,5832,482,,1,Semiurban,
+LP100473,Applicant_473,Female,No,1,Not Graduate,No,APP1473,3280,798,427,180,0,Rural,Y
+LP100474,Applicant_474,Male,Yes,3+,Not Graduate,No,APP1474,22545,4749,678,,1,,Y
+LP100475,Applicant_475,Female,No,0,Graduate,,APP1475,10163,4778,,120,,,Y
+LP100476,Applicant_476,Female,No,2,Graduate,No,APP1476,,8677,494,,1,Urban,
+LP100477,Applicant_477,Female,Yes,1,Graduate,Yes,APP1477,3221,10468,695,120,,Urban,N
+LP100478,Applicant_478,Female,Yes,1,Graduate,,APP1478,6991,1258,486,120,1,Rural,N
+LP100479,Applicant_479,Male,No,1,Not Graduate,Yes,APP1479,,8419,145,,0,Rural,Y
+LP100480,Applicant_480,Female,No,1,,Yes,APP1480,14566,3175,91,240,1,Urban,N
+LP100481,Applicant_481,Male,No,2,Graduate,Yes,APP1481,17105,12557,575,240,,Rural,N
+LP100482,Applicant_482,Female,No,1,Graduate,Yes,APP1482,11375,10289,399,360,1,Urban,Y
+LP100483,Applicant_483,Female,No,3+,Not Graduate,Yes,APP1483,,,,240,1,Urban,Y
+LP100484,Applicant_484,Female,Yes,3+,Not Graduate,Yes,APP1484,18949,12528,279,180,1,Urban,N
+LP100485,Applicant_485,Male,,,Graduate,Yes,APP1485,9156,1548,,240,1,Semiurban,N
+LP100486,Applicant_486,Female,No,2,Not Graduate,No,APP1486,13945,9810,557,,1,Rural,N
+LP100487,Applicant_487,Female,No,3+,Not Graduate,Yes,APP1487,23897,12331,589,180,,Rural,N
+LP100488,Applicant_488,Female,Yes,3+,Graduate,Yes,APP1488,24621,2738,694,,1,Urban,N
+LP100489,Applicant_489,Male,No,3+,Graduate,Yes,APP1489,14281,8908,587,240,0,Rural,
+LP100490,Applicant_490,Female,No,0,Not Graduate,No,APP1490,17051,5285,135,180,1,Urban,N
+LP100491,Applicant_491,Male,No,0,Not Graduate,No,APP1491,10105,14294,347,240,,Urban,Y
+LP100492,Applicant_492,Male,Yes,,Graduate,No,APP1492,6256,,529,240,0,Rural,Y
+LP100493,Applicant_493,,Yes,2,Graduate,Yes,APP1493,18881,13546,497,,1,Semiurban,N
+LP100494,Applicant_494,Male,No,2,Not Graduate,No,APP1494,15745,13844,131,360,,Urban,Y
+LP100495,Applicant_495,Male,No,,Not Graduate,Yes,APP1495,1888,11222,539,120,1,Semiurban,N
+LP100496,Applicant_496,Female,Yes,3+,Not Graduate,Yes,APP1496,10963,13105,,,,Rural,Y
+LP100497,Applicant_497,Male,Yes,2,Graduate,,APP1497,16206,4932,202,240,,Urban,Y
+LP100498,Applicant_498,Female,Yes,0,Not Graduate,Yes,APP1498,14017,4447,180,240,0,,Y
+LP100499,Applicant_499,,No,0,Not Graduate,No,APP1499,23732,11230,357,180,0,,
+LP100500,Applicant_500,Male,Yes,3+,Not Graduate,Yes,APP1500,11844,11435,304,240,1,Rural,N
+LP100501,Applicant_501,Female,Yes,2,Graduate,No,APP1501,18875,11277,585,240,1,Urban,N
+LP100502,Applicant_502,Female,Yes,0,Not Graduate,,APP1502,23876,5939,487,360,0,Semiurban,Y
+LP100503,Applicant_503,Female,Yes,3+,Graduate,No,APP1503,,,352,120,0,Urban,N
+LP100504,Applicant_504,Male,No,1,Graduate,No,APP1504,4690,8755,632,180,,Rural,Y
+LP100505,Applicant_505,Female,No,,Not Graduate,,APP1505,18909,9503,98,180,1,Rural,Y
+LP100506,Applicant_506,Female,No,1,Not Graduate,Yes,APP1506,22387,5761,614,,0,Semiurban,N
+LP100507,Applicant_507,Female,Yes,3+,Graduate,No,APP1507,13094,13489,128,360,1,Urban,
+LP100508,Applicant_508,Female,Yes,2,,Yes,APP1508,15648,2354,96,240,0,Semiurban,Y
+LP100509,Applicant_509,Female,No,2,Graduate,Yes,APP1509,21504,211,575,120,1,Urban,Y
+LP100510,Applicant_510,Female,,2,Not Graduate,No,APP1510,22866,2243,160,120,0,Urban,N
+LP100511,Applicant_511,Female,No,2,Graduate,Yes,APP1511,10432,8489,572,,0,Semiurban,Y
+LP100512,Applicant_512,Male,No,1,,Yes,APP1512,12476,4610,485,240,0,,
+LP100513,Applicant_513,,Yes,3+,Not Graduate,Yes,APP1513,10358,6111,472,240,0,Semiurban,N
+LP100514,Applicant_514,Male,Yes,2,Not Graduate,Yes,APP1514,10251,12759,146,240,0,Semiurban,N
+LP100515,Applicant_515,Male,No,0,Graduate,Yes,APP1515,4720,7944,525,120,1,Semiurban,N
+LP100516,Applicant_516,Female,No,0,Graduate,No,APP1516,9867,6750,632,120,0,Urban,N
+LP100517,Applicant_517,Male,No,0,Not Graduate,Yes,APP1517,,5575,309,360,1,Semiurban,Y
+LP100518,Applicant_518,Male,No,3+,,Yes,APP1518,20642,14922,413,360,1,Semiurban,N
+LP100519,Applicant_519,Male,,0,Not Graduate,Yes,APP1519,14317,2671,310,180,1,Rural,Y
+LP100520,Applicant_520,Male,Yes,0,Not Graduate,Yes,APP1520,16609,,649,180,1,Semiurban,N
+LP100521,Applicant_521,,Yes,1,Not Graduate,No,APP1521,23627,,133,120,1,Rural,Y
+LP100522,Applicant_522,,Yes,3+,Graduate,,APP1522,9423,2532,565,240,0,Rural,N
+LP100523,Applicant_523,Male,No,3+,Graduate,No,APP1523,23516,8247,66,240,1,,Y
+LP100524,Applicant_524,Male,,0,,No,APP1524,20791,3622,166,180,0,Urban,N
+LP100525,Applicant_525,Male,Yes,3+,Graduate,No,APP1525,7887,13624,523,240,0,Urban,N
+LP100526,Applicant_526,Male,No,1,Not Graduate,Yes,APP1526,18537,3087,233,360,0,Urban,Y
+LP100527,Applicant_527,,No,1,,Yes,APP1527,12556,13027,236,240,1,Rural,Y
+LP100528,Applicant_528,Male,No,2,Not Graduate,Yes,APP1528,23707,14697,452,180,0,Rural,N
+LP100529,Applicant_529,Male,Yes,1,Not Graduate,,APP1529,24119,9153,96,240,1,Urban,N
+LP100530,Applicant_530,Female,No,2,Graduate,No,APP1530,7395,10050,135,360,0,Rural,N
+LP100531,Applicant_531,Female,No,0,Graduate,Yes,APP1531,11765,11299,476,120,0,Rural,
+LP100532,Applicant_532,Female,,,Graduate,No,APP1532,19444,13621,354,240,,Urban,N
+LP100533,Applicant_533,Male,Yes,2,Not Graduate,No,APP1533,,8612,371,120,0,Urban,Y
+LP100534,Applicant_534,Male,Yes,0,Graduate,No,APP1534,,13862,651,,0,Rural,N
+LP100535,Applicant_535,Male,Yes,,Not Graduate,No,APP1535,1777,,,180,1,Urban,N
+LP100536,Applicant_536,Female,No,1,Graduate,No,APP1536,3726,11674,510,360,1,Semiurban,Y
+LP100537,Applicant_537,Male,Yes,0,Not Graduate,,APP1537,1891,9029,688,180,1,Rural,N
+LP100538,Applicant_538,Male,No,3+,,,APP1538,14975,11505,,,1,Semiurban,N
+LP100539,Applicant_539,Female,Yes,2,Graduate,,APP1539,4701,12391,399,240,0,Rural,Y
+LP100540,Applicant_540,Female,No,1,Graduate,Yes,APP1540,18711,13149,241,360,0,Urban,Y
+LP100541,Applicant_541,Female,No,3+,Not Graduate,Yes,APP1541,4904,1867,266,180,0,Semiurban,Y
+LP100542,Applicant_542,,Yes,0,Graduate,No,APP1542,23962,6837,239,180,0,Urban,N
+LP100543,Applicant_543,,No,0,Not Graduate,No,APP1543,16112,7544,130,360,1,Rural,
+LP100544,Applicant_544,Male,No,0,Graduate,No,APP1544,,1251,668,240,0,Urban,N
+LP100545,Applicant_545,Male,Yes,1,Not Graduate,No,APP1545,8689,1909,315,,1,Semiurban,N
+LP100546,Applicant_546,Female,Yes,3+,Graduate,No,APP1546,10783,13415,158,180,0,Semiurban,N
+LP100547,Applicant_547,Male,No,0,Not Graduate,No,APP1547,9754,,,180,1,Urban,N
+LP100548,Applicant_548,,Yes,1,Graduate,,APP1548,7826,284,597,120,1,Rural,Y
+LP100549,Applicant_549,,Yes,1,Graduate,Yes,APP1549,2615,7856,68,,1,Rural,Y
+LP100550,Applicant_550,Female,Yes,3+,Not Graduate,No,APP1550,2276,5705,55,240,1,Urban,N
+LP100551,Applicant_551,Female,Yes,0,Not Graduate,Yes,APP1551,21796,,454,360,1,Rural,N
+LP100552,Applicant_552,Male,Yes,0,Graduate,Yes,APP1552,4512,11322,169,120,1,Urban,Y
+LP100553,Applicant_553,Female,No,2,Not Graduate,No,APP1553,3363,5940,63,360,,,
+LP100554,Applicant_554,Male,Yes,0,Graduate,Yes,APP1554,20968,2277,225,,0,Semiurban,Y
+LP100555,Applicant_555,Female,No,3+,,No,APP1555,23015,13386,538,120,1,Urban,Y
+LP100556,Applicant_556,Female,No,1,Not Graduate,Yes,APP1556,8604,7240,521,240,1,Rural,
+LP100557,Applicant_557,Male,No,3+,Not Graduate,Yes,APP1557,,14577,464,240,0,Semiurban,Y
+LP100558,Applicant_558,Female,Yes,0,Graduate,No,APP1558,,9791,666,180,0,,Y
+LP100559,Applicant_559,Female,Yes,1,Graduate,Yes,APP1559,5490,8570,548,360,,Urban,Y
+LP100560,Applicant_560,Female,Yes,3+,Graduate,No,APP1560,24702,12510,360,180,1,Rural,N
+LP100561,Applicant_561,Male,No,0,Graduate,,APP1561,5431,,683,240,,Urban,N
+LP100562,Applicant_562,Female,,0,Not Graduate,Yes,APP1562,4330,2821,681,240,1,Rural,N
+LP100563,Applicant_563,Male,,0,Not Graduate,Yes,APP1563,21314,11630,419,360,1,Semiurban,Y
+LP100564,Applicant_564,Female,No,,Not Graduate,No,APP1564,5756,4991,454,240,1,Rural,Y
+LP100565,Applicant_565,Female,No,2,Not Graduate,No,APP1565,13819,471,,180,0,Rural,Y
+LP100566,Applicant_566,Female,Yes,2,Graduate,Yes,APP1566,23008,12197,139,180,0,,N
+LP100567,Applicant_567,Female,Yes,,,,APP1567,22730,13345,,180,0,Rural,Y
+LP100568,Applicant_568,Female,No,3+,Not Graduate,No,APP1568,20048,1943,188,120,0,Rural,Y
+LP100569,Applicant_569,Female,Yes,1,Not Graduate,No,APP1569,7554,3643,64,240,0,Urban,Y
+LP100570,Applicant_570,,No,1,Not Graduate,Yes,APP1570,5132,2108,245,240,1,Semiurban,Y
+LP100571,Applicant_571,Male,No,0,Not Graduate,Yes,APP1571,24295,14038,164,180,0,Rural,N
+LP100572,Applicant_572,Female,No,0,Graduate,No,APP1572,7537,,66,,1,Rural,N
+LP100573,Applicant_573,Female,Yes,1,Graduate,No,APP1573,,2332,242,180,0,Semiurban,N
+LP100574,Applicant_574,Male,Yes,3+,Not Graduate,Yes,APP1574,11152,11272,77,240,0,Urban,Y
+LP100575,Applicant_575,Female,Yes,2,Not Graduate,No,APP1575,16801,3712,264,120,1,Rural,
+LP100576,Applicant_576,Female,,1,Not Graduate,Yes,APP1576,23142,5036,542,180,1,Rural,Y
+LP100577,Applicant_577,Female,Yes,1,Graduate,Yes,APP1577,3981,2053,198,360,0,Semiurban,N
+LP100578,Applicant_578,,Yes,3+,Graduate,,APP1578,22431,3438,297,180,1,Rural,Y
+LP100579,Applicant_579,Female,Yes,3+,,No,APP1579,16358,2133,496,240,0,Rural,
+LP100580,Applicant_580,Female,No,1,Not Graduate,Yes,APP1580,10556,1287,691,360,1,Semiurban,N
+LP100581,Applicant_581,Male,Yes,0,Not Graduate,No,APP1581,15491,6960,601,240,1,Urban,Y
+LP100582,Applicant_582,Female,Yes,0,Graduate,Yes,APP1582,24182,11318,245,180,1,Rural,Y
+LP100583,Applicant_583,Male,No,1,Graduate,No,APP1583,23375,12501,138,120,0,Semiurban,Y
+LP100584,Applicant_584,,Yes,0,Not Graduate,Yes,APP1584,12097,12845,358,240,0,Urban,N
+LP100585,Applicant_585,Female,No,3+,Graduate,No,APP1585,,1830,524,240,,Urban,N
+LP100586,Applicant_586,Female,No,,,Yes,APP1586,6807,1273,201,,1,Urban,N
+LP100587,Applicant_587,Female,Yes,3+,Not Graduate,Yes,APP1587,3924,308,535,,0,Urban,N
+LP100588,Applicant_588,Female,,2,Not Graduate,No,APP1588,10586,12692,482,360,0,,
+LP100589,Applicant_589,,Yes,1,Not Graduate,No,APP1589,3544,,72,120,0,Urban,N
+LP100590,Applicant_590,,No,1,Not Graduate,No,APP1590,14043,12408,169,240,0,Urban,N
+LP100591,Applicant_591,Male,Yes,,Graduate,No,APP1591,14233,,220,120,0,Rural,Y
+LP100592,Applicant_592,Male,No,0,Graduate,Yes,APP1592,12400,696,206,120,1,Semiurban,
+LP100593,Applicant_593,Female,Yes,1,Graduate,Yes,APP1593,,3217,505,240,1,Semiurban,Y
+LP100594,Applicant_594,Female,Yes,2,,Yes,APP1594,9961,1766,546,180,1,Rural,Y
+LP100595,Applicant_595,Male,Yes,0,Graduate,No,APP1595,10172,537,532,240,1,Urban,Y
+LP100596,Applicant_596,Female,Yes,2,Graduate,Yes,APP1596,7330,12993,70,180,1,,N
+LP100597,Applicant_597,Female,No,1,Graduate,No,APP1597,15936,10809,510,,1,Urban,
+LP100598,Applicant_598,Female,Yes,1,Graduate,Yes,APP1598,3774,8412,649,240,,,N
+LP100599,Applicant_599,Male,Yes,,Not Graduate,No,APP1599,17612,9718,,240,0,Semiurban,N
+LP100600,Applicant_600,Male,Yes,2,Graduate,Yes,APP1600,8075,971,256,240,0,Rural,N
+LP100601,Applicant_601,,Yes,0,Not Graduate,,APP1601,21498,7685,351,180,1,Semiurban,Y
+LP100602,Applicant_602,Male,No,,Not Graduate,Yes,APP1602,14365,1948,633,360,0,Urban,N
+LP100603,Applicant_603,Female,Yes,,Graduate,Yes,APP1603,,14885,451,240,0,Semiurban,Y
+LP100604,Applicant_604,,No,3+,Graduate,Yes,APP1604,22651,4145,102,360,1,,Y
+LP100605,Applicant_605,Female,Yes,0,,No,APP1605,17623,709,391,180,1,Rural,N
+LP100606,Applicant_606,Female,No,1,Graduate,No,APP1606,5053,1085,58,180,1,Urban,N
+LP100607,Applicant_607,Female,No,3+,Graduate,Yes,APP1607,6214,4942,155,120,1,Urban,N
+LP100608,Applicant_608,Female,No,0,,Yes,APP1608,19215,10937,695,120,1,,Y
+LP100609,Applicant_609,Female,No,0,,No,APP1609,,168,492,360,0,Rural,N
+LP100610,Applicant_610,Female,Yes,,Graduate,No,APP1610,8656,12362,,180,1,Urban,N
+LP100611,Applicant_611,Female,No,2,Graduate,No,APP1611,21618,1581,557,240,1,Rural,N
+LP100612,Applicant_612,Female,No,,Not Graduate,Yes,APP1612,22580,12818,642,240,0,Rural,N
+LP100613,Applicant_613,Female,No,3+,Graduate,Yes,APP1613,4981,2028,660,360,1,Semiurban,N
+LP100614,Applicant_614,Female,Yes,3+,Not Graduate,No,APP1614,15969,9859,617,120,0,Semiurban,Y
+LP100615,Applicant_615,Female,Yes,2,Graduate,Yes,APP1615,,3365,347,360,1,Rural,Y
+LP100616,Applicant_616,Male,,1,Not Graduate,No,APP1616,9986,9627,87,360,1,Rural,Y
+LP100617,Applicant_617,,No,3+,Not Graduate,Yes,APP1617,4884,14764,549,120,1,Semiurban,Y
+LP100618,Applicant_618,Male,No,0,Not Graduate,No,APP1618,2642,,459,240,1,Urban,N
+LP100619,Applicant_619,Female,,0,Not Graduate,No,APP1619,3889,3027,547,240,1,Urban,N
+LP100620,Applicant_620,Male,No,0,Graduate,Yes,APP1620,3807,10987,,180,0,Semiurban,N
+LP100621,Applicant_621,,Yes,0,Graduate,No,APP1621,,5759,655,120,0,Rural,Y
+LP100622,Applicant_622,Male,No,2,Not Graduate,,APP1622,9711,479,676,,0,Urban,N
+LP100623,Applicant_623,Male,Yes,1,Graduate,Yes,APP1623,16110,1487,549,360,1,Urban,N
+LP100624,Applicant_624,Female,No,0,Not Graduate,Yes,APP1624,2114,2384,287,240,,Rural,
+LP100625,Applicant_625,Female,No,0,Graduate,No,APP1625,17808,13858,112,360,1,Urban,Y
+LP100626,Applicant_626,,No,3+,Not Graduate,Yes,APP1626,6377,12225,590,360,0,,N
+LP100627,Applicant_627,Male,No,2,Graduate,No,APP1627,22893,4544,69,240,0,Rural,N
+LP100628,Applicant_628,Male,Yes,3+,Graduate,No,APP1628,22482,9498,,240,,Semiurban,
+LP100629,Applicant_629,Female,No,3+,Not Graduate,Yes,APP1629,1528,5698,640,120,1,Rural,N
+LP100630,Applicant_630,Male,Yes,3+,,Yes,APP1630,2739,5770,373,240,1,Semiurban,Y
+LP100631,Applicant_631,Female,No,0,Graduate,Yes,APP1631,23277,2630,616,180,0,Urban,Y
+LP100632,Applicant_632,Male,Yes,1,Graduate,Yes,APP1632,,14010,115,240,1,Semiurban,N
+LP100633,Applicant_633,Female,,2,Graduate,,APP1633,10230,8202,324,360,0,Semiurban,N
+LP100634,Applicant_634,Male,Yes,,Graduate,No,APP1634,6467,12792,477,360,1,Urban,Y
+LP100635,Applicant_635,Male,No,,Graduate,No,APP1635,24439,11936,534,,0,Semiurban,Y
+LP100636,Applicant_636,,No,0,Not Graduate,Yes,APP1636,12307,10042,169,360,1,Rural,N
+LP100637,Applicant_637,Male,Yes,1,Graduate,Yes,APP1637,14323,3962,556,180,1,Semiurban,Y
+LP100638,Applicant_638,Male,Yes,1,Not Graduate,,APP1638,20329,8272,687,120,,Rural,Y
+LP100639,Applicant_639,Female,Yes,2,Not Graduate,No,APP1639,1621,,405,240,0,Rural,
+LP100640,Applicant_640,Male,Yes,3+,Not Graduate,No,APP1640,18388,1119,509,240,1,Rural,
+LP100641,Applicant_641,Female,No,0,Graduate,No,APP1641,24686,1623,496,240,0,Semiurban,Y
+LP100642,Applicant_642,Male,No,,Graduate,Yes,APP1642,17578,,71,360,1,Rural,Y
+LP100643,Applicant_643,Male,No,3+,Not Graduate,,APP1643,17167,9472,215,360,0,Urban,
+LP100644,Applicant_644,Female,Yes,1,Graduate,No,APP1644,15788,12504,344,180,0,Urban,
+LP100645,Applicant_645,Female,Yes,0,Not Graduate,Yes,APP1645,14735,229,246,240,1,Rural,N
+LP100646,Applicant_646,Female,,1,,No,APP1646,3797,8664,530,180,0,Rural,Y
+LP100647,Applicant_647,Female,No,0,Graduate,Yes,APP1647,19198,,402,240,,Semiurban,N
+LP100648,Applicant_648,Female,Yes,3+,Graduate,No,APP1648,8900,11727,498,120,0,,Y
+LP100649,Applicant_649,Male,Yes,0,,No,APP1649,1608,3138,287,,1,Rural,N
+LP100650,Applicant_650,Male,,3+,Not Graduate,Yes,APP1650,14096,4617,569,180,0,Semiurban,N
+LP100651,Applicant_651,Female,No,,Graduate,,APP1651,24085,2814,274,360,,Urban,
+LP100652,Applicant_652,,No,2,Not Graduate,Yes,APP1652,,14772,651,360,1,Semiurban,Y
+LP100653,Applicant_653,Male,No,1,Not Graduate,Yes,APP1653,5471,12353,397,180,0,Semiurban,N
+LP100654,Applicant_654,Male,No,0,Not Graduate,Yes,APP1654,20087,8800,666,120,1,,N
+LP100655,Applicant_655,Female,Yes,,Graduate,No,APP1655,19040,70,529,360,0,Urban,Y
+LP100656,Applicant_656,Female,Yes,1,Not Graduate,Yes,APP1656,,11884,184,240,1,Semiurban,Y
+LP100657,Applicant_657,Male,No,0,Graduate,Yes,APP1657,12426,1616,350,180,0,Urban,N
+LP100658,Applicant_658,Male,No,1,Graduate,Yes,APP1658,23842,3506,449,,1,Urban,N
+LP100659,Applicant_659,Male,Yes,3+,Graduate,Yes,APP1659,11423,8260,476,360,1,,N
+LP100660,Applicant_660,,Yes,2,Graduate,Yes,APP1660,14627,13947,418,120,1,Urban,N
+LP100661,Applicant_661,Female,No,2,Not Graduate,Yes,APP1661,,11595,,180,0,Urban,Y
+LP100662,Applicant_662,,Yes,1,Not Graduate,No,APP1662,,7777,215,240,1,,Y
+LP100663,Applicant_663,Male,Yes,2,,Yes,APP1663,22703,6004,686,120,0,Semiurban,N
+LP100664,Applicant_664,Male,No,1,Not Graduate,No,APP1664,4470,,262,180,1,,Y
+LP100665,Applicant_665,Female,No,2,Graduate,Yes,APP1665,13471,9656,339,180,0,Rural,N
+LP100666,Applicant_666,Male,No,0,,No,APP1666,19018,3033,138,360,1,Rural,Y
+LP100667,Applicant_667,Female,No,0,Not Graduate,No,APP1667,12643,7203,544,,1,Urban,Y
+LP100668,Applicant_668,Female,Yes,2,Not Graduate,No,APP1668,4136,11035,182,240,,Rural,Y
+LP100669,Applicant_669,Female,Yes,3+,Not Graduate,Yes,APP1669,16561,1758,227,360,1,Urban,N
+LP100670,Applicant_670,Female,No,2,Not Graduate,No,APP1670,11001,2963,254,360,,Rural,Y
+LP100671,Applicant_671,Female,Yes,0,Graduate,Yes,APP1671,22726,13676,,240,1,Urban,N
+LP100672,Applicant_672,Female,No,2,Not Graduate,Yes,APP1672,8155,5813,670,120,1,Semiurban,N
+LP100673,Applicant_673,Male,,0,Graduate,Yes,APP1673,7287,6219,553,240,,Semiurban,N
+LP100674,Applicant_674,Male,No,3+,Graduate,No,APP1674,19669,6948,,360,1,Semiurban,Y
+LP100675,Applicant_675,Male,No,3+,Not Graduate,No,APP1675,2788,3510,,360,0,,
+LP100676,Applicant_676,Male,Yes,2,Not Graduate,,APP1676,14088,8425,555,360,,Rural,Y
+LP100677,Applicant_677,Female,No,0,Graduate,Yes,APP1677,23150,3728,360,240,1,Semiurban,
+LP100678,Applicant_678,,Yes,3+,Graduate,No,APP1678,7758,6677,,,1,Rural,Y
+LP100679,Applicant_679,,Yes,1,Graduate,Yes,APP1679,,1848,264,180,1,Semiurban,
+LP100680,Applicant_680,Male,,2,Not Graduate,No,APP1680,24302,12474,620,120,1,Urban,
+LP100681,Applicant_681,Male,No,1,,Yes,APP1681,14282,,98,180,0,Semiurban,Y
+LP100682,Applicant_682,Male,Yes,2,Graduate,Yes,APP1682,4998,2025,68,180,0,Urban,
+LP100683,Applicant_683,Male,No,,Not Graduate,No,APP1683,22164,7633,417,360,1,Urban,Y
+LP100684,Applicant_684,Male,No,0,Not Graduate,Yes,APP1684,24071,1807,,360,1,Urban,Y
+LP100685,Applicant_685,Female,,1,Not Graduate,No,APP1685,13272,8515,415,240,1,Rural,N
+LP100686,Applicant_686,Female,Yes,0,Graduate,Yes,APP1686,17441,2226,212,360,1,Rural,Y
+LP100687,Applicant_687,,Yes,0,Not Graduate,No,APP1687,4280,8123,228,360,1,Rural,Y
+LP100688,Applicant_688,Female,Yes,0,,Yes,APP1688,22235,12489,565,120,1,Semiurban,N
+LP100689,Applicant_689,Male,No,1,Not Graduate,Yes,APP1689,15851,,82,180,1,,N
+LP100690,Applicant_690,Male,No,0,Graduate,No,APP1690,7708,11546,115,360,0,Urban,Y
+LP100691,Applicant_691,Female,No,3+,Not Graduate,,APP1691,6085,4723,395,180,1,Rural,N
+LP100692,Applicant_692,,,2,Graduate,No,APP1692,2669,9128,490,360,1,Urban,Y
+LP100693,Applicant_693,Female,,3+,Not Graduate,Yes,APP1693,7827,11831,,180,1,Urban,N
+LP100694,Applicant_694,Male,Yes,,Graduate,Yes,APP1694,2331,665,682,180,1,Rural,N
+LP100695,Applicant_695,Male,No,1,Graduate,No,APP1695,20929,1347,282,360,0,Rural,Y
+LP100696,Applicant_696,Female,Yes,0,Graduate,No,APP1696,9314,,173,240,1,Urban,Y
+LP100697,Applicant_697,Male,Yes,3+,Graduate,Yes,APP1697,17531,8088,625,360,1,Semiurban,Y
+LP100698,Applicant_698,Female,,1,Graduate,No,APP1698,14239,1895,279,120,1,Rural,Y
+LP100699,Applicant_699,Male,,2,Graduate,Yes,APP1699,3564,6304,548,120,,Semiurban,Y
+LP100700,Applicant_700,Male,No,1,Graduate,No,APP1700,19212,,314,180,0,Semiurban,N
+LP100701,Applicant_701,Male,No,3+,Not Graduate,No,APP1701,22583,7486,398,180,1,Urban,Y
+LP100702,Applicant_702,Female,No,2,Graduate,Yes,APP1702,11583,9836,413,240,0,,N
+LP100703,Applicant_703,Male,Yes,2,Graduate,Yes,APP1703,17873,12061,97,240,0,,Y
+LP100704,Applicant_704,Male,Yes,0,Not Graduate,Yes,APP1704,18996,,620,360,0,Urban,Y
+LP100705,Applicant_705,Male,,2,,No,APP1705,,11256,323,180,1,Semiurban,Y
+LP100706,Applicant_706,Male,No,0,Graduate,Yes,APP1706,,13780,204,180,1,Urban,N
+LP100707,Applicant_707,Female,Yes,0,Graduate,Yes,APP1707,2713,7273,577,,1,Urban,
+LP100708,Applicant_708,Female,No,1,Not Graduate,Yes,APP1708,,3700,668,120,0,Urban,N
+LP100709,Applicant_709,Female,No,1,Not Graduate,,APP1709,3336,9075,156,120,1,Rural,Y
+LP100710,Applicant_710,Male,,0,Graduate,No,APP1710,,6672,101,180,1,Urban,N
+LP100711,Applicant_711,Female,No,3+,Graduate,No,APP1711,2902,4761,498,360,1,Rural,N
+LP100712,Applicant_712,Female,No,0,Graduate,No,APP1712,14787,14014,518,,1,Urban,
+LP100713,Applicant_713,Female,No,,Graduate,Yes,APP1713,5372,7011,163,120,0,Rural,N
+LP100714,Applicant_714,,Yes,2,Graduate,Yes,APP1714,8436,3093,158,360,1,Semiurban,Y
+LP100715,Applicant_715,Female,No,2,Not Graduate,No,APP1715,22925,14037,675,240,0,,N
+LP100716,Applicant_716,Female,No,2,,No,APP1716,23366,1140,674,180,1,Rural,N
+LP100717,Applicant_717,Male,Yes,0,Graduate,No,APP1717,18641,14659,154,240,1,Rural,N
+LP100718,Applicant_718,Male,No,3+,Not Graduate,No,APP1718,16519,13779,625,,1,Rural,N
+LP100719,Applicant_719,Female,No,0,Not Graduate,,APP1719,23719,13147,92,360,1,,N
+LP100720,Applicant_720,Female,Yes,2,Not Graduate,No,APP1720,19082,7793,569,120,1,Semiurban,N
+LP100721,Applicant_721,Female,No,,Not Graduate,Yes,APP1721,,11126,157,120,0,Urban,
+LP100722,Applicant_722,Male,No,2,Not Graduate,No,APP1722,20484,6020,221,360,0,Rural,Y
+LP100723,Applicant_723,Male,Yes,2,Not Graduate,No,APP1723,9134,,695,360,1,Rural,Y
+LP100724,Applicant_724,Male,Yes,1,Not Graduate,Yes,APP1724,3860,209,,180,0,Urban,
+LP100725,Applicant_725,Male,No,3+,Graduate,No,APP1725,2708,11045,260,240,0,Urban,N
+LP100726,Applicant_726,Female,Yes,2,Not Graduate,Yes,APP1726,,8055,420,120,1,Rural,N
+LP100727,Applicant_727,Male,No,3+,Graduate,Yes,APP1727,17520,11011,210,240,0,Semiurban,N
+LP100728,Applicant_728,Male,Yes,1,Graduate,No,APP1728,22924,,349,360,1,,
+LP100729,Applicant_729,Female,,1,Graduate,,APP1729,2124,6494,502,180,0,Semiurban,Y
+LP100730,Applicant_730,Female,,1,Graduate,,APP1730,16940,7177,,120,1,Rural,N
+LP100731,Applicant_731,Female,Yes,0,Graduate,Yes,APP1731,,8563,,,1,Urban,Y
+LP100732,Applicant_732,Male,Yes,3+,,No,APP1732,3000,10789,151,120,1,Rural,Y
+LP100733,Applicant_733,Female,Yes,0,Graduate,Yes,APP1733,9452,11084,207,240,1,,N
+LP100734,Applicant_734,Female,No,1,Not Graduate,No,APP1734,24480,,422,180,0,Rural,N
+LP100735,Applicant_735,Male,No,2,Not Graduate,Yes,APP1735,22759,1953,392,,0,Urban,Y
+LP100736,Applicant_736,Female,No,0,Graduate,Yes,APP1736,5777,2348,191,180,1,Urban,N
+LP100737,Applicant_737,,Yes,2,Not Graduate,No,APP1737,1970,6468,175,120,0,Semiurban,N
+LP100738,Applicant_738,Female,,0,Not Graduate,No,APP1738,7144,,,,1,Rural,Y
+LP100739,Applicant_739,Female,,3+,Not Graduate,No,APP1739,22231,11387,499,,0,,N
+LP100740,Applicant_740,,No,2,Not Graduate,No,APP1740,3137,9675,475,120,1,Rural,N
+LP100741,Applicant_741,,No,0,Graduate,Yes,APP1741,11570,1666,56,360,1,Urban,N
+LP100742,Applicant_742,Male,Yes,1,Not Graduate,Yes,APP1742,4688,12147,301,240,,Rural,Y
+LP100743,Applicant_743,Female,Yes,1,Graduate,Yes,APP1743,16448,14621,535,240,1,Urban,Y
+LP100744,Applicant_744,Female,Yes,3+,Graduate,Yes,APP1744,21528,2764,399,180,0,,N
+LP100745,Applicant_745,Female,,3+,Graduate,Yes,APP1745,7093,1060,343,360,0,Urban,N
+LP100746,Applicant_746,Female,No,0,Not Graduate,No,APP1746,20867,5959,567,180,1,Semiurban,Y
+LP100747,Applicant_747,Female,No,,Not Graduate,Yes,APP1747,3595,3261,225,360,0,Rural,N
+LP100748,Applicant_748,Male,No,2,Graduate,No,APP1748,4984,5548,137,360,1,Semiurban,Y
+LP100749,Applicant_749,Female,Yes,0,Not Graduate,Yes,APP1749,5241,3281,322,120,,Semiurban,N
+LP100750,Applicant_750,Male,No,0,,Yes,APP1750,17790,9747,431,180,0,Rural,N
+LP100751,Applicant_751,Female,No,1,Graduate,,APP1751,20996,13828,474,240,0,Semiurban,N
+LP100752,Applicant_752,Female,No,,Graduate,Yes,APP1752,21672,6623,,180,1,Rural,
+LP100753,Applicant_753,,No,2,Graduate,Yes,APP1753,8727,,694,360,0,Urban,N
+LP100754,Applicant_754,Male,No,3+,Graduate,Yes,APP1754,3567,3815,301,360,0,Semiurban,
+LP100755,Applicant_755,Female,Yes,0,Graduate,No,APP1755,8140,13731,,,,Urban,N
+LP100756,Applicant_756,Male,Yes,0,Not Graduate,Yes,APP1756,15466,,,120,0,Semiurban,N
+LP100757,Applicant_757,Female,No,1,Graduate,Yes,APP1757,12554,,481,240,1,Urban,N
+LP100758,Applicant_758,Female,No,3+,Not Graduate,,APP1758,23729,8177,283,120,1,Urban,Y
+LP100759,Applicant_759,Male,Yes,0,Graduate,No,APP1759,14673,4563,191,180,1,Urban,N
+LP100760,Applicant_760,Male,No,0,Not Graduate,No,APP1760,12124,12530,489,180,1,Urban,
+LP100761,Applicant_761,,No,3+,Graduate,No,APP1761,5458,,473,240,0,Urban,Y
+LP100762,Applicant_762,Female,Yes,1,Not Graduate,No,APP1762,23916,12549,469,180,1,Urban,N
+LP100763,Applicant_763,Female,No,1,Graduate,No,APP1763,20373,,519,360,0,Semiurban,Y
+LP100764,Applicant_764,,No,2,Graduate,Yes,APP1764,19387,9726,578,180,,Rural,N
+LP100765,Applicant_765,Male,No,2,Graduate,Yes,APP1765,6000,,420,240,0,Urban,N
+LP100766,Applicant_766,Female,No,2,,,APP1766,12037,12391,80,120,,Urban,N
+LP100767,Applicant_767,Male,No,3+,Not Graduate,Yes,APP1767,8487,12935,503,180,1,Semiurban,Y
+LP100768,Applicant_768,Female,No,2,Graduate,Yes,APP1768,,13123,199,120,0,Urban,Y
+LP100769,Applicant_769,Female,Yes,2,,Yes,APP1769,20934,10548,60,120,0,,Y
+LP100770,Applicant_770,Female,No,3+,Graduate,,APP1770,7183,6557,579,360,1,,Y
+LP100771,Applicant_771,Male,No,2,Graduate,,APP1771,12493,5834,,240,1,Semiurban,N
+LP100772,Applicant_772,Male,No,1,Not Graduate,Yes,APP1772,3571,7795,136,120,0,Semiurban,Y
+LP100773,Applicant_773,Male,Yes,0,Graduate,Yes,APP1773,5456,10922,396,360,1,Semiurban,Y
+LP100774,Applicant_774,Male,No,1,Not Graduate,Yes,APP1774,10474,9882,372,180,1,,
+LP100775,Applicant_775,Female,Yes,1,Graduate,No,APP1775,6128,6626,461,120,0,Rural,N
+LP100776,Applicant_776,Male,No,0,Not Graduate,Yes,APP1776,15103,7938,218,120,0,Rural,Y
+LP100777,Applicant_777,Female,Yes,1,Graduate,No,APP1777,,8379,494,180,0,,N
+LP100778,Applicant_778,Male,No,0,Graduate,Yes,APP1778,24316,4569,112,180,0,Urban,N
+LP100779,Applicant_779,Male,No,,Not Graduate,No,APP1779,13621,2414,452,360,0,Semiurban,Y
+LP100780,Applicant_780,Male,No,3+,Not Graduate,No,APP1780,,12582,87,180,,Semiurban,Y
+LP100781,Applicant_781,Female,No,3+,,Yes,APP1781,6906,7448,,180,0,Rural,Y
+LP100782,Applicant_782,Male,Yes,2,Graduate,No,APP1782,15874,,638,240,0,Rural,N
+LP100783,Applicant_783,Male,Yes,3+,Graduate,No,APP1783,9483,2001,109,120,1,Urban,
+LP100784,Applicant_784,Female,No,0,,No,APP1784,20570,,696,180,1,Urban,Y
+LP100785,Applicant_785,Female,No,2,Not Graduate,Yes,APP1785,,,,240,0,Urban,N
+LP100786,Applicant_786,Female,Yes,1,Graduate,Yes,APP1786,5870,8147,352,360,0,Rural,Y
+LP100787,Applicant_787,,Yes,3+,,Yes,APP1787,4775,3781,,360,0,Semiurban,N
+LP100788,Applicant_788,Female,,2,Not Graduate,Yes,APP1788,22215,10295,461,,0,Rural,Y
+LP100789,Applicant_789,Female,Yes,3+,Not Graduate,Yes,APP1789,21568,2205,616,360,1,,N
+LP100790,Applicant_790,Male,Yes,2,Not Graduate,No,APP1790,13825,486,,180,0,Semiurban,N
+LP100791,Applicant_791,Female,Yes,0,Not Graduate,Yes,APP1791,6669,1631,,,,,N
+LP100792,Applicant_792,Male,Yes,0,Not Graduate,No,APP1792,2012,12088,402,180,0,Semiurban,Y
+LP100793,Applicant_793,Female,Yes,1,Graduate,,APP1793,17456,865,58,180,1,Urban,Y
+LP100794,Applicant_794,Male,Yes,2,Not Graduate,Yes,APP1794,4145,13603,336,180,1,Urban,Y
+LP100795,Applicant_795,Male,No,,Not Graduate,Yes,APP1795,1708,1117,590,360,1,Urban,Y
+LP100796,Applicant_796,Male,No,1,Not Graduate,Yes,APP1796,1736,8161,675,180,0,Semiurban,Y
+LP100797,Applicant_797,Female,No,2,Graduate,,APP1797,7379,11110,200,180,1,Semiurban,Y
+LP100798,Applicant_798,Female,Yes,1,,Yes,APP1798,4420,438,463,,1,,N
+LP100799,Applicant_799,Female,Yes,0,Not Graduate,No,APP1799,24658,2934,506,360,1,Rural,N
+LP100800,Applicant_800,Female,Yes,1,Graduate,No,APP1800,22856,6269,260,240,0,,Y
+LP100801,Applicant_801,Male,Yes,2,Graduate,No,APP1801,20955,9905,607,,0,,Y
+LP100802,Applicant_802,Female,No,3+,Not Graduate,No,APP1802,10797,11128,689,120,1,Semiurban,N
+LP100803,Applicant_803,Female,No,0,,Yes,APP1803,15138,5356,683,180,1,Urban,N
+LP100804,Applicant_804,Female,No,2,Not Graduate,No,APP1804,24224,,502,180,1,Urban,
+LP100805,Applicant_805,Male,Yes,2,Graduate,No,APP1805,17097,4960,403,180,0,Rural,Y
+LP100806,Applicant_806,Female,No,1,Not Graduate,,APP1806,24187,10190,464,240,0,Semiurban,Y
+LP100807,Applicant_807,Female,,0,,,APP1807,5658,10211,252,,1,Urban,Y
+LP100808,Applicant_808,Female,No,3+,Not Graduate,No,APP1808,8255,1578,358,,0,Urban,N
+LP100809,Applicant_809,Female,Yes,3+,Not Graduate,No,APP1809,6188,12454,136,120,0,Urban,Y
+LP100810,Applicant_810,Female,Yes,1,Not Graduate,Yes,APP1810,22465,1253,87,120,1,Rural,N
+LP100811,Applicant_811,,Yes,,Not Graduate,Yes,APP1811,10378,,600,240,0,,N
+LP100812,Applicant_812,Female,,3+,Not Graduate,No,APP1812,18640,12314,392,180,1,Urban,Y
+LP100813,Applicant_813,Male,Yes,0,Graduate,No,APP1813,16259,8518,449,120,1,Urban,N
+LP100814,Applicant_814,Male,No,1,Graduate,,APP1814,15001,12575,179,240,,Semiurban,
+LP100815,Applicant_815,Female,Yes,0,Graduate,Yes,APP1815,9339,8064,582,360,,Rural,Y
+LP100816,Applicant_816,Male,Yes,0,Not Graduate,No,APP1816,7219,12988,603,120,1,,Y
+LP100817,Applicant_817,Female,No,0,Graduate,Yes,APP1817,21506,7635,340,240,,Rural,
+LP100818,Applicant_818,Male,No,1,Graduate,,APP1818,24164,3308,268,240,1,Urban,Y
+LP100819,Applicant_819,Female,Yes,1,Not Graduate,Yes,APP1819,2732,4809,,180,0,Urban,Y
+LP100820,Applicant_820,,No,1,Graduate,Yes,APP1820,21038,10847,573,240,1,,Y
+LP100821,Applicant_821,Female,Yes,3+,Graduate,,APP1821,7398,8157,615,240,0,Urban,Y
+LP100822,Applicant_822,Female,Yes,,,No,APP1822,17880,8032,369,,0,Urban,N
+LP100823,Applicant_823,Male,No,0,Graduate,No,APP1823,21555,8270,583,240,1,Semiurban,Y
+LP100824,Applicant_824,Female,Yes,2,Not Graduate,No,APP1824,4384,4287,398,180,1,Urban,N
+LP100825,Applicant_825,Male,No,0,Graduate,No,APP1825,22051,8887,,240,1,Semiurban,N
+LP100826,Applicant_826,,,0,Graduate,No,APP1826,11369,5629,213,360,0,Rural,
+LP100827,Applicant_827,Female,No,0,Not Graduate,Yes,APP1827,12898,13262,73,240,1,Rural,Y
+LP100828,Applicant_828,Male,No,1,Not Graduate,No,APP1828,15222,14084,78,240,1,Semiurban,N
+LP100829,Applicant_829,Female,Yes,3+,Graduate,,APP1829,1649,8856,602,360,1,Urban,N
+LP100830,Applicant_830,Male,No,1,Not Graduate,Yes,APP1830,19775,8955,656,120,,Rural,N
+LP100831,Applicant_831,Female,No,,Not Graduate,Yes,APP1831,,289,314,180,1,Urban,Y
+LP100832,Applicant_832,Male,Yes,2,Graduate,No,APP1832,7788,12516,297,180,1,Rural,Y
+LP100833,Applicant_833,Male,Yes,0,,No,APP1833,5350,517,,120,1,Urban,N
+LP100834,Applicant_834,Female,No,,,Yes,APP1834,18873,7051,482,240,1,Urban,N
+LP100835,Applicant_835,Male,Yes,3+,Not Graduate,Yes,APP1835,4635,14419,567,240,1,Urban,N
+LP100836,Applicant_836,Male,No,0,Graduate,Yes,APP1836,21780,14990,163,120,0,,N
+LP100837,Applicant_837,,No,,Not Graduate,Yes,APP1837,13358,1951,111,240,1,Semiurban,N
+LP100838,Applicant_838,Female,Yes,3+,Not Graduate,No,APP1838,19185,,431,120,1,Rural,
+LP100839,Applicant_839,Female,Yes,3+,Graduate,No,APP1839,18131,7374,315,240,0,Urban,Y
+LP100840,Applicant_840,Female,No,3+,,No,APP1840,8685,5153,692,240,1,Semiurban,N
+LP100841,Applicant_841,Male,No,0,Graduate,No,APP1841,16711,13973,569,360,0,Semiurban,N
+LP100842,Applicant_842,Female,Yes,3+,Graduate,Yes,APP1842,22027,6165,412,120,0,Urban,N
+LP100843,Applicant_843,Female,Yes,3+,Not Graduate,Yes,APP1843,23104,7250,176,180,0,Urban,N
+LP100844,Applicant_844,Female,No,,Graduate,No,APP1844,8319,7531,98,240,0,Urban,Y
+LP100845,Applicant_845,Female,No,2,Graduate,Yes,APP1845,10557,589,177,180,0,,N
+LP100846,Applicant_846,Male,No,,Graduate,No,APP1846,3238,538,,180,1,Rural,Y
+LP100847,Applicant_847,Male,Yes,1,Not Graduate,Yes,APP1847,7847,2897,,180,0,Semiurban,N
+LP100848,Applicant_848,Male,No,2,Not Graduate,No,APP1848,5192,9120,636,360,1,Rural,N
+LP100849,Applicant_849,Female,Yes,2,Graduate,No,APP1849,6389,10803,55,360,1,Rural,N
+LP100850,Applicant_850,Male,Yes,3+,Graduate,Yes,APP1850,23954,14096,514,120,1,Rural,Y
+LP100851,Applicant_851,Male,,1,Not Graduate,Yes,APP1851,17045,12769,397,240,1,Semiurban,N
+LP100852,Applicant_852,Female,No,0,Graduate,Yes,APP1852,17802,4965,291,240,1,Rural,Y
+LP100853,Applicant_853,Male,,1,Graduate,Yes,APP1853,7277,14494,645,240,1,Semiurban,Y
+LP100854,Applicant_854,Male,Yes,2,Not Graduate,No,APP1854,6735,11568,629,240,1,Rural,N
+LP100855,Applicant_855,Female,,3+,Not Graduate,No,APP1855,23459,2689,,120,0,Semiurban,Y
+LP100856,Applicant_856,Male,No,3+,Graduate,Yes,APP1856,2912,,596,240,0,Rural,N
+LP100857,Applicant_857,Female,,3+,Graduate,No,APP1857,,7056,659,240,,Rural,N
+LP100858,Applicant_858,Male,Yes,0,Graduate,Yes,APP1858,22630,2203,289,120,0,,N
+LP100859,Applicant_859,,No,0,Not Graduate,No,APP1859,13433,5119,408,360,0,Rural,Y
+LP100860,Applicant_860,Female,No,,Not Graduate,No,APP1860,10840,11726,356,240,,Urban,N
+LP100861,Applicant_861,Male,,3+,Not Graduate,Yes,APP1861,8367,6374,341,360,0,Rural,N
+LP100862,Applicant_862,Female,No,1,Not Graduate,Yes,APP1862,15743,7986,636,360,1,Rural,Y
+LP100863,Applicant_863,Female,Yes,3+,Graduate,No,APP1863,9737,12517,193,240,0,Semiurban,Y
+LP100864,Applicant_864,Female,No,,Graduate,,APP1864,12454,1792,436,180,1,Rural,Y
+LP100865,Applicant_865,Female,No,1,Not Graduate,Yes,APP1865,21711,,582,180,0,Semiurban,Y
+LP100866,Applicant_866,,Yes,0,Graduate,Yes,APP1866,16348,11059,,240,1,Semiurban,Y
+LP100867,Applicant_867,Male,Yes,3+,,Yes,APP1867,2919,8037,157,,1,Semiurban,N
+LP100868,Applicant_868,Female,Yes,2,Not Graduate,Yes,APP1868,4921,10814,385,120,0,Rural,Y
+LP100869,Applicant_869,Male,No,3+,Graduate,No,APP1869,3218,9073,,240,1,Urban,
+LP100870,Applicant_870,Male,,3+,,No,APP1870,19108,11229,646,120,1,Rural,Y
+LP100871,Applicant_871,Male,Yes,2,Not Graduate,No,APP1871,7263,8837,247,,0,Semiurban,N
+LP100872,Applicant_872,Male,No,2,Not Graduate,No,APP1872,6678,9375,419,240,1,Semiurban,N
+LP100873,Applicant_873,Female,No,,Graduate,No,APP1873,2452,7697,515,240,1,Semiurban,Y
+LP100874,Applicant_874,Male,Yes,2,Not Graduate,Yes,APP1874,,7797,150,180,0,Semiurban,
+LP100875,Applicant_875,Female,No,1,Not Graduate,Yes,APP1875,18372,9211,200,180,0,Urban,
+LP100876,Applicant_876,Male,No,0,Graduate,Yes,APP1876,5303,13997,485,240,,Urban,N
+LP100877,Applicant_877,Male,Yes,2,Not Graduate,Yes,APP1877,3821,2560,471,360,0,Rural,N
+LP100878,Applicant_878,Female,Yes,1,Not Graduate,Yes,APP1878,9210,8301,,120,0,Urban,N
+LP100879,Applicant_879,,Yes,0,Not Graduate,No,APP1879,16075,913,144,360,1,Semiurban,N
+LP100880,Applicant_880,Female,No,2,,Yes,APP1880,20921,6412,113,180,,,Y
+LP100881,Applicant_881,Female,Yes,0,Not Graduate,No,APP1881,20497,4315,485,120,0,Rural,Y
+LP100882,Applicant_882,Male,No,3+,Graduate,No,APP1882,12181,8105,183,240,0,Rural,
+LP100883,Applicant_883,,No,2,Graduate,No,APP1883,15231,9683,537,180,1,Urban,N
+LP100884,Applicant_884,Female,No,1,Not Graduate,Yes,APP1884,8012,6189,269,120,0,Urban,Y
+LP100885,Applicant_885,Male,No,1,Graduate,No,APP1885,23679,10107,506,180,1,Semiurban,N
+LP100886,Applicant_886,Male,Yes,0,Graduate,Yes,APP1886,12172,11083,129,180,1,Semiurban,Y
+LP100887,Applicant_887,Female,Yes,1,Graduate,Yes,APP1887,9038,5779,428,360,,Semiurban,N
+LP100888,Applicant_888,Female,Yes,1,Not Graduate,No,APP1888,5108,12557,588,360,0,Rural,N
+LP100889,Applicant_889,Female,No,2,Graduate,No,APP1889,12186,4660,462,360,0,Rural,N
+LP100890,Applicant_890,Female,No,0,,No,APP1890,,5250,,240,1,Urban,Y
+LP100891,Applicant_891,Female,Yes,1,Graduate,No,APP1891,4713,1006,622,,,Semiurban,N
+LP100892,Applicant_892,Female,Yes,3+,Graduate,Yes,APP1892,9269,461,581,360,0,Urban,N
+LP100893,Applicant_893,Female,Yes,,Not Graduate,Yes,APP1893,,9674,,180,1,Urban,N
+LP100894,Applicant_894,Male,Yes,1,Graduate,Yes,APP1894,8052,739,320,240,1,Rural,Y
+LP100895,Applicant_895,Female,Yes,1,Graduate,No,APP1895,,2100,648,180,1,Semiurban,Y
+LP100896,Applicant_896,Female,Yes,1,Not Graduate,Yes,APP1896,8730,13712,560,240,1,Urban,N
+LP100897,Applicant_897,Male,No,,Not Graduate,Yes,APP1897,3909,6003,,120,1,Rural,Y
+LP100898,Applicant_898,Male,No,2,Graduate,,APP1898,16933,5715,500,120,0,Semiurban,N
+LP100899,Applicant_899,,Yes,0,Not Graduate,Yes,APP1899,20672,13263,551,240,1,Semiurban,Y
+LP100900,Applicant_900,Female,Yes,2,Not Graduate,Yes,APP1900,17373,12157,,120,1,Semiurban,Y
+LP100901,Applicant_901,,No,1,,No,APP1901,3280,9567,216,240,1,Rural,
+LP100902,Applicant_902,,Yes,1,Graduate,Yes,APP1902,,440,197,360,1,,Y
+LP100903,Applicant_903,Male,No,3+,Graduate,Yes,APP1903,6249,12536,567,360,0,Urban,Y
+LP100904,Applicant_904,Female,Yes,2,Not Graduate,,APP1904,,14603,180,120,1,Rural,Y
+LP100905,Applicant_905,Female,No,1,Graduate,No,APP1905,21469,10242,546,180,1,Semiurban,N
+LP100906,Applicant_906,Male,Yes,3+,Graduate,,APP1906,16409,,518,120,0,Rural,Y
+LP100907,Applicant_907,Male,No,0,Graduate,Yes,APP1907,7334,6235,182,180,1,Rural,Y
+LP100908,Applicant_908,Female,No,0,Graduate,Yes,APP1908,14192,1594,575,240,1,Rural,N
+LP100909,Applicant_909,Female,Yes,0,Graduate,Yes,APP1909,13738,7014,591,120,0,Semiurban,
+LP100910,Applicant_910,Male,No,1,Graduate,No,APP1910,5969,5654,170,,1,Rural,
+LP100911,Applicant_911,Female,No,1,Graduate,Yes,APP1911,16499,5855,267,180,,Rural,N
+LP100912,Applicant_912,Male,Yes,0,,Yes,APP1912,7862,6749,516,240,1,Rural,Y
+LP100913,Applicant_913,Male,No,3+,Graduate,,APP1913,22210,5755,534,,0,Urban,N
+LP100914,Applicant_914,Female,No,0,Graduate,Yes,APP1914,13250,924,,360,0,Urban,N
+LP100915,Applicant_915,Male,Yes,2,Not Graduate,No,APP1915,10337,10833,210,360,0,Semiurban,Y
+LP100916,Applicant_916,Male,Yes,1,Graduate,No,APP1916,,4001,622,240,1,Semiurban,
+LP100917,Applicant_917,Male,Yes,,Not Graduate,Yes,APP1917,12506,4056,428,240,0,Semiurban,Y
+LP100918,Applicant_918,Female,Yes,2,,Yes,APP1918,5668,3844,171,120,0,Rural,
+LP100919,Applicant_919,Female,No,,Not Graduate,No,APP1919,2551,10618,666,240,0,Semiurban,N
+LP100920,Applicant_920,Male,No,2,Graduate,No,APP1920,24182,5113,468,180,1,,N
+LP100921,Applicant_921,Female,,0,Graduate,No,APP1921,20134,9708,162,180,1,Rural,N
+LP100922,Applicant_922,Male,,0,Not Graduate,,APP1922,3454,1391,,120,0,,N
+LP100923,Applicant_923,Male,Yes,1,Not Graduate,,APP1923,10694,14915,428,180,,Semiurban,Y
+LP100924,Applicant_924,,,1,Not Graduate,No,APP1924,5972,11272,635,180,1,Rural,Y
+LP100925,Applicant_925,Female,Yes,0,Graduate,Yes,APP1925,5140,1073,346,180,,Rural,N
+LP100926,Applicant_926,Female,No,2,Graduate,No,APP1926,16754,,91,240,1,Urban,Y
+LP100927,Applicant_927,Male,No,0,Not Graduate,No,APP1927,16526,4995,585,180,0,Urban,N
+LP100928,Applicant_928,Male,Yes,2,Graduate,Yes,APP1928,15204,1875,206,360,0,Rural,N
+LP100929,Applicant_929,Male,Yes,3+,Graduate,Yes,APP1929,,5531,170,240,1,Semiurban,N
+LP100930,Applicant_930,Female,No,0,,No,APP1930,12758,2781,430,180,0,Urban,N
+LP100931,Applicant_931,Female,,2,,No,APP1931,,322,362,180,,Rural,Y
+LP100932,Applicant_932,Male,No,2,Not Graduate,No,APP1932,11171,8821,433,180,1,Semiurban,N
+LP100933,Applicant_933,Female,No,2,Not Graduate,Yes,APP1933,21279,5343,360,360,0,Urban,Y
+LP100934,Applicant_934,Female,No,,Graduate,Yes,APP1934,6637,612,351,180,1,Semiurban,Y
+LP100935,Applicant_935,Female,No,1,Graduate,Yes,APP1935,22405,7551,547,180,1,Rural,
+LP100936,Applicant_936,Female,Yes,3+,Not Graduate,Yes,APP1936,21538,10776,78,120,1,,Y
+LP100937,Applicant_937,Male,Yes,3+,Not Graduate,Yes,APP1937,7068,14145,196,240,1,Semiurban,N
+LP100938,Applicant_938,,No,,Graduate,No,APP1938,,,195,240,1,Semiurban,N
+LP100939,Applicant_939,Male,Yes,1,Graduate,No,APP1939,19612,,653,360,1,Urban,Y
+LP100940,Applicant_940,Male,Yes,2,Graduate,No,APP1940,9026,8433,481,180,0,Rural,Y
+LP100941,Applicant_941,Male,No,,Graduate,No,APP1941,4333,14768,99,360,0,Rural,N
+LP100942,Applicant_942,Female,Yes,1,Not Graduate,No,APP1942,14990,6900,362,120,1,Rural,Y
+LP100943,Applicant_943,Female,Yes,3+,Graduate,No,APP1943,18597,4368,340,360,0,Urban,Y
+LP100944,Applicant_944,Male,Yes,2,,Yes,APP1944,17530,334,270,240,0,Rural,
+LP100945,Applicant_945,Female,Yes,2,Graduate,No,APP1945,8592,11402,237,,0,,Y
+LP100946,Applicant_946,Male,No,1,Not Graduate,No,APP1946,20884,7695,550,120,,Rural,Y
+LP100947,Applicant_947,,No,,Graduate,No,APP1947,17015,9633,52,360,1,Urban,Y
+LP100948,Applicant_948,Male,No,,Graduate,,APP1948,16663,364,175,120,0,Urban,
+LP100949,Applicant_949,Female,No,3+,Graduate,,APP1949,,5185,610,360,,Rural,N
+LP100950,Applicant_950,Female,Yes,0,Not Graduate,No,APP1950,1975,6188,407,180,1,Semiurban,Y
+LP100951,Applicant_951,Female,Yes,1,Graduate,Yes,APP1951,15528,9344,119,240,1,Urban,Y
+LP100952,Applicant_952,Female,No,2,Graduate,Yes,APP1952,9582,6394,95,240,1,Urban,
+LP100953,Applicant_953,Female,No,,Not Graduate,Yes,APP1953,9620,5282,477,360,0,Rural,Y
+LP100954,Applicant_954,Male,Yes,0,,Yes,APP1954,,9380,542,360,1,Rural,Y
+LP100955,Applicant_955,Male,No,3+,,No,APP1955,15729,1601,636,360,1,,N
+LP100956,Applicant_956,Female,Yes,1,Graduate,Yes,APP1956,,,,120,1,Rural,Y
+LP100957,Applicant_957,Male,Yes,2,Not Graduate,Yes,APP1957,8787,8001,629,360,0,Rural,N
+LP100958,Applicant_958,Female,Yes,0,Graduate,,APP1958,20891,1639,513,,1,Semiurban,Y
+LP100959,Applicant_959,Male,No,1,Not Graduate,No,APP1959,6381,11319,395,360,0,Urban,Y
+LP100960,Applicant_960,Male,Yes,2,Not Graduate,Yes,APP1960,20299,11061,436,,1,Urban,N
+LP100961,Applicant_961,Female,Yes,2,Not Graduate,No,APP1961,1666,3373,,360,0,Rural,
+LP100962,Applicant_962,Female,Yes,1,Graduate,No,APP1962,15189,5504,670,240,0,Urban,N
+LP100963,Applicant_963,Female,Yes,0,Not Graduate,Yes,APP1963,2949,8138,185,120,1,Rural,N
+LP100964,Applicant_964,Male,Yes,,Graduate,Yes,APP1964,2812,8237,191,240,0,Rural,N
+LP100965,Applicant_965,Male,Yes,3+,Not Graduate,Yes,APP1965,16922,13294,566,,1,Semiurban,N
+LP100966,Applicant_966,Male,,0,Not Graduate,No,APP1966,18022,,,120,1,Semiurban,N
+LP100967,Applicant_967,Male,,2,Graduate,No,APP1967,2601,,,240,0,,Y
+LP100968,Applicant_968,Female,Yes,1,Graduate,Yes,APP1968,15449,5563,,120,0,,Y
+LP100969,Applicant_969,Female,Yes,1,Not Graduate,No,APP1969,18903,2730,202,120,0,Urban,Y
+LP100970,Applicant_970,Male,No,0,Not Graduate,No,APP1970,14421,10073,383,120,1,Semiurban,Y
+LP100971,Applicant_971,Male,No,2,,No,APP1971,17204,4907,141,120,1,Rural,
+LP100972,Applicant_972,Male,Yes,2,Graduate,Yes,APP1972,24327,5952,689,180,1,Urban,N
+LP100973,Applicant_973,,Yes,0,Graduate,Yes,APP1973,4711,7143,,120,0,Semiurban,Y
+LP100974,Applicant_974,,,0,Graduate,No,APP1974,16325,3305,469,,0,Urban,N
+LP100975,Applicant_975,Female,Yes,0,Graduate,No,APP1975,17729,8142,,,0,Rural,Y
+LP100976,Applicant_976,Female,No,3+,Graduate,No,APP1976,9381,,288,360,,Semiurban,Y
+LP100977,Applicant_977,Female,Yes,3+,Not Graduate,Yes,APP1977,4222,13882,,120,0,Urban,N
+LP100978,Applicant_978,Male,No,3+,,Yes,APP1978,19800,12896,397,120,,Rural,N
+LP100979,Applicant_979,Female,No,1,Not Graduate,Yes,APP1979,1907,1234,603,360,1,Urban,N
+LP100980,Applicant_980,Male,,,Not Graduate,No,APP1980,24213,,96,360,0,,N
+LP100981,Applicant_981,Female,No,3+,Not Graduate,No,APP1981,14824,13931,503,240,1,Rural,Y
+LP100982,Applicant_982,Female,Yes,3+,Graduate,No,APP1982,8643,8779,334,240,0,Rural,Y
+LP100983,Applicant_983,Female,,,Graduate,No,APP1983,5848,3507,140,180,0,Urban,Y
+LP100984,Applicant_984,Male,No,3+,Not Graduate,,APP1984,13244,4708,,360,0,Semiurban,Y
+LP100985,Applicant_985,Female,No,0,Not Graduate,Yes,APP1985,11192,4344,75,,0,Semiurban,Y
+LP100986,Applicant_986,,No,,Not Graduate,No,APP1986,9333,778,635,,1,Rural,Y
+LP100987,Applicant_987,Female,Yes,1,Not Graduate,Yes,APP1987,22721,4871,695,180,0,Rural,
+LP100988,Applicant_988,Female,Yes,1,Not Graduate,No,APP1988,4473,9396,366,120,,Rural,Y
+LP100989,Applicant_989,Male,No,3+,Not Graduate,No,APP1989,2021,,624,240,0,Urban,Y
+LP100990,Applicant_990,Female,No,0,Not Graduate,,APP1990,17221,13182,176,240,0,Rural,
+LP100991,Applicant_991,Male,Yes,0,Graduate,No,APP1991,23422,3700,622,240,1,Rural,Y
+LP100992,Applicant_992,Female,No,2,Not Graduate,Yes,APP1992,11488,10232,137,180,,,N
+LP100993,Applicant_993,Female,No,,Not Graduate,No,APP1993,6801,12171,247,360,0,Rural,Y
+LP100994,Applicant_994,Male,No,,Graduate,No,APP1994,24545,1506,683,120,0,Urban,Y
+LP100995,Applicant_995,Female,No,2,Not Graduate,Yes,APP1995,16549,,604,360,1,,Y
+LP100996,Applicant_996,Female,No,0,Not Graduate,Yes,APP1996,20190,13831,640,120,1,,N
+LP100997,Applicant_997,Male,Yes,0,Not Graduate,No,APP1997,20625,,104,360,1,,N
+LP100998,Applicant_998,,No,2,Not Graduate,,APP1998,2299,1552,633,,1,Rural,
+LP100999,Applicant_999,Female,No,1,Not Graduate,Yes,APP1999,16404,9697,584,240,1,Semiurban,N
